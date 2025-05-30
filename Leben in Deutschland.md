@@ -1,7 +1,8 @@
+ <a id="referecnce"></a>
  ß   € ä Ä ö Ö ü Ü
  
  # Leben in Deutschland ([reference](https://oet.bamf.de/ords/oetut/f?p=534:1::::::))
- <a id="referecnce"></a>
+ 
   
  |#|#|#|#|#|#|#|#|#|#|
  |-|-|-|-|-|-|-|-|-|-|
