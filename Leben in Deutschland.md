@@ -16,7 +16,7 @@
 1. hier Religionsfreiheit gilt.
 2. die Menschen Steuern zahlen.
 3. die Menschen das Wahlrecht haben.
-4. hier Meinungsfreiheit gilt. ✔️ 
+4. ✔️ hier Meinungsfreiheit gilt. 
  
 
 <div dir="rtl">
@@ -39,60 +39,294 @@
 1. آزادی مذهبی اینجا مصداق دارد.
 2. مردم مالیات می‌دهند
 3. مردم حق رأی دارند
-4. آزادی بیان اینجا مصداق پیدا می‌کند.
+4. ✔️ آزادی بیان اینجا مصداق پیدا می‌کند. 
 
 </div>
 
 
 ## Frage 002 
 [ :top: ](#referecnce)
-**In Deutchland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schuke am**
+**In Deutchland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am**
 1. Geschichtsunterricht teilnimmt.
-2. Religionsunterricht teilnimmt.
+2. ✔️ Religionsunterricht teilnimmt. 
 3. Politikunterricht teilnimmt.
 4. Sprachunterricht teilnimmt.
 
 
+<div dir="rtl">
 
+| English | Deutsch | فارسی
+|-|-|-|
+|Age|Lebensjahr|سن
+|decide|entscheiden|تصمیم گرفتن
+|if|ob|اگر
+|participates|teilnimmt(teilnehmen)|شرکت کردن
+|History lessons|Geschichtsun-terricht|کلاس تاریخ
+|Religious education|Religionsun-terricht|کلاس دینی
+|Political education|Politikun-terricht|کلاس سیاست
+|Language lessons|Sprachun-terricht|کلاس زبان
+
+در آلمان، والدین می‌توانند تا 14 سالگی فرزندشان تصمیم بگیرند که آیا در مدرسه ...
+1. در کلاس‌های تاریخ شرکت می‌کند.
+2. ✔️ در کلاس‌های آموزش دینی شرکت می‌کند. 
+3. در کلاس‌های سیاست شرکت می‌کند.
+4. در کلاس‌های زبان شرکت می‌کند.
+
+</div>
 
 ## Frage 003 
 [ :top: ](#referecnce)
-**Deutschland ist ein Rechtssataat. Was ist damit gemeint?**
-1. Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.
+**Deutschland ist ein Rechtsstaat. Was ist damit gemeint?**
+1. ✔️ Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten. 
 2. Der Staat muss sich nicht an die Gesetze halten.
 3. Nur Deutsche müssen die Gesetze befolgen.
 4. Die Gerichte machen die Gesetze.
 
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|Constitutional state|Rechtsstaat|مبتنی بر قانون (مشروطه)
+|by this|damit|
+|meant|gemeint(meinen)|معنی دادن
+|Residents|Einwohner|ساکن (جمعیت)
+|State|Staat|ایالت
+|Laws|Gesetze (Gesetz)|قوانین
+|abide by|halten|رعایت کردن
+|follow|befolgen|پیروی کردن
+|courts|Gerichte (Gericht)|دادگاه ها
+
+آلمان یک کشور مبتنی بر قانون اساسی است. این به چه معناست؟
+1. ✔️ همه ساکنان و دولت باید از قوانین پیروی کنند. 
+2. دولت مجبور به رعایت قوانین نیست.
+3. فقط آلمانی‌ها باید از قوانین پیروی کنند.
+4. دادگاه‌ها قوانین را وضع می‌کنند.
+
+</div>
 
 
 ## Frage 004 
 [ :top: ](#referecnce)
+**Welches Recht gehört zu den Grundrechten in Deutschland? **
+1. Waffenbesitz
+2. Faustrecht
+3. ✔️ Meinungsfreiheit
+4. Selbstjustiz
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|right|Recht|حق
+|belongs to|gehört (Hören)|شنیدن (متعلق به)
+|Basic rights|Grundrechten|حقوق اساسی
+|Weapons ownership|Waffenbesitz|مالکیت اسلحه
+|Fist law|Faustrecht|قانون جنگل
+|Vigilante justice|Selbstjustiz|عدالت خودجوش (خودسرانه)
+
+کدام حق، جزو حقوق اساسی در آلمان است؟
+1. مالکیت اسلحه
+2. قانون جنگل
+3. ✔️ آزادی بیان 
+4. عدالت خودجوش (خودسرانه)
+
+</div>
 
 
 
 ## Frage 005 
 [ :top: ](#referecnce)
+**Wahlen in Deutschland sind frei. Was bedeutet das?**
+1. Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten 
+   / eine bestimmte Kandidatin wählt.
+2. Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.
+3. ✔️ Der Wähler darf bei der Wahl weder beeinflusst
+   noch zu einer bestimmten Stimmabgabe gezwungen 
+   werden und keine Nachteile durch die Wahl haben.
+4. Alle wahlberechtigten Personen müssen wählen.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|Elections|Wahlen|انتخابات
+|accept|an-nehmen|قبول کردن
+|for this|dafür|برای اینکه
+|be in favor|dafür sein|طرفدار بودن
+|certain|bestimmt|مشخص، خاص
+|male/female Candidates|Kandidaten/Kandidatin|نامزهای مرد/زن
+|select |wählt (Wählen)|انتخاب کردن
+|Only,Just|Nur|فقط
+|Prison|Gefängnis|زندان
+|voters|Wähler|رأی دهندگان
+|vote |Wahl |رأی
+|neither |weder|هیچکدام
+|beeinflusst|beeinflusst|تحت تاثیر قرار گرفته
+|voting|Stimmabgabe|رأی گیری
+|be forced|gezwungen werden|مجبور شدن به
+|disadvantages|Nachteile|معایب
+|eligible voters|wahlberechtigten|رأی‌دهندگان واجد شرایط
+
+انتخابات در آلمان آزاد است؟ این یعنی چه؟
+1. اگر به یک نامزد خاص رأی دهید، مجاز به دریافت پول هستید.
+2. فقط افرادی که هرگز به زندان نرفته‌اند، مجاز به رأی دادن هستند.
+3. ✔️ رأی‌دهنده ممکن است در انتخابات تحت تأثیر قرار نگیرد
+   یا مجبور به رأی دادن به شیوه‌ای خاص نشود
+   و ممکن است در نتیجه انتخابات متحمل هیچ گونه ضرر و زیانی نشود. 
+4. همه واجدین شرایط باید رأی بدهند.
+
+</div>
 
 
 
 ## Frage 006 
 [ :top: ](#referecnce)
+**Wie heißt die deutsche Verfassung?**
+1. Volksgesetz
+2. Bundesgesetz
+3. Deutsches Gesetz
+4. ✔️ Grundgesetz
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|Constitution|Verfassung|قانون اساسی
+|People's law|Volksgesetz|قانون مردم
+|Federal law|Bundesgesetz|قانون فدرال
+|Basic Law|Grundgesetz|قانون پایه
+
+نام قانون اساسی آلمان چیست؟
+1. قانون مردم
+2. قانون فدرال
+3. قانون آلمان
+4. ✔️ قانون پایه
+
+</div>
 
 
 
 ## Frage 007 
 [ :top: ](#referecnce)
+**Welches Recht gehört zu den Grundrechten, 
+  die nach der deutschen Verfassung garantiert werden? Das Resht auf...**
+1. ✔️ Glaubens- und Gewissensfreiheit.
+2. Unterhaltung.
+3. Arbeit.
+4. Wohnung.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|fundamental right|Grundrechten|حقوق اساسی
+|be guaranteed|garantiert werden|تضمین شده باشد
+|freedom of conscience|Gewissensfreiheit|آزادی وجدان
+|Freedom of belief|Glaubensfreiheit|آزادی عقیده
+|Entertainment|Unterhaltung|سرگرمی
+
+کدام حق، یکی از حقوق اساسی تضمین شده در قانون اساسی آلمان است؟ حقِ...
+1. ✔️ آزادی عقیده و وجدان.
+2. سرگرمی
+3. کار
+4. مسکن
+
+</div>
 
 
 
 ## Frage 008 
 [ :top: ](#referecnce)
-**Test**
+** **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
 
 
 ## Frage 009 
 [ :top: ](#referecnce)
+** **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
 
 ## Frage 010 
 [ :top: ](#referecnce)
+** **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+
+## Frage ??? 
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
 
