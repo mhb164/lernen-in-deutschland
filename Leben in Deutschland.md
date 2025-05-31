@@ -237,24 +237,29 @@
 
 ## Frage 008 
 [ :top: ](#referecnce)
-** **
-1. 
-2.
-3.
-4.
+**Was steht nicht im Grundgesetz von Deutschland?**
+1. Die Würde des Menschen ist unantastbar.
+2. ✔️ Alle sollen gleich viel Geld haben.
+3. Jeder Mensch darf seine Meinung sagen.
+4. Alle sind vor dem Gesetz gleich.
 
 <div dir="rtl">
 
 | English | Deutsch | فارسی
 |-|-|-|
-|||
-|||
+|stands|steht (stehen)|ایستادن، وجود داشتن
+|Human dignity|Würde des Menschen|کرامت انسانی
+|untouchable|unantastbar|مصون از تعرض
+|be supposed to|sollen|باید
+|equivalent |gleich|به یک اندازه
+|every human being|Jeder Mensch|هر فرد
+|opinion |Meinung|نظر
 
-سوال
-1. 
-2.
-3.
-4.
+چه مواردی در قانون اساسی آلمان وجود ندارد؟
+1. کرامت انسانی خدشه‌ناپذیر است.
+2. ✔️ همه باید به یک اندازه پول داشته باشند.
+3. هر کسی اجازه دارد نظر خود را بیان کند.
+4. همه در برابر قانون برابرند.
 
 </div>
 
@@ -262,47 +267,51 @@
 
 ## Frage 009 
 [ :top: ](#referecnce)
-** **
-1. 
-2.
-3.
-4.
+**Welches Grundrecht gilt in Deutschland nur für Ausländer/Ausländerinnen? Das Grundrecht auf**
+1. Schutz der Familie
+2. Menschenwürde
+3. ✔️ Asyl
+4. Meinungsfreiheit
 
 <div dir="rtl">
 
 | English | Deutsch | فارسی
 |-|-|-|
-|||
-|||
+|protection|Schutz|حفاظت
+|Human dignity|Menschenwürde|کرامت انسانی
+|Asylum|Asyl|پناهندگی
 
-سوال
-1. 
-2.
-3.
-4.
+کدام حق اساسی فقط برای خارجی‌ها در آلمان اعمال می‌شود؟ حق اساسی برای
+1. حفاظت از خانواده
+2. کرامت انسانی
+3. ✔️ پناهندگی
+4. آزادی بیان
 
 </div>
 
 ## Frage 010 
 [ :top: ](#referecnce)
-** **
-1. 
-2.
-3.
-4.
+**Was ist mit dem deutschen Grundgesetz vereinbar?**
+1. die Prügelstrafe
+2. die Folter
+3. die Todesstrafe
+4. ✔️ die Geldstrafe
 
 <div dir="rtl">
 
 | English | Deutsch | فارسی
 |-|-|-|
-|||
-|||
+|compatible|vereinbar|سازگار
+|Corporal punishment|Prügelstrafe|تنبیه بدنی
+|torture|die Folter|
+|Death penalty|Todesstrafe|مجازات اعدام
+|penalty|Geldstrafe|جریمه
 
-سوال
-1. 
-2.
-3.
-4.
+چه چیزی با قانون اساسی آلمان سازگار است؟
+1. تنبیه بدنی
+2. شکنجه
+3. مجازات اعدام
+4. ✔️ جریمه
 
 </div>
 
