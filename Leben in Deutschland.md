@@ -1,13 +1,12 @@
  <a id="referecnce"></a>
- ß   € ä Ä ö Ö ü Ü
- 
+  
  # Leben in Deutschland ([reference](https://oet.bamf.de/ords/oetut/f?p=534:1::::::))
  
   
  |#|#|#|#|#|#|#|#|#|#|
  |-|-|-|-|-|-|-|-|-|-|
  |[001](#frage-001)|[002](#frage-002)|[003](#frage-003)|[004](#frage-004)|[005](#frage-005)|[006](#frage-006)|[007](#frage-007)|[008](#frage-008)|[009](#frage-009)|[010](#frage-010)|
- |[011](#Q011)|[012](#Q012)|[013](#Q013)|[014](#Q014)|[015](#Q015)|[016](#Q016)|[017](#Q017)|[018](#Q018)|[019](#Q019)|[020](#Q020)|
+ |[011](#frage-011)|[012](#frage-012)|[013](#frage-013)|[014](#frage-014)|[015](#frage-015)|[016](#frage-016)|[017](#frage-017)|[018](#frage-018)|[019](#frage-019)|[020](#frage-020)|
  
 ## Frage 001 
 [ :top: ](#referecnce)
@@ -315,6 +314,126 @@
 
 </div>
 
+
+## Frage 011 
+[ :top: ](#referecnce)
+**Wie wird die Verfassung der Bundesrepublik Deutschland genannt?**
+1. ✔️ Grundgesetz
+2. Bundesverfassung
+3. Gesetzbuch
+4. Verfassungsvertrag
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|becomes|wird ()|میشود
+|called|genannt (nennen)|نامیدن
+|Federal Republic|Bundesrepublik|جمهوری فدرال
+|Federal Constitution|Bundesverfassung|قانون اساسی فدرال
+|Basic Law|Gesetzbuch|قانون اساسی
+|Constitutional Treaty|Verfassungsvertrag|پیمان قانون اساسی
+
+
+قانون اساسی جمهوری فدرال آلمان چه نام دارد؟
+1. ✔️ قانون اساسی
+2. قانون اساسی فدرال
+3. قانون
+4. پیمان قانون اساسی
+
+</div>
+
+## Frage 012 
+[ :top: ](#referecnce)
+**Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?**
+1. Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.
+2. Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.
+3. ✔️ Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.
+4. Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+یک حزب در مجلس فدرال آلمان می‌خواهد آزادی مطبوعات را لغو کند. آیا این ممکن است؟
+1. بله، اگر بیش از نیمی از اعضای بوندستاگ موافق باشند.
+2. بله، اما دو سوم اعضای بوندستاگ باید موافق آن باشند.
+3. ✔️ نه، زیرا آزادی مطبوعات یک حق اساسی است. نمی‌توان آن را لغو کرد.
+4. نه، زیرا فقط شورای فدرال می‌تواند آزادی مطبوعات را لغو کند.
+
+</div>
+
+## Frage 013 
+[ :top: ](#referecnce)
+**Im Parlament steht der Begriff "Opposition" für**
+1. die regierenden Parteien.
+2. die Fraktion mit den meisten Abgeordneten.
+3. alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.
+4. ✔️ alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در پارلمان، اصطلاح «اپوزیسیون» مخفف ...
+1. احزاب حاکم.
+2. گروهی که بیشترین عضو را دارد.
+3. تمام احزابی که در انتخابات گذشته به مانع ۵٪ رسیدند.
+4. ✔️ تمام نمایندگان مجلس که به حزب (های) حاکم تعلق ندارند.
+
+</div>
+
+## Frage 014 
+[ :top: ](#referecnce)
+**Meinungsfreiheit in Deutschland heißt zum Beispiel, dass ich**
+1. Passanten auf der Straße beschimpfen darf
+2. ✔️ meine Meinung im Internet äußern kann
+3. Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf
+4. meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+آزادی بیان در آلمان به این معنی است که، برای مثال، من
+1. ممکن است در خیابان به رهگذران توهین کند
+2. ✔️ می‌توانم نظرم را در اینترنت بیان کنم
+3. ممکن است در ملاء عام نمادهای نازی، حماس یا دولت اسلامی را بپوشند
+4. من فقط می‌توانم نظر خودم را بیان کنم، تا زمانی که با دولت در تضاد نباشد.
+
+</div>
+
+## Frage ??? 
+[ :top: ](#referecnce)
+**Was verbietet das deutsche Grundgesetz?**
+1. Militärdienst
+2. ✔️ Zwangsarbeit
+3. freie Berufswahl
+4. Arbeit im Ausland
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+قانون اساسی آلمان چه چیزهایی را ممنوع می‌کند؟
+1. خدمت سربازی
+2. ✔️ کار اجباری
+3. انتخاب آزاد حرفه
+4. کار در خارج از کشور
+
+</div>
 
 ## Frage ??? 
 [ :top: ](#referecnce)
