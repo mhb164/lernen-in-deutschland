@@ -7,6 +7,7 @@
  |-|-|-|-|-|-|-|-|-|-|
  |[001](#frage-001)|[002](#frage-002)|[003](#frage-003)|[004](#frage-004)|[005](#frage-005)|[006](#frage-006)|[007](#frage-007)|[008](#frage-008)|[009](#frage-009)|[010](#frage-010)|
  |[011](#frage-011)|[012](#frage-012)|[013](#frage-013)|[014](#frage-014)|[015](#frage-015)|[016](#frage-016)|[017](#frage-017)|[018](#frage-018)|[019](#frage-019)|[020](#frage-020)|
+ |[021](#frage-021)|[022](#frage-022)|[023](#frage-023)|[024](#frage-024)|[025](#frage-025)|[026](#frage-026)|[027](#frage-027)|[028](#frage-028)|[029](#frage-029)|[030](#frage-030)|
  
 ## Frage 001 
 [ :top: ](#referecnce)
@@ -412,7 +413,7 @@
 
 </div>
 
-## Frage ??? 
+## Frage 015 
 [ :top: ](#referecnce)
 **Was verbietet das deutsche Grundgesetz?**
 1. Militärdienst
@@ -432,6 +433,352 @@
 2. ✔️ کار اجباری
 3. انتخاب آزاد حرفه
 4. کار در خارج از کشور
+
+</div>
+
+## Frage 016 
+[ :top: ](#referecnce)
+**Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?**
+1. ✔️ bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen
+2. bei Meinungsäußerungen über die Bundesregierung
+3. bei Diskussionen über Religionen
+4. bei Kritik am Staat
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه زمانی آزادی بیان در آلمان محدود می‌شود؟
+1. ✔️ در انتشار عمومی ادعاهای دروغین درباره افراد
+2. هنگام ابراز نظرات در مورد دولت فدرال
+3. در بحث‌های مربوط به ادیان
+4. هنگام انتقاد از دولت
+
+</div>
+
+## Frage 017 
+[ :top: ](#referecnce)
+**Die deutschen Gesetze verbieten...**
+1. Meinungsfreiheit der Einwohner und Einwohnerinnen.
+2. Petitionen der Bürger und Bürgerinnen.
+3. Versammlungsfreiheit der Einwohner und Einwohnerinnen.
+4. ✔️ Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+طبق قانون آلمان، ... ممنوع است.
+1. آزادی بیان برای ساکنان.
+2. دادخواست‌های شهروندان.
+3. آزادی تجمع برای ساکنان.
+4. ✔️ رفتار نابرابر دولت با شهروندان.
+
+</div>
+
+
+## Frage 018 
+[ :top: ](#referecnce)
+**Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?**
+1. ✔️ die Unantastbarkeit der Menschenwürde
+2. das Recht auf Leben
+3. Religionsfreiheit
+4. Meinungsfreiheit
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام حق اساسی در ماده ۱ قانون اساسی جمهوری فدرال آلمان تضمین شده است؟
+1. ✔️ خدشه‌ناپذیری کرامت انسانی
+2. حق حیات
+3. آزادی مذهب
+4. آزادی بیان
+
+</div>
+
+## Frage 019 
+[ :top: ](#referecnce)
+**Was versteht man unter dem Recht der "Freizügigkeit" in Deutschland?**
+1. ✔️ Man darf sich seinen Wohnort selbst aussuchen.
+2. Man kann seinen Beruf wechseln.
+3. Man darf sich für eine andere Religion entscheiden.
+4. Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+منظور از حق «آزادی رفت و آمد» در آلمان چیست؟
+1. ✔️ شما می‌توانید محل زندگی خود را انتخاب کنید.
+2. می‌توانید شغلتان را تغییر دهید.
+3. شما آزاد هستید که دین دیگری را انتخاب کنید.
+4. شما فقط مجاز به رفت و آمد در اماکن عمومی با لباس سبک هستید.
+
+</div>
+
+## Frage 020 
+[ :top: ](#referecnce)
+**Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist denn...**
+1. tolerant. 
+2. rechtsstaatlich orientiert.
+3. gesetzestreu.
+4. ✔️ verfassungswidrig.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+حزبی در آلمان هدف ایجاد دیکتاتوری را دنبال می‌کند. این ...
+1. بردبار.
+2. با محوریت حاکمیت قانون.
+3. مطیع قانون.
+4. ✔️ خلاف قانون اساسی.
+
+</div>
+
+## Frage 021 
+[ :top: ](#referecnce)
+**Welches ist das Wappen der Bundesrepublik Deutschland?**
+
+![Frage_021](./Pictures/Frage_021.png)
+
+✔️ ![Frage_021](./Pictures/Frage_021_antwort.png)
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+نشان ملی جمهوری فدرال آلمان چیست؟
+1. ✔️ 
+2.
+3.
+4.
+
+</div>
+
+## Frage 022 
+[ :top: ](#referecnce)
+**Was für eine Staatsform hat Deutschland?**
+1. Monarchie 
+2. Diktatur
+3. ✔️ Republik
+4. Fürstentum
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+آلمان چه نوع حکومتی دارد؟
+1. سلطنت
+2. دیکتاتوری
+3. ✔️ جمهوری
+4. شاهزاده‌نشین
+
+</div>
+
+## Frage 023 
+[ :top: ](#referecnce)
+**In Deutschland sind die meisten Erwerbstätigen...**
+1. in kleinen Familienunternehmen beschäftigt.
+2. ehrenamtlich für ein Bundesland tätig.
+3. selbständig mit einer eigenen Firma tätig.
+4. ✔️  bei einer Firma oder Behörde beschäftigt.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان، بیشتر شاغلین ...
+1. در کسب و کارهای کوچک خانوادگی مشغول به کار هستند.
+2. کار داوطلبانه برای یک ایالت فدرال.
+3. با شرکت خودش به صورت آزاد کار می‌کند.
+4. ✔️ توسط یک شرکت یا مرجع استخدام شده باشد.
+
+</div>
+
+## Frage 024 
+[ :top: ](#referecnce)
+**Wie viele Bundesländer hat die Bundesrepublik Deutschland?**
+1. 14
+2. 15
+3. ✔️ 16
+4. 17
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+جمهوری فدرال آلمان چند ایالت فدرال دارد؟
+1. 14
+2. 15
+3. ✔️ 16
+4. 17
+
+</div>
+
+## Frage 025 
+[ :top: ](#referecnce)
+**Was ist kein Bundesland der Bundesrepublik Deutschland?**
+1. ✔️ Elsass-Lothringen
+2. Nordrhein-Westfalen
+3. Mecklenburg-Vorpommern
+4. Sachsen-Anhalt
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام ایالت، جزو جمهوری فدرال آلمان نیست؟
+1. ✔️ آلزاس-لورن
+2. نوردراین-وستفالن
+3. مکلنبورگ-پومرانی غربی
+4. زاکسن-آنهالت
+
+</div>
+
+## Frage 026 
+[ :top: ](#referecnce)
+**Deutschland ist ...**
+1. eine kommunistische Republik.
+2. ✔️ ein demokratischer und sozialer Bundesstaat.
+3. eine kapitalistische und soziale Monarchie.
+4. ein sozialer und sozialistischer Bundesstaat.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+آلمان ... است
+1. یک جمهوری کمونیستی.
+2. ✔️ یک دولت فدرال دموکراتیک و اجتماعی.
+3. یک سلطنت سرمایه‌داری و اجتماعی.
+4. یک دولت فدرال سوسیالیستی و اجتماعی.
+
+</div>
+
+## Frage 027 
+[ :top: ](#referecnce)
+**Deutschland ist ...**
+1. ein sozialistischer Staat. 
+2. ✔️ ein Bundesstaat.
+3. eine Diktatur.
+4. eine Monarchie.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+آلمان ... است
+1. یک دولت سوسیالیستی.
+2. ✔️ یک ایالت فدرال.
+3. یک دیکتاتوری.
+4. یک سلطنت.
+
+</div>
+
+## Frage 028 
+[ :top: ](#referecnce)
+**Wer wählt in Deutschland die Abgeordneten zum Bundestag?**
+1. das Militär
+2. die Wirtschaft
+3. ✔️ das wahlberechtigte Volk
+4. die Verwaltung
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی اعضای بوندستاگ (مجلس فدرال) در آلمان را انتخاب می‌کند؟
+1. ارتش
+2. اقتصاد
+3. ✔️ جمعیت رأی دهنده
+4. اداره (administration/management)
+
+</div>
+
+## Frage 029 
+[ :top: ](#referecnce)
+**Welches Tier ist das Wappentier der Bundesrepublik Deutschland?**
+1. Löwe
+2. ✔️ Adler
+3. Bär
+4. Pferd
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام حیوان نشان جمهوری فدرال آلمان است؟
+1. شیر
+2. ✔️ عقاب
+3. خرس
+4. اسب
+
+</div>
+
+## Frage 030 
+[ :top: ](#referecnce)
+**Was ist kein Merkmal unserer Demokratie?**
+1. regelmäßige Wahlen
+2. ✔️ Pressezensur
+3. Meinungsfreiheit
+4. verschiedene Parteien
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام مورد از ویژگی‌های دموکراسی ما نیست؟
+1. انتخابات عادی
+2. ✔️ سانسور مطبوعات
+3. آزادی بیان
+4. احزاب مختلف
 
 </div>
 
@@ -457,4 +804,74 @@
 4.
 
 </div>
+
+## Frage ??? 
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ??? 
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ??? 
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
 
