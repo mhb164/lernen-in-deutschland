@@ -13,6 +13,7 @@
  |[051](#frage-051)|[052](#frage-052)|[053](#frage-053)|[054](#frage-054)|[055](#frage-055)|[056](#frage-056)|[057](#frage-057)|[058](#frage-058)|[059](#frage-059)|[060](#frage-060)|
  |[061](#frage-061)|[062](#frage-062)|[063](#frage-063)|[064](#frage-064)|[065](#frage-065)|[066](#frage-066)|[067](#frage-067)|[068](#frage-068)|[069](#frage-069)|[070](#frage-070)|
  |[071](#frage-071)|[072](#frage-072)|[073](#frage-073)|[074](#frage-074)|[075](#frage-075)|[076](#frage-076)|[077](#frage-077)|[078](#frage-078)|[079](#frage-079)|[080](#frage-080)|
+ |[081](#frage-081)|[082](#frage-082)|[083](#frage-083)|[084](#frage-084)|[085](#frage-085)|[086](#frage-086)|[087](#frage-087)|[088](#frage-088)|[089](#frage-089)|[090](#frage-090)|
  
 ## Frage 001 
 [ :top: ](#referecnce)
@@ -1987,6 +1988,241 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 </div>
 
 
+## Frage 081
+[ :top: ](#referecnce)
+**Wer wählt den Bundeskanzler / die Bundeskanzlerin in Deutschland?**
+1. der Bundesrat
+2. die Bundesversammlung
+3. das Volk
+4. ✔️ der Bundestag
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی صدراعظم فدرال را در آلمان انتخاب می‌کند؟
+1. شورای فدرال
+2. مجلس فدرال
+3. مردم
+4. ✔️ مجلس فدرال
+
+</div>
+
+
+## Frage 082
+[ :top: ](#referecnce)
+**Wer leitet das deutsche Bundeskabinett?**
+1. der Bundestagspräsident / die Bundestagspräsidentin
+2. der Bundespräsident / die Bundespräsidentin
+3. der Bundesratspräsident / die Bundesratspräsidentin
+4. ✔️ der Bundeskanzler / die Bundeskanzlerin
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی ریاست کابینه فدرال آلمان را بر عهده دارد؟
+1. رئیس مجلس فدرال
+2. رئیس جمهور فدرال
+3. رئیس شورای فدرال
+4. ✔️ صدراعظم فدرال
+
+</div>
+
+
+## Frage 083
+[ :top: ](#referecnce)
+**Wer wählt den deutschen Bundeskanzler / die deutsche Bundeskanzlerin?**
+1. das Volk
+2. die Bundesversammlung
+3. ✔️ der Bundestag
+4. die Bundesregierung
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی صدراعظم آلمان را انتخاب می‌کند؟
+1. مردم
+2. مجلس (Bundesversammlung) فدرال
+3. ✔️ مجلس (Bundestag) فدرال 
+4. دولت فدرال
+
+</div>
+
+
+## Frage 084
+[ :top: ](#referecnce)
+**Welche Hauptaufgabe hat der deutsche Bundespräsident / die deutsche Bundespräsidentin? Er/Sie ...**
+1. regiert das Land.
+2. entwirft die Gesetze.
+3. ✔️ repräsentiert das Land.
+4. überwacht die Einhaltung der Gesetze.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+وظیفه اصلی رئیس جمهور فدرال آلمان چیست؟ او ...
+1. بر کشور حکومت می‌کند.
+2. قوانین را تدوین می‌کند.
+3. ✔️ کشور را نشان می‌دهد.
+4. بر رعایت قانون نظارت می‌کند.
+
+</div>
+
+
+## Frage 085
+[ :top: ](#referecnce)
+**Wer bildet den deutschen Bundesrat?**
+1. die Abgeordneten des Bundestages
+2. die Minister und Ministerinnen der Bundesregierung
+3. ✔️ die Regierungsvertreter der Bundesländer
+4. die Parteimitglieder
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی بوندسرات آلمان را تشکیل می‌دهد؟
+1. اعضای بوندستاگ
+2. وزرای دولت فدرال
+3. ✔️ نمایندگان دولت ایالت‌های فدرال
+4. اعضای حزب
+
+</div>
+
+
+## Frage 086
+[ :top: ](#referecnce)
+**Wer wählt in Deutschland den Bundespräsidenten / die Bundespräsidentin?**
+1. ✔️ die Bundesversammlung
+2. der Bundesrat
+3. das Bundesparlament
+4. das Bundesverfassungsgericht
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی رئیس جمهور فدرال را در آلمان انتخاب می‌کند؟
+1. ✔️ مجلس فدرال (Bundesversammlung)
+2. شورای فدرال
+3. پارلمان فدرال
+4. دادگاه قانون اساسی فدرال
+
+</div>
+
+## Frage 087
+[ :top: ](#referecnce)
+**Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?**
+1. der Bundeskanzler / die Bundeskanzlerin
+2. ✔️ der Bundespräsident / die Bundespräsidentin
+3. der Bundesratspräsident / die Bundesratspräsidentin
+4. der Bundestagspräsident / die Bundestagspräsidentin
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+رئیس دولت جمهوری فدرال آلمان کیست؟
+1. صدراعظم فدرال
+2. ✔️ رئیس جمهور فدرال
+3. رئیس شورای فدرال
+4. رئیس مجلس فدرال
+
+</div>
+
+## Frage 088
+[ :top: ](#referecnce)
+**Die parlamentarische Opposition im Deutschen Bundestag...**
+1. kontrolliert die Regierung.
+2. entscheidet, wer Bundesminister / Bundesministerin wird.
+3. bestimmt, wer im Bundesrat sitzt.
+4. schlägt die Regierungschefs / Regierungschefinnen der Länder vor.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+اپوزیسیون پارلمانی در بوندستاگ آلمان...
+1. ✔️ دولت را کنترل می‌کند.
+2. تصمیم می‌گیرد چه کسی وزیر فدرال شود.
+3. تعیین می‌کند چه کسی در شورای فدرال عضویت داشته باشد.
+4. روسای حکومت ایالت‌ها را پیشنهاد می‌دهد.
+
+</div>
+
+## Frage 089
+[ :top: ](#referecnce)
+**Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?**
+1. Verband
+2. Ältestenrat
+3. ✔️ Fraktion
+4. Opposition
+ 
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان به انجمن اعضای یک حزب در پارلمان چه نامی داده می‌شود؟
+1. انجمن
+2. شورای بزرگان
+3. ✔️ جناح
+4. مخالفت
+
+</div>
+
+## Frage 090
+[ :top: ](#referecnce)
+**Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch ...**
+1. ✔️ den Bundesrat.
+2. die Bundesversammlung.
+3. den Bundestag.
+4. die Bundesregierung.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+ایالت‌های فدرال آلمان از طریق ... در قانون‌گذاری فدرال مشارکت می‌کنند.
+1. ✔️ شورای فدرال.
+2. مجلس فدرال (Bundesversammlung).
+3. بوندستاگ.
+4. دولت فدرال.
+
+</div>
+
 ## Frage ???
 [ :top: ](#referecnce)
 ** Frage **
@@ -2010,6 +2246,28 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 
 </div>
 
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
 
 ## Frage ???
 [ :top: ](#referecnce)
@@ -2034,6 +2292,28 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 
 </div>
 
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
 
 ## Frage ???
 [ :top: ](#referecnce)
@@ -2058,6 +2338,28 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 
 </div>
 
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
 
 ## Frage ???
 [ :top: ](#referecnce)
@@ -2082,7 +2384,6 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 
 </div>
 
-
 ## Frage ???
 [ :top: ](#referecnce)
 ** Frage **
@@ -2106,7 +2407,6 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 
 </div>
 
-
 ## Frage ???
 [ :top: ](#referecnce)
 ** Frage **
@@ -2129,5 +2429,4 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 4.
 
 </div>
-
 
