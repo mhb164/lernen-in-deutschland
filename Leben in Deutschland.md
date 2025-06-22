@@ -11,6 +11,8 @@
  |[031](#frage-031)|[032](#frage-032)|[033](#frage-033)|[034](#frage-034)|[035](#frage-035)|[036](#frage-036)|[037](#frage-037)|[038](#frage-038)|[039](#frage-039)|[040](#frage-040)|
  |[041](#frage-041)|[042](#frage-042)|[043](#frage-043)|[044](#frage-044)|[045](#frage-045)|[046](#frage-046)|[047](#frage-047)|[048](#frage-048)|[049](#frage-049)|[050](#frage-050)|
  |[051](#frage-051)|[052](#frage-052)|[053](#frage-053)|[054](#frage-054)|[055](#frage-055)|[056](#frage-056)|[057](#frage-057)|[058](#frage-058)|[059](#frage-059)|[060](#frage-060)|
+ |[061](#frage-061)|[062](#frage-062)|[063](#frage-063)|[064](#frage-064)|[065](#frage-065)|[066](#frage-066)|[067](#frage-067)|[068](#frage-068)|[069](#frage-069)|[070](#frage-070)|
+ |[071](#frage-071)|[072](#frage-072)|[073](#frage-073)|[074](#frage-074)|[075](#frage-075)|[076](#frage-076)|[077](#frage-077)|[078](#frage-078)|[079](#frage-079)|[080](#frage-080)|
  
 ## Frage 001 
 [ :top: ](#referecnce)
@@ -1428,6 +1430,607 @@
 2. نخست وزیر بزرگترین ایالت فدرال
 3. صدراعظم سابق فدرال
 4. ✔️ عضوی از قوی‌ترین گروه پارلمانی
+
+</div>
+
+
+## Frage 058
+[ :top: ](#referecnce)
+**Wer ernennt in Deutschland die Minister/ die Ministerinnen der Bundesregierung?**
+1. der Präsident / die Präsidentin des Bundesverfassungsgerichtes
+2. ✔️ der Bundespräsident / die Bundespräsidentin
+3. der Bundesratspräsident / die Bundesratspräsidentin
+4. der Bundestagspräsident / die Bundestagspräsidentin
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی وزرای دولت فدرال در آلمان را منصوب می‌کند؟
+1. رئیس دادگاه قانون اساسی فدرال
+2. ✔️ رئیس جمهور فدرال
+3. رئیس شورای فدرال
+4. رئیس مجلس فدرال
+
+</div>
+
+
+## Frage 059
+[ :top: ](#referecnce)
+**Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?**
+1. vor etwa 300 Jahren
+2. vor etwa 700 Jahren
+3. vor etwa 1150 Jahren
+4. ✔️ vor etwa 1700 Jahren
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. حدود ۳۰۰ سال پیش
+2. حدود ۷۰۰ سال پیش
+3. حدود ۱۱۵۰ سال پیش
+4. ✔️ حدود ۱۷۰۰ سال پیش
+
+</div>
+
+
+## Frage 060
+[ :top: ](#referecnce)
+**In Deutschland gehören der Bundestag und der Bundesrat zur ...**
+1. Exekutive.
+2. ✔️ Legislative.
+3. Direktive.
+4. Judikative.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان، مجلس فدرال (بوندستاگ) و مجلس فدرال (بوندسرات) متعلق به ...
+1. اجرایی
+2. ✔️ قوه مقننه.
+3. دستورالعمل.
+4. قوه قضائیه.
+
+</div>
+
+## Frage 061
+[ :top: ](#referecnce)
+**Was bedeutet "Volkssouveränität"?**
+1. Der König / die Königin herrscht über das Volk.
+2. Das Bundesverfassungsgericht steht über der Verfassung.
+3. Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.
+4. ✔️ Die Staatsgewalt geht vom Volke aus.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+«حاکمیت مردمی» به چه معناست؟
+1. پادشاه/ملکه بر مردم حکومت می‌کند.
+2. دادگاه قانون اساسی فدرال بالاتر از قانون اساسی است.
+3. گروه‌های ذی‌نفع به همراه دولت، حاکمیت را اعمال می‌کنند.
+4. ✔️ قدرت دولت از مردم سرچشمه می‌گیرد.
+
+</div>
+
+## Frage 062
+[ :top: ](#referecnce)
+**Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das ...**
+1. Kommunalwahl.
+2. ✔️ Landtagswahl.
+3. Europawahl.
+4. Bundestagswahl.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+وقتی پارلمان یک ایالت فدرال آلمان انتخاب می‌شود، به آن می‌گویند...
+1. انتخابات محلی.
+2. ✔️ انتخابات ایالتی.
+3. انتخابات اروپا.
+4. انتخابات فدرال.
+
+</div>
+
+## Frage 063
+[ :top: ](#referecnce)
+**Was gehört in Deutschland nicht zur Exekutive?**
+1. die Polizei
+2. ✔️ die Gerichte
+3. das Finanzamt
+4. die Ministerien
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه چیزی در آلمان به قوه مجریه تعلق ندارد؟
+1. پلیس 
+2. ✔️ دادگاه‌ها
+3. اداره مالیات
+4. وزارتخانه ها
+
+</div>
+
+
+## Frage 064
+[ :top: ](#referecnce)
+**Die bundesrepublik Deutschland ist heute gegliedert in ...**
+1. vier Besatzungszonen.
+2. einen Oststaat und einen Weststaat.
+3. 16 Kantone.
+4. ✔️ Bund, Länder und Kommunen.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+جمهوری فدرال آلمان امروزه به ... بخش تقسیم شده است
+1. چهار منطقه اشغالی.
+2. یک ایالت شرقی و یک ایالت غربی.
+3. ۱۶ کانتون.
+4. ✔️ دولت‌های فدرال، ایالتی و محلی.
+
+</div>
+
+
+## Frage 065
+[ :top: ](#referecnce)
+**Es gehört nicht zu den Aufgaben des Deutschen Bundestages, ...**
+1. Gesetze zu entwerfen.
+2. die Bundesregierung zu kontrollieren.
+3. den Bundeskanzler / die Bundeskanzlerin zu wählen.
+4. ✔️ das Bundeskabinett zu bilden.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+وظیفه مجلس فدرال آلمان (بوندستاگ) نیست که ...
+1. برای تدوین قوانین.
+2. برای کنترل دولت فدرال.
+3. برای انتخاب صدراعظم فدرال.
+4. ✔️ برای تشکیل کابینه فدرال.
+
+</div>
+
+
+## Frage 066
+[ :top: ](#referecnce)
+**Welche Städte haben die größten jüdischen Gemeinden in Deutschland?**
+1. ✔️ Berlin und München
+2. Hamburg und Essen
+3. Nürnberg und Stuttgart
+4. Worms und Speyer
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام شهرها بزرگترین جوامع یهودی را در آلمان دارند؟
+1. ✔️ برلین و مونیخ
+2. هامبورگ و اسن
+3. نورنبرگ و اشتوتگارت
+4. کرم‌ها و اسپایر
+
+</div>
+
+
+## Frage 067
+[ :top: ](#referecnce)
+**Was ist in Deutschland vor allem eine Aufgabe de Bundesländer?**
+1. Verteidigungspolitik
+2. Außenpolitik
+3. Wirtschaftspolitik
+4. ✔️ Schulpolitik
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+مسئولیت اصلی ایالت‌های فدرال در آلمان چیست؟
+1. سیاست دفاعی
+2. سیاست خارجی
+3. سیاست اقتصادی
+4. ✔️ سیاست مدرسه
+
+</div>
+
+
+## Frage 068
+[ :top: ](#referecnce)
+**Warum kontrolliert der Staat in Deutschland das Schulwesen?**
+1. weil es in Deutschland nur staatliche Schulen gibt
+2. weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen
+3. weil es in den Bundesländern verschiedene Schulen gibt
+4. ✔️ weil es nach dem Grundgesetz seine Aufgabe ist
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چرا دولت سیستم مدارس آلمان را کنترل می‌کند؟
+1. زیرا در آلمان فقط مدارس دولتی وجود دارد
+2. زیرا همه دانش‌آموزان باید گواهی پایان دوره مدرسه داشته باشند.
+3. زیرا مدارس مختلفی در ایالت‌های فدرال وجود دارد
+4. ✔️ زیرا طبق قانون اساسی این وظیفه اوست
+
+</div>
+
+
+## Frage 069
+[ :top: ](#referecnce)
+**Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?**
+1. Stadträte
+2. Landräte
+3. ✔️ Gemeinden
+4. Bezirksämter
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+جمهوری فدرال آلمان دارای ساختار اداری سه لایه است. نام پایین ترین سطح سیاسی چیست؟
+1. اعضای شورای شهر
+2. مدیران منطقه
+3. ✔️ شهرداری‌ها
+4. دفاتر منطقه‌ای
+
+</div>
+
+
+## Frage 070
+[ :top: ](#referecnce)
+**Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkundezum deutschen Bundeskanzler. 
+Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?**
+
+![Frage_070](./Pictures/Frage_070.png)
+1. Er / Sie führt die Regierungsgeschäfte.
+2. Er / Sie kontrolliert die Regierungspartei.
+3. Er / Sie wählt die Minister / Ministerinnen aus.
+4. ✔️ Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+گوستاو هاینمن، رئیس جمهور فدرال آلمان، در سال ۱۹۷۴ گواهی انتصاب هلموت اشمیت به عنوان صدراعظم آلمان را به او اهدا کرد.
+وظایف رئیس جمهور فدرال آلمان چیست؟
+1. او دولت را اداره می‌کند.
+2. او حزب حاکم را کنترل می‌کند.
+3. او وزرا را انتخاب می‌کند.
+4. ✔️ او صدراعظم را برای انتخابات پیشنهاد می‌دهد.
+
+</div>
+
+
+## Frage 071
+[ :top: ](#referecnce)
+**Wo hält sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am häufigsten auf? am häufigsten ist er/sie ...**
+1. in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.
+2. auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.
+3. auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen.
+4. ✔️ in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+صدراعظم آلمان بیشتر وقت خود را کجا می‌گذراند؟ او اغلب وقع خود را ... میگذراند
+1. در بن، زیرا دفتر صدراعظم فدرال و مجلس فدرال در آنجا واقع شده‌اند.
+2. در قلعه مسبرگ، مهمانسرای دولت فدرال، برای پذیرایی از مهمانان ایالتی.
+3. در کاخ بلوو، اقامتگاه رسمی رئیس جمهور فدرال، برای پذیرایی از مهمانان رسمی.
+4. ✔️ در برلین، زیرا دفتر صدراعظم فدرال و مجلس فدرال در آنجا واقع شده‌اند.
+
+</div>
+
+
+## Frage 072
+[ :top: ](#referecnce)
+**Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?**
+1. Gerhard Schröder
+2. Angela Merkel
+3. Ursula von der Leyen
+4. ✔️ Friedrich Merz
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+نام صدراعظم فعلی آلمان چیست؟
+1. گرهارد شرودر
+2. آنگلا مرکل
+3. اورسولا فون در لاین
+4. ✔️ فردریش مرز
+
+</div>
+
+
+## Frage 073
+[ :top: ](#referecnce)
+**Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit ...**
+1. ✔️ CDU/CSU und AfD.
+2. Die Linke und Bündnis 90/Die Grünen.
+3. Bündnis 90/Die Grünen und SPD.
+4. Die Linke und CDU/CSU.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+دو گروه بزرگ پارلمانی در بوندستاگ آلمان در حال حاضر ... نامیده می‌شوند.
+1. ✔️ احزاب دموکرات مسیحی/سوسیال مسیحی و حزب آلترناتیو برای آلمان (AfD)
+2. چپ‌ها و اتحاد ۹۰/سبزها.
+3. اتحاد ۹۰/سبزها و حزب سوسیال دموکرات.
+4. چپ‌ها و CDU/CSU.
+
+</div>
+
+
+## Frage 074
+[ :top: ](#referecnce)
+**Wie heißt das Parlament für ganz Deutschland?**
+1. Bundesversammlung
+2. Volkskammer
+3. ✔️ Bundestag
+4. Bundesgerichtshof
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+نام پارلمان کل آلمان چیست؟
+1. مجلس فدرال
+2. مجلس مردمی
+3. ✔️ بوندستاگ
+4. دادگاه فدرال
+
+</div>
+
+
+## Frage 075
+[ :top: ](#referecnce)
+**Wie heißt Deutschlands heutiges Staatsoberhaupt?**
+1. ✔️ Frank-Walter Steinmeier 
+2. Bärbel Bas
+3. Bodo Ramelow
+4. Joachim Gauck
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+نام رئیس دولت فعلی آلمان چیست؟
+1. ✔️ فرانک والتر اشتاین مایر
+2. باربل بس
+3. بودو راملو
+4. یواخیم گاوک
+
+</div>
+
+
+## Frage 076
+[ :top: ](#referecnce)
+**Was bedeutet die Abkürzung CDU in Deutschland?**
+1. Christliche Deutsche Union
+2. Club Deutscher Unternehmer
+3. Christlicher Deutscher Umweltschutz
+4. ✔️ Christlich Demokratische Union
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+مخفف CDU در آلمان به چه معناست؟
+1. اتحادیه مسیحی آلمان
+2. باشگاه کارآفرینان آلمانی
+3. حفاظت از محیط زیست مسیحی آلمانی
+4. ✔️ اتحادیه دموکرات مسیحی
+
+</div>
+
+
+## Frage 077
+[ :top: ](#referecnce)
+**Was ist die Bundeswehr?**
+1. die deutsche Polizei
+2. ein deutscher Hafen
+3. eine deutsche Bürgerinitiative
+4. ✔️ die deutsche Armee
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+بوندس‌ور چیست؟
+1. پلیس آلمان
+2. یک بندر آلمانی
+3. ابتکار شهروندان آلمانی
+4. ✔️ ارتش آلمان
+
+</div>
+
+
+## Frage 078
+[ :top: ](#referecnce)
+**Was bedeutet die Abkürzung SPD?**
+1. Sozialistische Partei Deutschlands
+2. Sozialpolitische Partei Deutschlands
+3. ✔️ Sozialdemokratische Partei Deutschlands
+4. Sozialgerechte Partei Deutschlands
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+مخفف SPD به چه معناست؟
+1. حزب سوسیالیست آلمان
+2. حزب سیاست اجتماعی آلمان
+3. ✔️ حزب سوسیال دموکرات آلمان
+4. حزب عدالت اجتماعی آلمان
+
+</div>
+
+
+## Frage 079
+[ :top: ](#referecnce)
+**Was bedeutet die Abkürzung FDP in Deutschland?**
+1. Friedliche Demonstrative Partei
+2. Freie Deutschland Partei
+3. Führende Demokratische Partei
+4. ✔️ Freie Demokratische Partei
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+مخفف FDP در آلمان به چه معناست؟
+1. حزب تظاهرات مسالمت‌آمیز
+2. حزب آلمان آزاد
+3. حزب دموکرات پیشرو
+4. ✔️ حزب دموکرات آزاد
+
+</div>
+
+
+## Frage 080
+[ :top: ](#referecnce)
+**Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?**
+1. Oberlandesgericht
+2. Amtsgericht
+3. ✔️ Bundesverfassungsgericht
+4. Verwaltungsgericht
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام دادگاه در آلمان مسئول تفسیر قانون اساسی است؟
+1. دادگاه عالی منطقه‌ای
+2. دادگاه ناحیه
+3. ✔️ دادگاه قانون اساسی فدرال
+4. دادگاه اداری
+
+</div>
+
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
 
 </div>
 
