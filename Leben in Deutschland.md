@@ -8,6 +8,9 @@
  |[001](#frage-001)|[002](#frage-002)|[003](#frage-003)|[004](#frage-004)|[005](#frage-005)|[006](#frage-006)|[007](#frage-007)|[008](#frage-008)|[009](#frage-009)|[010](#frage-010)|
  |[011](#frage-011)|[012](#frage-012)|[013](#frage-013)|[014](#frage-014)|[015](#frage-015)|[016](#frage-016)|[017](#frage-017)|[018](#frage-018)|[019](#frage-019)|[020](#frage-020)|
  |[021](#frage-021)|[022](#frage-022)|[023](#frage-023)|[024](#frage-024)|[025](#frage-025)|[026](#frage-026)|[027](#frage-027)|[028](#frage-028)|[029](#frage-029)|[030](#frage-030)|
+ |[031](#frage-031)|[032](#frage-032)|[033](#frage-033)|[034](#frage-034)|[035](#frage-035)|[036](#frage-036)|[037](#frage-037)|[038](#frage-038)|[039](#frage-039)|[040](#frage-040)|
+ |[041](#frage-041)|[042](#frage-042)|[043](#frage-043)|[044](#frage-044)|[045](#frage-045)|[046](#frage-046)|[047](#frage-047)|[048](#frage-048)|[049](#frage-049)|[050](#frage-050)|
+ |[051](#frage-051)|[052](#frage-052)|[053](#frage-053)|[054](#frage-054)|[055](#frage-055)|[056](#frage-056)|[057](#frage-057)|[058](#frage-058)|[059](#frage-059)|[060](#frage-060)|
  
 ## Frage 001 
 [ :top: ](#referecnce)
@@ -782,7 +785,654 @@
 
 </div>
 
-## Frage ??? 
+## Frage 031 
+[ :top: ](#referecnce)
+**Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland ...**
+1. Einheit.
+2. ✔️ Koalition.
+3. Ministerium.
+4. Fraktion.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان به همکاری احزاب برای تشکیل دولت ... گفته می شود.
+1. واحد
+2. ✔️ ائتلاف
+3. وزارتخانه
+4. کسری
+
+</div>
+
+## Frage 032 
+[ :top: ](#referecnce)
+**Was ist keine staatliche Gewalt in Deutschland?**
+1. Gesetzgebung
+2. Regierung
+3. ✔️ Presse
+4. Rechtsprechung
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه چیزی در آلمان قدرت دولتی نیست؟
+1. قانونگذاری
+2. دولت
+3. ✔️ مطبوعات
+4. رویه قضایی
+
+</div>
+
+## Frage 033 
+[ :top: ](#referecnce)
+**Welche Aussage ist richtig? in Deutschland ...**
+1. sind Staat und Religionsgemeinschaften voneinander getrennt.
+2. bilden die Religionsgemeinschaften den Staat.
+3. ist der Staat abhängig von den Religionsgemeinschaften.
+4. bilden Staat und Religionsgemeinschaften eine Einheit.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام جمله صحیح است؟ در آلمان...
+1. ✔️ جوامع دولتی و مذهبی از یکدیگر جدا هستند.
+2. جوامع مذهبی دولت را تشکیل می‌دهند.
+3. دولت به جوامع مذهبی وابسته است.
+4. دولت و جوامع مذهبی یک وحدت را تشکیل می‌دهند.
+
+</div>
+
+## Frage 034
+[ :top: ](#referecnce)
+**Was ist Deutschland nicht?**
+1. eine Demokratie 
+2. ein Rechtsstaat
+3. ✔️ eine Monarchie
+4. ein Sozialstaat
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+آلمان چه چیزی نیست؟
+1. یک دموکراسی
+2. یک دولت مشروطه
+3. ✔️ یک سلطنت
+4. یک دولت رفاه
+
+</div>
+
+## Frage 035
+[ :top: ](#referecnce)
+**Womit finanziert der deutsche Staat die Sozialversicherung?**
+1. Kirchensteuern
+2. ✔️ Sozialabgaben
+3. Spendengeldern
+4. Vereinsbeiträgen
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+دولت آلمان چگونه تأمین اجتماعی را تأمین مالی می‌کند؟
+1. مالیات کلیسا
+2. ✔️ مشارکت‌های تأمین اجتماعی
+3. کمک‌های مالی
+4. کمک‌های مالی باشگاه
+
+</div>
+
+
+## Frage 036
+[ :top: ](#referecnce)
+**Welche Maßnahme schafft in Deutschland soziale Sicherheit?**
+1. ✔️ die Krankenversicherung
+2. die Autoversicherung
+3. die Gebäudeversicherung
+4. die Haftpflichtversicherung
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام اقدام، امنیت اجتماعی را در آلمان ایجاد می‌کند؟
+1. ✔️ بیمه سلامت
+2. بیمه خودرو
+3. بیمه ساختمان
+4. بیمه مسئولیت مدنی
+
+</div>
+
+
+## Frage 037
+[ :top: ](#referecnce)
+**Wie werden die Regierungschefs/Regierungschefinnen der meisten Bundesländer in Deutschland genannt?**
+1. Erster Minister/ Erste Ministerin
+2. Premierminister/ Premierministerin
+3. Senator/ Senatorin
+4. ✔️ Ministerpräsident/ Ministerpräsidentin
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+||Regierungschefs|روسای دولت
+|||
+
+روسای دولت اکثر ایالت‌های فدرال در آلمان چه نامیده می‌شوند؟
+1. وزیر اول
+2. نخست وزیر (Premierminister)
+3. سناتور
+4. ✔️ نخست وزیر (Ministerpräsident)
+
+</div>
+
+
+## Frage 038
+[ :top: ](#referecnce)
+**Die Bundesrepublik Deutschland ist ein demokratischer und sozialer...**
+1. Staatenverbund.
+2. ✔️ Bundesstaat.
+3. Staatenbund.
+4. Zentralstaat.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+جمهوری فدرال آلمان کشوری دموکراتیک و اجتماعی است...
+1. اتحادیه ایالت‌ها
+2. ✔️ ایالت فدرال
+3. کنفدراسیون ایالت‌ها.
+4. حکومت مرکزی.
+
+</div>
+
+
+## Frage 039
+[ :top: ](#referecnce)
+**Was hat jedes deutsche Bundesland?**
+1. einen eigenen Außenminister / eine eigene Außenministerin
+2. eine eigene Währung
+3. eine eigene Armee
+4. ✔️ eine eigene Regierung
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+هر ایالت فدرال آلمان چه دارد؟
+1. وزیر امور خارجه خودش
+2. واحد پول خودش
+3. ارتش خودش
+4. ✔️ دولت خودش
+
+</div>
+
+
+## Frage 040
+[ :top: ](#referecnce)
+**Mit welchen Worten beginnt die deutsche Nationalhymne?**
+1. Völker, hört die Signale ...
+2. ✔️ Einigkeit und Recht und Freiheit ...
+3. Freude schöner Götterfunken ...
+4. Deutschland einig Vaterland ...
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سرود ملی آلمان با چه کلماتی آغاز می‌شود؟
+1. ای مردم، به سیگنال‌ها گوش دهید...
+2. ✔️ وحدت و عدالت و آزادی...
+3. شادی، جرقه زیبای خدایان...
+4. آلمان، سرزمین پدری متحد...
+
+</div>
+
+
+## Frage 041
+[ :top: ](#referecnce)
+**Warum gibt es in einer Demokratie mehr als eine Partei?**
+1. ✔️ weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden
+2. damit Bestechung in der Politik begrenzt wird
+3. um politische Demonstrationen zu verhindern
+4. um wirtschaftlichen Wettbewerb anzuregen
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چرا در یک دموکراسی بیش از یک حزب وجود دارد؟
+1. ✔️ زیرا نمایانگر نظرات مختلف شهروندان است
+2. محدود کردن رشوه در سیاست
+3. برای جلوگیری از تظاهرات سیاسی
+4. برای تحریک رقابت اقتصادی
+
+</div>
+
+
+## Frage 042
+[ :top: ](#referecnce)
+**Wer beschließt in Deutschland ein neues Gesetz?**
+1. die Regierung
+2. ✔️ das Parlament
+3. die Gerichte
+4. die Polizei
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی در آلمان در مورد قانون جدید تصمیم می‌گیرد؟
+1. دولت
+2. ✔️ مجلس
+3. دادگاه‌ها
+4. پلیس
+
+</div>
+
+
+## Frage 043
+[ :top: ](#referecnce)
+**Wann kann in Deutschland eine Partei verboten werden?**
+1. wenn ihr Wahlkampf zu teuer ist
+2. ✔️ wenn sie gegen die Verfassung kämpft
+3. wenn sie Kritik am Staatsoberhaupt äußert
+4. wenn ihr Programm eine neue Richtung vorschlägt
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه زمانی می‌توان یک حزب را در آلمان ممنوع کرد؟
+1. اگر مبارزات انتخاباتی آنها خیلی پرهزینه باشد
+2. ✔️ وقتی او علیه قانون اساسی می‌جنگد
+3. وقتی از رئیس دولت انتقاد می‌کند
+4. اگر برنامه آنها جهت جدیدی را پیشنهاد کند
+
+</div>
+
+
+## Frage 044
+[ :top: ](#referecnce)
+**Wen  kann man als Bürger / Bürgerin in Deutschland nicht direkt wählen?**
+1. Abgeordnete des EU-Parlaments
+2. ✔️ den Bundespräsidenten / die Bundespräsidentin
+3. Landtagsabgeordnete
+4. Bundestagsabgeordnete
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسانی نمی‌توانند مستقیماً به عنوان شهروند در آلمان انتخاب شوند؟
+1. اعضای پارلمان اروپا
+2. ✔️ رئیس جمهور فدرال
+3. اعضای پارلمان ایالتی
+4. اعضای مجلس فدرال (بوندستاگ)
+
+</div>
+
+
+## Frage 045
+[ :top: ](#referecnce)
+**Zu welcher Versicherung gehört die Pflegeversicherung?**
+1. ✔️ Sozialversicherung
+2. Unfallversicherung
+3. Hausratversicherung
+4. Haftpflicht- und Feuerversicherung
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+بیمه مراقبت طولانی مدت به کدام بیمه تعلق دارد؟
+1. ✔️ تامین اجتماعی
+2. بیمه حوادث
+3. بیمه وسایل منزل
+4. بیمه مسئولیت مدنی و آتش سوزی
+
+</div>
+
+
+## Frage 046
+[ :top: ](#referecnce)
+**Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?**
+1. ✔️ Er baut Straßen und Schulen.
+2. Er verkauft Lebensmittel und Kleidung.
+3. Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.
+4. Er produziert Autos und Busse.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+دولت آلمان مسئولیت‌های زیادی دارد. برخی از آنها چیست؟
+1. ✔️ او جاده و مدرسه می‌سازد.
+2. او غذا و لباس می‌فروشد.
+3. این روزنامه‌ها را به صورت رایگان در اختیار همه ساکنان قرار می‌دهد.
+4. ماشین و اتوبوس تولید می‌کند.
+
+</div>
+
+
+## Frage 047
+[ :top: ](#referecnce)
+**Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?**
+1. ✔️ Er bezahlt für alle Staatsangehörigen Urlaubsreisen.
+2. Er zahlt Kindergeld.
+3. Er unterstützt Museen.
+4. Er fördert Sportler und Sportlerinnen.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+دولت آلمان مسئولیت‌های زیادی دارد. کدام یک از آنها نیست؟
+1. ✔️ او هزینه سفرهای تفریحی همه شهروندان را پرداخت می‌کند.
+2. او کمک هزینه فرزند پرداخت می‌کند.
+3. او از موزه‌ها حمایت می‌کند.
+4. او از ورزشکاران حمایت می‌کند.
+
+</div>
+
+
+## Frage 048
+[ :top: ](#referecnce)
+**Welche Organ gehört nicht zu den Verfassungsorganen?**
+1. der Bundesrat
+2. der Bundespräsident / die Bundespräsidentin
+3. ✔️ die Bürgerversammlung
+4. die Regierung
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام نهاد، نهادی مطابق قانون اساسی نیست؟
+1. شورای فدرال
+2. رئیس جمهور فدرال
+3. ✔️ مجلس شهروندان
+4. دولت
+
+</div>
+
+
+## Frage 049
+[ :top: ](#referecnce)
+**Wer bestimmt in Deutschland die Schulpolitik?**
+1. die Lehrer und Lehrerinnen
+2. ✔️ die Bundesländer
+3. das Familienministerium
+4. die Universitäten
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی سیاست مدارس در آلمان را تعیین می‌کند؟
+1. معلمان
+2. ✔️ ایالت‌های فدرال
+3. وزارت امور خانواده
+4. دانشگاه‌ها
+
+</div>
+
+
+## Frage 050
+[ :top: ](#referecnce)
+**Die Wirtschaftsform in Deutschland nennt man ...**
+1. freie Zentralwirtschaft.
+2. ✔️ soziale Marktwirtschaft.
+3. gelenkte Zentralwirtschaft.
+4. Planwirtschaft.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سیستم اقتصادی در آلمان ... نامیده می شود.
+1. اقتصاد مرکزی آزاد
+2. ✔️ اقتصاد بازار اجتماعی.
+3. اقتصاد مرکزی کنترل‌شده
+4. اقتصاد برنامه ریزی شده
+
+</div>
+
+
+## Frage 051
+[ :top: ](#referecnce)
+**Zu einem demokratischen Rechtsstaat gehört es nicht, dass...**
+1. Menschen sich kritisch über die Regierung äußern können.
+2. Bürger friedlich demonstrieren gehen dürfen.
+3. ✔️ Menschen von einer Privatpolizei ohne Grund verhaftet werden.
+4. jemand ein Verbrechen begeht und deshalb verhaftet wird.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+یک دولت دموکراتیک مبتنی بر قانون اساسی شامل ... نمی‌شود.
+1. مردم می‌توانند نظرات انتقادی خود را در مورد دولت بیان کنند.
+2. شهروندان اجازه دارند به صورت مسالمت‌آمیز تظاهرات کنند.
+3. ✔️ مردم بدون هیچ دلیلی توسط پلیس خصوصی دستگیر می‌شوند.
+4. کسی مرتکب جرمی می‌شود و به خاطر آن دستگیر می‌شود.
+
+</div>
+
+
+## Frage 052
+[ :top: ](#referecnce)
+**Was bedeutet "Volkssouveränität"? Alle Staatsgewalt geht vom...**
+1. ✔️ Volke aus.
+2. Bundestag aus.
+3. preußischen König aus.
+4. Bundesverfassungsgericht aus.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+«حاکمیت مردمی» به چه معناست؟ تمام قدرت دولتی از ... سرچشمه می‌گیرد.
+1. ✔️ مردم بیرون.
+2. بوندستاگ
+3. پادشاه پروس.
+4. دادگاه قانون اساسی فدرال.
+
+</div>
+
+
+## Frage 053
+[ :top: ](#referecnce)
+**Was bedeutet "Rechtsstaat" in Deutschland?"**
+1. Der Staat hat Recht.
+2. Es gibt nur rechte Parteien.
+3. Die Bürger und Bürgerinnen entscheiden über Gesetze.
+4. ✔️ Der Staat muss die Gesetze einhalten.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+«حاکمیت قانون» در آلمان به چه معناست؟
+1. حق با ایالت است.
+2. فقط احزاب راست‌گرا وجود دارند.
+3. شهروندان در مورد قوانین تصمیم می‌گیرند.
+4. ✔️ دولت باید از قوانین اطاعت کند.
+
+</div>
+
+
+## Frage 054
+[ :top: ](#referecnce)
+**Was ist keine staatliche Gewalt in Deutschland?**
+1. Legislative
+2. Judikative
+3. Exekutive
+4. ✔️ Direktive
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه چیزی در آلمان قدرت دولتی نیست؟
+1. قوه مقننه
+2. قوه قضائیه
+3. اجرایی
+4. ✔️ بخشنامه
+
+</div>
+
+
+## Frage 055
+[ :top: ](#referecnce)
+**Was zeigt dieses Bild?**
+
+![Frage_055](./Pictures/Frage_055.png)
+
+1. ✔️ den Bundestagssitz in Berlin
+2. das Bundesverfassungsgericht in Karlsruhe
+3. das Bundesratsgebäude in Berlin
+4. das Bundeskanzleramt in Berlin
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+این تصویر چه چیزی را نشان می‌دهد؟
+1. ✔️ کرسی بوندس‌تاگ در برلین
+2. دادگاه قانون اساسی فدرال در کارلسروهه
+3. ساختمان شورای فدرال در برلین
+4. دفتر صدراعظم فدرال در برلین
+
+</div>
+
+
+## Frage 056
+[ :top: ](#referecnce)
+**Welches Amt gehört in Deutschland zur Gemeindeverwaltung?**
+1. Pfarramt
+2. ✔️ Ordnungsamt
+3. Finanzamt
+4. Auswärtiges Amt
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام اداره متعلق به اداره شهرداری در آلمان است؟
+1. دفتر کلیسا
+2. ✔️ اداره نظم عمومی
+3. اداره مالیات
+4. وزارت امور خارجه
+
+</div>
+
+
+## Frage 057
+[ :top: ](#referecnce)
+**Wer wird meistens zum Präsidenten / zur Präsidentin des Deutschen Bundestages gewählt?**
+1. der / die älteste Abgeordnete im Parlament
+2. der Ministerpräsident / die Ministerpräsidentin des größten Bundeslandes
+3. ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin
+4. ✔️ ein Abgeordneter / eine Abgeordnete der stärksten Fraktion
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی اغلب به عنوان رئیس مجلس فدرال آلمان انتخاب می‌شود؟
+1. مسن‌ترین نماینده مجلس
+2. نخست وزیر بزرگترین ایالت فدرال
+3. صدراعظم سابق فدرال
+4. ✔️ عضوی از قوی‌ترین گروه پارلمانی
+
+</div>
+
+
+## Frage ???
 [ :top: ](#referecnce)
 ** Frage **
 1. 
@@ -805,7 +1455,8 @@
 
 </div>
 
-## Frage ??? 
+
+## Frage ???
 [ :top: ](#referecnce)
 ** Frage **
 1. 
@@ -828,7 +1479,8 @@
 
 </div>
 
-## Frage ??? 
+
+## Frage ???
 [ :top: ](#referecnce)
 ** Frage **
 1. 
@@ -851,7 +1503,8 @@
 
 </div>
 
-## Frage ??? 
+
+## Frage ???
 [ :top: ](#referecnce)
 ** Frage **
 1. 
