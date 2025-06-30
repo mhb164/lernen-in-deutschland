@@ -14,6 +14,27 @@
  |[061](#frage-061)|[062](#frage-062)|[063](#frage-063)|[064](#frage-064)|[065](#frage-065)|[066](#frage-066)|[067](#frage-067)|[068](#frage-068)|[069](#frage-069)|[070](#frage-070)|
  |[071](#frage-071)|[072](#frage-072)|[073](#frage-073)|[074](#frage-074)|[075](#frage-075)|[076](#frage-076)|[077](#frage-077)|[078](#frage-078)|[079](#frage-079)|[080](#frage-080)|
  |[081](#frage-081)|[082](#frage-082)|[083](#frage-083)|[084](#frage-084)|[085](#frage-085)|[086](#frage-086)|[087](#frage-087)|[088](#frage-088)|[089](#frage-089)|[090](#frage-090)|
+ |[091](#frage-091)|[092](#frage-092)|[093](#frage-093)|[094](#frage-094)|[095](#frage-095)|[096](#frage-096)|[097](#frage-097)|[098](#frage-098)|[099](#frage-099)|[100](#frage-100)|
+ |[101](#frage-101)|[102](#frage-102)|[103](#frage-103)|[104](#frage-104)|[105](#frage-105)|[106](#frage-106)|[107](#frage-107)|[008](#frage-108)|[109](#frage-009)|[110](#frage-110)|
+ |[111](#frage-111)|[112](#frage-112)|[113](#frage-113)|[114](#frage-114)|[115](#frage-115)|[116](#frage-116)|[117](#frage-117)|[018](#frage-118)|[119](#frage-019)|[120](#frage-120)|
+ |[121](#frage-121)|[122](#frage-122)|[123](#frage-123)|[124](#frage-124)|[125](#frage-125)|[126](#frage-126)|[127](#frage-127)|[028](#frage-128)|[129](#frage-029)|[130](#frage-130)|
+ |[131](#frage-131)|[132](#frage-132)|[133](#frage-133)|[134](#frage-134)|[135](#frage-135)|[136](#frage-136)|[137](#frage-137)|[038](#frage-138)|[139](#frage-039)|[140](#frage-140)|
+ |[141](#frage-141)|[142](#frage-142)|[143](#frage-143)|[144](#frage-144)|[145](#frage-145)|[146](#frage-146)|[147](#frage-147)|[048](#frage-148)|[149](#frage-049)|[150](#frage-150)|
+ |[151](#frage-151)|[152](#frage-152)|[153](#frage-153)|[154](#frage-154)|[155](#frage-155)|[156](#frage-156)|[157](#frage-157)|[058](#frage-158)|[159](#frage-059)|[160](#frage-160)|
+ |[161](#frage-161)|[162](#frage-162)|[163](#frage-163)|[164](#frage-164)|[165](#frage-165)|[166](#frage-166)|[167](#frage-167)|[068](#frage-168)|[169](#frage-069)|[170](#frage-170)|
+ |[171](#frage-171)|[172](#frage-172)|[173](#frage-173)|[174](#frage-174)|[175](#frage-175)|[176](#frage-176)|[177](#frage-177)|[078](#frage-178)|[179](#frage-079)|[180](#frage-180)|
+ |[181](#frage-181)|[182](#frage-182)|[183](#frage-183)|[184](#frage-184)|[185](#frage-185)|[186](#frage-186)|[187](#frage-187)|[088](#frage-188)|[189](#frage-089)|[190](#frage-190)|
+ |[191](#frage-191)|[192](#frage-192)|[193](#frage-193)|[194](#frage-194)|[195](#frage-195)|[196](#frage-196)|[197](#frage-197)|[098](#frage-198)|[199](#frage-099)|[200](#frage-200)|
+ |[201](#frage-201)|[202](#frage-202)|[203](#frage-203)|[204](#frage-204)|[205](#frage-205)|[206](#frage-206)|[207](#frage-207)|[208](#frage-208)|[209](#frage-209)|[210](#frage-210)|
+ |[211](#frage-211)|[212](#frage-212)|[213](#frage-213)|[214](#frage-214)|[215](#frage-215)|[216](#frage-216)|[217](#frage-217)|[218](#frage-218)|[219](#frage-219)|[220](#frage-220)|
+ |[221](#frage-221)|[222](#frage-222)|[223](#frage-223)|[224](#frage-224)|[225](#frage-225)|[226](#frage-226)|[227](#frage-227)|[228](#frage-228)|[229](#frage-229)|[230](#frage-230)|
+ |[231](#frage-231)|[232](#frage-232)|[233](#frage-233)|[234](#frage-234)|[235](#frage-235)|[236](#frage-236)|[237](#frage-237)|[238](#frage-238)|[239](#frage-239)|[240](#frage-240)|
+ |[241](#frage-241)|[242](#frage-242)|[243](#frage-243)|[244](#frage-244)|[245](#frage-245)|[246](#frage-246)|[247](#frage-247)|[248](#frage-248)|[249](#frage-249)|[250](#frage-250)|
+ |[251](#frage-251)|[252](#frage-252)|[253](#frage-253)|[254](#frage-254)|[255](#frage-255)|[256](#frage-256)|[257](#frage-257)|[258](#frage-258)|[259](#frage-259)|[260](#frage-260)|
+ |[261](#frage-261)|[262](#frage-262)|[263](#frage-263)|[264](#frage-264)|[265](#frage-265)|[266](#frage-266)|[267](#frage-267)|[268](#frage-268)|[269](#frage-269)|[270](#frage-270)|
+ |[271](#frage-271)|[272](#frage-272)|[273](#frage-273)|[274](#frage-274)|[275](#frage-275)|[276](#frage-276)|[277](#frage-277)|[278](#frage-278)|[279](#frage-279)|[280](#frage-280)|
+ |[281](#frage-281)|[282](#frage-282)|[283](#frage-283)|[284](#frage-284)|[285](#frage-285)|[286](#frage-286)|[287](#frage-287)|[288](#frage-288)|[289](#frage-289)|[290](#frage-290)|
+ |[291](#frage-291)|[292](#frage-292)|[293](#frage-293)|[294](#frage-294)|[295](#frage-295)|[296](#frage-296)|[297](#frage-297)|[298](#frage-298)|[299](#frage-299)|[300](#frage-300)|
  
 ## Frage 001 
 [ :top: ](#referecnce)
@@ -837,7 +858,7 @@
 ## Frage 033 
 [ :top: ](#referecnce)
 **Welche Aussage ist richtig? in Deutschland ...**
-1. sind Staat und Religionsgemeinschaften voneinander getrennt.
+1. ✔️ sind Staat und Religionsgemeinschaften voneinander getrennt.
 2. bilden die Religionsgemeinschaften den Staat.
 3. ist der Staat abhängig von den Religionsgemeinschaften.
 4. bilden Staat und Religionsgemeinschaften eine Einheit.
@@ -1474,7 +1495,7 @@
 |||
 |||
 
-سوال
+چند سال پیش اولین جامعه یهودی در جایی که اکنون آلمان است، وجود داشت؟
 1. حدود ۳۰۰ سال پیش
 2. حدود ۷۰۰ سال پیش
 3. حدود ۱۱۵۰ سال پیش
@@ -2157,7 +2178,7 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 ## Frage 088
 [ :top: ](#referecnce)
 **Die parlamentarische Opposition im Deutschen Bundestag...**
-1. kontrolliert die Regierung.
+1. ✔️ kontrolliert die Regierung.
 2. entscheidet, wer Bundesminister / Bundesministerin wird.
 3. bestimmt, wer im Bundesrat sitzt.
 4. schlägt die Regierungschefs / Regierungschefinnen der Länder vor.
@@ -2220,6 +2241,1812 @@ Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bun
 2. مجلس فدرال (Bundesversammlung).
 3. بوندستاگ.
 4. دولت فدرال.
+
+</div>
+
+## Frage 091
+[ :top: ](#referecnce)
+**In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …**
+1. schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.
+2. leichter, wenn dadurch neue Parteien in den Bundesrat kommen.
+3. ✔️ schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.
+4. leichter, wenn es sich um ein reiches Bundesland handelt.
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان، تغییر دولت در یک ایالت فدرال می‌تواند بر سیاست‌های فدرال تأثیر بگذارد. دولت...
+1. اگر این امر اکثریت را در بوندستاگ تغییر دهد، دشوارتر خواهد شد.
+2. اگر احزاب جدیدی را به شورای فدرال بیاورد، آسان‌تر است.
+3. ✔️ اگر این امر اکثریت شورای فدرال را تغییر دهد، دشوارتر خواهد شد.
+4. اگر یک ایالت ثروتمند باشد، آسان‌تر است.
+
+</div>
+
+## Frage 092
+[ :top: ](#referecnce)
+**Was bedeutet die Abkürzung CSU in Deutschland?**
+1. Christlich Sichere Union
+2. Christlich Süddeutsche Union
+3. Christlich Sozialer Unternehmerverband
+4. ✔️ Christlich Soziale Union
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+مخفف CSU در آلمان به چه معناست؟
+1. اتحادیه امن مسیحی
+2. اتحادیه مسیحی جنوب آلمان
+3. انجمن کارآفرینان اجتماعی مسیحی
+4. ✔️ اتحادیه اجتماعی مسیحی
+
+</div>
+
+## Frage 093
+[ :top: ](#referecnce)
+**Je mehr "Zweitstimmen" eine Partei bei einer Bundestagswahl bekommt, desto...**
+1. weniger Erststimmen kann sie haben.
+2. mehr Direktkandidaten der Partei ziehen ins Parlament ein.
+3. größer ist das Risiko, eine Koalition bilden zu müssen.
+4. ✔️ mehr Sitze erhält die Partei im Parlament.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+هرچه یک حزب در انتخابات فدرال «آرای دوم» بیشتری کسب کند،...
+1. می‌تواند آرای کمتری از طریق انتخابات اکثریت نسبی داشته باشد.
+2. تعداد بیشتری از نامزدهای مستقیم حزب وارد پارلمان می‌شوند.
+3. خطر تشکیل ائتلاف بیشتر می‌شود.
+4. ✔️ حزب کرسی‌های بیشتری در پارلمان به دست می‌آورد.
+
+</div>
+
+## Frage 094
+[ :top: ](#referecnce)
+**Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?**
+1. 16
+2. ✔️ 18
+3. 21
+4. 23
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+از چه سنی می‌توان در انتخابات مجلس فدرال آلمان (بوندستاگ) شرکت کرد؟
+1. 16
+2. ✔️ 18
+3. 21
+4. 23
+
+</div>
+
+## Frage 095
+[ :top: ](#referecnce)
+**Was gilt für die meisten Kinder deutschland?**
+1. Wahlpflicht
+2. ✔️ Schulpflicht
+3. Schweigepflicht
+4. Religionspflicht
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه چیزی در مورد اکثر کودکان در آلمان صدق می‌کند؟
+1. رأی‌گیری اجباری
+2. ✔️ آموزش اجباری
+3. محرمانگی
+4. وظیفه دینی
+
+</div>
+
+## Frage 096
+[ :top: ](#referecnce)
+**Wie kann jemand, der den Holocaust leugnet, bestraft werden?**
+1. Kürzung sozialer Leistungen
+2. bis zu 100 Sozialstunden
+3. gar nicht, Holocaustleugnung ist erlaubt
+4. ✔️ mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چگونه می‌توان کسی را که هولوکاست را انکار می‌کند، مجازات کرد؟
+1. کاهش مزایای اجتماعی
+2. تا ۱۰۰ ساعت خدمات اجتماعی
+3. به هیچ وجه، انکار هولوکاست مجاز است
+4. ✔️ با حبس تا پنج سال یا جریمه نقدی
+
+</div>
+
+## Frage 097
+[ :top: ](#referecnce)
+**Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?**
+1. ✔️ Sozialversicherung
+2. Sozialhilfe
+3. Kindergeld
+4. Wohngeld
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+اگر به طور دائم شاغل باشید، در آلمان به طور خودکار چه حقوقی دریافت می‌کنید؟
+1. ✔️ تامین اجتماعی
+2. کمک‌های اجتماعی
+3. کمک هزینه فرزند
+4. کمک هزینه مسکن
+
+</div>
+
+## Frage 098
+[ :top: ](#referecnce)
+**Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln,...**
+1. dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.
+2. ✔️ kann die Regierung ihre Mehrheit verlieren.
+3. muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr Einverständnis geben.
+4. dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen.
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+وقتی اعضای مجلس فدرال آلمان (بوندستاگ) گروه پارلمانی خود را تغییر می‌دهند،...
+1. آنها دیگر اجازه شرکت در جلسات پارلمان را ندارند.
+2. ✔️ دولت ممکن است اکثریت خود را از دست بدهد.
+3. رئیس جمهور فدرال باید قبلاً رضایت خود را اعلام کند.
+4. رأی‌دهندگان این نمایندگان می‌توانند دوباره رأی دهند.
+
+</div>
+
+## Frage 099
+[ :top: ](#referecnce)
+**Wer bezahlt in deutschland die Sozialversicherungen?**
+1. ✔️ Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen
+2. nur Arbeitnehmer / Arbeitnehmerinnen
+3. alle Staatsangehörigen
+4. nur Arbeitgeber / Arbeitgeberinnen
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی در آلمان هزینه تامین اجتماعی را پرداخت می‌کند؟
+1. ✔️ کارفرمایان و کارمندان
+2. فقط کارمندان
+3. همه شهروندان
+4. فقط کارفرمایان
+
+</div>
+
+## Frage 100
+[ :top: ](#referecnce)
+**Was gehört nicht zur gesetzlichen Sozialversicherung?**
+1. ✔️ die Lebensversicherung
+2. die gesetzliche Rentenversicherung
+3. die Arbeitslosenversicherung
+4. die Pflegeversicherung
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه مواردی تحت پوشش بیمه اجتماعی قانونی نیست؟
+1. ✔️ بیمه عمر
+2. بیمه بازنشستگی قانونی
+3. بیمه بیکاری
+4. بیمه مراقبت‌های پرستاری
+
+</div>
+
+## Frage 101
+[ :top: ](#referecnce)
+**Gewerkschaften sind Interessenverbände der …**
+1. Jugendlichen
+2. ✔️ Arbeitnehmer und Arbeitnehmerinnen.
+3. Rentner und Rentnerinnen.
+4. Arbeitgeber und Arbeitgeberinnen.
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+اتحادیه‌های کارگری گروه‌های ذی‌نفع ...
+1. جوانان
+2. ✔️ کارمندان
+3. بازنشستگان
+4. کارفرمایان
+
+</div>
+
+## Frage 102
+[ :top: ](#referecnce)
+**Womit kann man in der Bundesrepublik Deutschland geehrt werden, 
+wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …**
+1. Bundesadler
+2. ✔️ Bundesverdienstkreuz
+3. Vaterländischen Verdienstorden
+4. Ehrentitel "Held der Deutschen Demokratischen Republik"
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در جمهوری فدرال آلمان، چه نشان افتخاری را می‌توان برای دستاوردهای استثنایی در زمینه‌های سیاسی، اقتصادی، فرهنگی، فکری یا اجتماعی دریافت کرد؟ ...
+1. نشان عقاب فدرال
+2. ✔️ صلیب لیاقت فدرال
+3. نشان لیاقت میهن‌پرستانه
+4. عنوان افتخاری "قهرمان جمهوری دموکراتیک آلمان"
+
+</div>
+
+## Frage 103
+[ :top: ](#referecnce)
+**Was wird in Deutschland als "Ampelkoalition" bezeichnet**
+1. der Bundestagsfraktionen von CDU und CSU
+2. ✔️ von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung
+3. von CSU, Die Linke und Bündnis 90/Die Grünen in einer Regierung
+4. der Bundestagsfraktionen von CDU und SPD
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال ۱۰۳: در آلمان به چه چیزی «ائتلاف چراغ راهنمایی» گفته می‌شود؟
+1. از گروه‌های پارلمانی CDU و CSU در بوندستاگ
+2. ✔️ از SPD، FDP و اتحاد ۹۰/سبزها در یک دولت
+3. از CSU، حزب چپ و اتحاد ۹۰/سبزها در یک دولت
+4. از گروه‌های پارلمانی CDU و SPD در بوندستاگ
+</div>
+
+## Frage 104
+[ :top: ](#referecnce)
+**Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?**
+1. Die Frau ist lange krank und arbeitsunfähig.
+
+2. Die Frau kam oft zu spät zur Arbeit.
+
+3. Die Frau erledigt private Sachen während der Arbeitszeit.
+
+4. ✔️ Die Frau bekommt ein Kind und ihr Chef weiß das.
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال ۱۰۴: زنی در آلمان شغل خود را از دست می‌دهد. دلیل این اخراج چه چیزی نباید باشد؟
+1. این زن مدت زیادی بیمار بوده و قادر به کار کردن نیست.
+2. این زن اغلب دیر به سر کار می‌رسید.
+3. این زن در طول ساعات کاری به امور شخصی خود رسیدگی می‌کند.
+4. ✔️ این زن بچه‌دار می‌شود و رئیسش این را می‌داند.
+
+</div>
+
+## Frage 105
+[ :top: ](#referecnce)
+**Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen in Deutschland?**
+1. Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.
+2. Sie schreiben die Wahlbenachrichtigungen vor der Wahl.
+3. Sie geben Zwischenergebnisse an die Medien weiter.
+4. ✔️ Sie zählen die Stimmen nach dem Ende der Wahl.
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+نقش کارکنان انتخابات در آلمان چیست؟
+1. آنها به افراد مسن در رأی دادن در غرفه رأی‌گیری کمک می‌کنند.
+2. آنها قبل از انتخابات اطلاعیه‌های رأی‌گیری را می‌نویسند.
+3. آنها نتایج موقت را به رسانه‌ها اطلاع می‌دهند.
+4. ✔️ آنها آرا را پس از انتخابات می‌شمارند.
+
+</div>
+
+## Frage 106
+[ :top: ](#referecnce)
+**In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?**
+1. Sie helfen Kindern und alten Menschen beim Wählen.
+2. Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.
+3. Sie geben Zwischenergebnisse an Journalisten weiter.
+4. ✔️ Sie zählen die Stimmen nach dem Ende der Wahl.
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان، کارکنان داوطلب انتخابات در انتخابات کمک می‌کنند. نقش کارکنان انتخابات چیست؟
+1. آنها به کودکان و سالمندان در رأی دادن کمک می‌کنند.
+2. آنها کارت‌ها و نامه‌هایی را می‌نویسند که محل رأی‌گیری را نشان می‌دهد.
+3. آنها نتایج موقت را به روزنامه‌نگاران ارائه می‌دهند.
+4. ✔️ آنها آرا را پس از انتخابات می‌شمارند.
+</div>
+
+## Frage 107
+[ :top: ](#referecnce)
+**Für wie viele Jahre wird der Bundestag in Deutschland gewählt?**
+1. 2 Jahre
+2. ✔️ 4 Jahre
+3. 6 Jahre
+4. 8 Jahre
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+دوره انتخاب نمایندگان مجلس فدرال در آلمان چند سال است؟
+1. ۲ سال
+2. ✔️ ۴ سال
+3. ۶ سال
+4. ۸ سال
+</div>
+
+## Frage 108
+[ :top: ](#referecnce)
+**Bei einer Bundestagswahl in Deutschland darf jeder wählen, der …**
+1. in der Bundesrepublik Deutschland wohnt und wählen möchte.
+2. ✔️ Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.
+3. seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.
+4. Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در انتخابات فدرال در آلمان، هر کسی که
+1. در جمهوری فدرال آلمان زندگی می‌کند و مایل به رأی دادن است.
+2. ✔️ شهروند جمهوری فدرال آلمان است و حداقل ۱۸ سال سن دارد.
+3. حداقل ۳ سال در جمهوری فدرال آلمان زندگی کرده است.
+4. شهروند جمهوری فدرال آلمان است و حداقل ۲۱ سال سن دارد. حق رأی دادن دارد.
+1. 
+</div>
+
+## Frage 109
+[ :top: ](#referecnce)
+**Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?**
+1. alle drei Jahre
+2. ✔️ alle vier Jahre
+3. alle fünf Jahre
+4. alle sechs Jahre
+
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+انتخابات فدرال در آلمان چند وقت یکبار برگزار می‌شود؟
+1. هر سه سال
+2. ✔️ هر چهار سال
+3. هر پنج سال
+4. هر شش سال
+</div>
+
+## Frage 110
+[ :top: ](#referecnce)
+**Für wie viele Jahre wird der Bundestag in Deutschland gewählt?**
+1. 2 Jahre
+2. 3 Jahre
+3. ✔️ 4 Jahre
+4. 5 Jahre
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+دوره انتخاب نمایندگان مجلس فدرال در آلمان چند سال است؟
+1. ۲ سال
+2. ۳ سال
+3. ✔️ ۴ سال
+4. ۵ سال
+
+</div>
+
+## Frage 111
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
+
+</div>
+
+## Frage ???
+[ :top: ](#referecnce)
+** Frage **
+1. 
+2.
+3.
+4.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+سوال
+1. 
+2.
+3.
+4.
 
 </div>
 
