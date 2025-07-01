@@ -2948,13 +2948,13 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 
 </div>
 
-## Frage ???
+## Frage 121
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …**
+1. ✔️ 5 %-Hürde.
+2. Zulassungsgrenze.
+3. Basiswert.
+4. Richtlinie.
 
 <div dir="rtl">
 
@@ -2963,21 +2963,203 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+یک حزب می‌خواهد وارد مجلس فدرال آلمان شود. با این حال، باید حداقل درصد آرا را داشته باشد. این به معنای...
+1. ✔️ مانع ۵٪.
+2. آستانه پذیرش.
+3. مبنا.
+4. راهنما.
+
+</div>
+
+## Frage 122
+[ :top: ](#referecnce)
+**Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …**
+1. ✔️ frei, gleich, geheim.
+2. offen, sicher, frei.
+3. geschlossen, gleich, sicher.
+4. sicher, offen, freiwillig.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه اصلی بر انتخابات در آلمان حاکم است؟ انتخابات در آلمان ...
+1. ✔️ آزاد، برابر، مخفی.
+2. آشکار، امن، آزاد.
+3. بسته، برابر، امن.
+4. امن، آشکار، داوطلبانه.
+
+</div>
+
+## Frage 123
+[ :top: ](#referecnce)
+**Was ist in Deutschland die „5 %-Hürde“?**
+1. Abstimmungsregelung im Bundestag für kleine Parteien
+2. Anwesenheitskontrolle im Bundestag für Abstimmungen
+3. ✔️ Mindestanteil an Wählerstimmen, um ins Parlament zu kommen
+4. Anwesenheitskontrolle im Bundesrat für Abstimmungen
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+«مانع ۵٪» در آلمان چیست؟
+1. قوانین رأی‌گیری در بوندستاگ برای احزاب کوچک
+2. بررسی حضور در بوندستاگ برای رأی‌گیری
+3. ✔️ حداقل سهم آرای مورد نیاز برای ورود به پارلمان
+4. بررسی حضور در بوندسرات برای رأی‌گیری
+
+</div>
+
+## Frage 124
+[ :top: ](#referecnce)
+**Die Bundestagswahl in Deutschland ist die Wahl …**
+1. des Bundeskanzlers / der Bundeskanzlerin.
+2. der Parlamente der Länder.
+3. ✔️ des Parlaments für Deutschland.
+4. des Bundespräsidenten / der Bundespräsidentin.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+انتخابات فدرال در آلمان، انتخاب ...
+1. صدراعظم فدرال.
+2. مجلس‌های ایالتی.
+3. ✔️ مجلس آلمان.
+4. رئیس جمهور فدرال.
+
+</div>
+
+## Frage 125
+[ :top: ](#referecnce)
+**In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …**
+1. die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.
+2. ✔️ nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.
+3. im Land bestehende Gesetze beizubehalten.
+4. den Armen mehr Macht zu geben.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در یک دموکراسی، یکی از کارکردهای انتخابات منظم ...
+1. وادار کردن شهروندان به رأی دادن است.
+2. ✔️ تسهیل تغییر دولت بر اساس خواست اکثریت رأی‌دهندگان.
+3. حفظ قوانین موجود در کشور.
+4. توانمندسازی فقرا.
+
+</div>
+
+## Frage 126
+[ :top: ](#referecnce)
+**Was bekommen wahlberechtigte Bürger und Bürgerinnen in Deutschland vor einer Wahl?**
+1. ✔️ eine Wahlbenachrichtigung von der Gemeinde
+2. eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin
+3. eine Benachrichtigung von der Bundesversammlung
+4. eine Benachrichtigung vom Pfarramt
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+رأی‌دهندگان واجد شرایط در آلمان قبل از انتخابات چه چیزی دریافت می‌کنند؟
+1. ✔️ اطلاعیه رأی‌گیری از شهرداری محلی
+2. مجوز رأی‌گیری از رئیس جمهور فدرال
+3. اطلاعیه از مجلس فدرال
+4. اطلاعیه از دفتر کلیسا
+
+</div>
+
+## Frage 127
+[ :top: ](#referecnce)
+**Warum gibt es die 5 %-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …**
+1. die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.
+2. die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.
+3. ✔️ viele kleine Parteien die Regierungsbildung erschweren.
+4. die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چرا مانع ۵٪ در قانون انتخابات جمهوری فدرال آلمان وجود دارد؟ این مانع وجود دارد زیرا...
+1. برنامه‌های بسیاری از احزاب کوچک شباهت‌های زیادی دارند.
+2. شهروندان می‌توانند وقتی احزاب کوچک زیادی وجود دارند، سردرگم شوند.
+3. ✔️ بسیاری از احزاب کوچک، تشکیل دولت را دشوار می‌کنند.
+4. احزاب کوچک پول کافی برای پرداخت به سیاستمداران خود ندارند.
+
+</div>
+
+## Frage 128
+[ :top: ](#referecnce)
+**Parlamentsmitglieder, die von den Bürgern und Bürgerinnen gewählt werden, nennt man …**
+1. ✔️ Abgeordnete.
+2. Kanzler / Kanzlerinnen.
+3. Botschafter / Botschafterinnen.
+4. Ministerpräsidenten / Ministerpräsidentinnen.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+اعضای پارلمان که توسط شهروندان انتخاب می‌شوند...
+1. ✔️ اعضای پارلمان (Abgeordnete).
+2. صدراعظم‌ها.
+3. سفیران.
+4. نخست‌وزیران.
+
+</div>
+
+## Frage 129
+[ :top: ](#referecnce)
+**Vom Volk gewählt wird in Deutschland …**
+1. der Bundeskanzler / die Bundeskanzlerin.
+2. der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.
+3. ✔️ der Bundestag.
+4. der Bundespräsident / die Bundespräsidentin.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان، مردم ...
+1. صدراعظم فدرال.
+2. وزیر-رئیس جمهور یک ایالت فدرال.
+3. ✔️ بوندستاگ.
+4. رئیس جمهور فدرال.
 
 </div>
 
 ## Frage ???
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?**
+![Frage_130](./Pictures/Frage_130.png)
+1. ✔️
 
 <div dir="rtl">
 
@@ -2986,21 +3168,294 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+کدام برگه رأی در انتخابات فدرال معتبر است؟
+1. ✔️
+
+</div>
+
+## Frage 131
+[ :top: ](#referecnce)
+**In Deutschland ist ein Bürgermeister / eine Bürgermeisterin …*
+1. der Leiter / die Leiterin einer Schule.
+2. der Chef / die Chefin einer Bank.
+3. ✔️ das Oberhaupt einer Gemeinde.
+4. der / die Vorsitzende einer Partei.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان، شهردار ...
+1. رئیس یک مدرسه.
+2. رئیس یک بانک.
+3. ✔️ رئیس یک شهرداری.
+4. رهبر یک حزب سیاسی.
+
+</div>
+
+## Frage 132
+[ :top: ](#referecnce)
+**Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?**
+1. Sie arbeiten als Soldaten / Soldatinnen.
+2. ✔️ Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.
+3. Sie arbeiten in der Bundesregierung.
+4. Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+بسیاری از مردم در آلمان در اوقات فراغت خود کار داوطلبانه انجام می‌دهند. این به چه معناست؟
+1. آنها به عنوان سرباز کار می‌کنند.
+2. ✔️ آنها به صورت داوطلبانه و بدون حقوق در باشگاه‌ها و انجمن‌ها کار می‌کنند.
+3. آنها برای دولت فدرال کار می‌کنند.
+4. آنها در بیمارستان کار می‌کنند و درآمد کسب می‌کنند.
+
+</div>
+
+## Frage 133
+[ :top: ](#referecnce)
+**Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?**
+1. Der Ehemann wählt für seine Frau mit.
+2. ✔️ Man kann durch Briefwahl seine Stimme abgeben.
+3. Man kann am Wahltag telefonisch seine Stimme abgeben.
+4. Kinder ab dem Alter von 14 Jahren dürfen wählen.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه مواردی در انتخابات فدرال و ایالتی آلمان مجاز است؟
+1. شوهر به همسرش رأی می‌دهد.
+2. ✔️ شما می‌توانید رأی خود را از طریق پست بدهید.
+3. شما می‌توانید در روز انتخابات از طریق تلفن رأی دهید.
+4. کودکان ۱۴ سال به بالا مجاز به رأی دادن هستند.
+
+</div>
+
+## Frage 134
+[ :top: ](#referecnce)
+**Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?**
+1. ✔️ Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.
+2. Ich werde Mitglied in einem Sportverein und trainiere Rad fahren.
+3. Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.
+4. Ich schreibe einen Brief an das Forstamt der Gemeinde.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+آنها می‌خواهند خط اتوبوسی را که همیشه با آن به محل کار می‌روید، لغو کنند. برای حفظ خط اتوبوس چه کاری می‌توانید انجام دهید؟
+1. ✔️ من به یک ابتکار شهروندی برای حفظ خط اتوبوس می‌پیوندم یا ابتکار خودم را شروع می‌کنم.
+2. من به یک باشگاه ورزشی می‌پیوندم و دوچرخه‌سواری تمرین می‌کنم.
+3. من با اداره مالیات تماس خواهم گرفت زیرا به عنوان یک مالیات‌دهنده، حق استفاده از خط اتوبوس را دارم.
+4. من نامه‌ای به اداره جنگلداری محلی خواهم نوشت.
+
+</div>
+
+## Frage 135
+[ :top: ](#referecnce)
+**Wen vertreten die Gewerkschaften in Deutschland?**
+1. große Unternehmen
+2. kleine Unternehmen
+3. Selbstständige
+4. ✔️ Arbeitnehmer und Arbeitnehmerinnen
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+اتحادیه‌های کارگری در آلمان نماینده چه کسانی هستند؟
+1. شرکت‌های بزرگ
+2. شرکت‌های کوچک
+3. خوداشتغالان
+4. ✔️ کارمندان
+
+</div>
+
+## Frage 136
+[ :top: ](#referecnce)
+**Sie gehen in Deutschland zum Arbeitsgericht bei …**
+1. falscher Nebenkostenabrechnung.
+2. ✔️ ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.
+3. Problemen mit den Nachbarn / Nachbarinnen.
+4. Schwierigkeiten nach einem Verkehrsunfall.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+در آلمان، شما به دلایل زیر به دادگاه کار مراجعه می‌کنید...
+1. قبض‌های نادرست آب و برق.
+2. ✔️ اخراج بی‌دلیل توسط رئیس.
+3. مشکلات با همسایه‌ها.
+4. مشکلات پس از تصادف رانندگی.
+
+</div>
+
+## Frage 137
+[ :top: ](#referecnce)
+**Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?**
+1. das Familiengericht
+2. das Strafgericht
+3. ✔️ das Arbeitsgericht
+4. das Amtsgericht
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+کدام دادگاه در آلمان صلاحیت رسیدگی به اختلافات استخدامی را دارد؟
+1. دادگاه خانواده
+2. دادگاه کیفری
+3. ✔️ دادگاه کار
+4. دادگاه بخش
+
+</div>
+
+## Frage 138
+[ :top: ](#referecnce)
+**Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine Arbeitgeberin zu Unrecht gekündigt hat?**
+1. weiter arbeiten und freundlich zum Chef / zur Chefin sein
+2. ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen
+3. ✔️ Kündigungsschutzklage erheben
+4. den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+اگر کارفرمایم به اشتباه مرا اخراج کرده باشد، در آلمان چه کاری می‌توانم انجام دهم؟
+1. به کارم ادامه دهم و با رئیسم دوستانه رفتار کنم
+2. از کارفرمایم شکایت کنم
+3. ✔️ شکایت از اخراج اشتباه
+4. کارفرمایم را به پلیس گزارش دهم
+
+</div>
+
+## Frage 139
+[ :top: ](#referecnce)
+**Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …**
+1. zu einer anderen Religion übertritt.
+2. ✔️ eine Straftat begangen hat und angeklagt wird.
+3. eine andere Meinung als die der Regierung vertritt.
+4. sein Auto falsch geparkt hat und es abgeschleppt wird.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه زمانی در آلمان پرونده قضایی تشکیل می‌شود؟ اگر کسی...
+1. به دین دیگری روی آورد.
+2. ✔️ مرتکب جرم شود و متهم شود.
+3. نظری متفاوت از دولت داشته باشد.
+4. ماشین خود را غیرقانونی پارک کند و یدک کشیده شود.
+
+</div>
+
+## Frage 140
+[ :top: ](#referecnce)
+**Was macht ein Schöffe / eine Schöffin in Deutschland? Er / Sie …**
+1. ✔️ entscheidet mit Richtern / Richterinnen über Schuld und Strafe.
+2. gibt Bürgern / Bürgerinnen rechtlichen Rat.
+3. stellt Urkunden aus.
+4. verteidigt den Angeklagten / die Angeklagte.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+یک قاضی غیرحرفه‌ای در آلمان چه می‌کند؟ او/او…
+1. ✔️ در مورد گناهکار بودن و مجازات به همراه قضات تصمیم می‌گیرد.
+2. به شهروندان مشاوره حقوقی می‌دهد.
+3. اسناد صادر می‌کند.
+4. از متهم دفاع می‌کند.
+
+</div>
+
+## Frage 141
+[ :top: ](#referecnce)
+**Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?**
+1. ✔️ ein Rechtsanwalt / eine Rechtsanwältin
+2. ein Richter / eine Richterin
+3. ein Schöffe / eine Schöffin
+4. ein Staatsanwalt / eine Staatsanwältin
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+چه کسی در آلمان به مردم در مورد مسائل حقوقی مشاوره می‌دهد و نماینده آنها در دادگاه است؟
+1. ✔️ یک وکیل
+2. یک قاضی
+3. یک قاضی غیر روحانی
+4. یک دادستان عمومی
+
+</div>
+
+## Frage 142
+[ :top: ](#referecnce)
+**Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland? Ein Richter / eine Richterin …**
+1. vertritt Bürger und Bürgerinnen vor einem Gericht.
+2. ✔️ arbeitet an einem Gericht und spricht Urteile.
+3. ändert Gesetze.
+4. betreut Jugendliche vor Gericht.
+
+<div dir="rtl">
+
+| English | Deutsch | فارسی
+|-|-|-|
+|||
+|||
+
+وظیفه اصلی یک قاضی در آلمان چیست؟ یک قاضی...
+1. نماینده شهروندان در دادگاه است.
+2. ✔️ در دادگاه کار می‌کند و احکام را صادر می‌کند.
+3. قوانین را تغییر می‌دهد.
+4. نظارت بر نوجوانان در دادگاه را بر عهده دارد.
 
 </div>
 
 ## Frage ???
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Ein Richter / eine Richterin in Deutschland gehört zur …**
+1. ✔️ Judikative.
+2. Exekutive.
+3. Operative.
+4. Legislative.
 
 <div dir="rtl">
 
@@ -3009,21 +3464,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+یک قاضی در آلمان متعلق به ...
+1. ✔️ قوه قضائیه.
+2. قوه مجریه.
+3. قوه عملیاتی.
+4. قوه مقننه.
 
 </div>
 
-## Frage ???
+## Frage 144
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Ein Richter / eine Richterin gehört in Deutschland zur …**
+1. vollziehenden Gewalt.
+2. ✔️ rechtsprechenden Gewalt.
+3. planenden Gewalt.
+4. gesetzgebenden Gewalt.
 
 <div dir="rtl">
 
@@ -3032,21 +3487,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+در آلمان، یک قاضی به ...
+1. قوه مجریه.
+2. ✔️ قوه قضاییه.
+3. قوه برنامه‌ریزی.
+4. قوه مقننه.
 
 </div>
 
-## Frage ???
+## Frage 145
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter / eine Richterin? Für die …**
+1. ✔️ Judikative.
+2. Exekutive.
+3. Presse.
+4. Legislative.
 
 <div dir="rtl">
 
@@ -3055,21 +3510,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+در آلمان، قدرت دولتی تقسیم شده است. یک قاضی برای کدام قوه حکومت کار می‌کند؟ برای…
+1. ✔️ قوه قضائیه.
+2. قوه مجریه.
+3. قوه مطبوعات.
+4. قوه مقننه.
 
 </div>
 
-## Frage ???
+## Frage 146
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Wie nennt man in Deutschland ein Verfahren vor einem Gericht?**
+1. Programm
+2. Prozedur
+3. Protokoll
+4. ✔️ Prozess
 
 <div dir="rtl">
 
@@ -3078,21 +3533,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+در آلمان به روند دادرسی چه می‌گویند؟
+1. برنامه
+2. رویه
+3. پروتکل
+4. ✔️ فرآیند
 
 </div>
 
-## Frage ???
+## Frage 147
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Was ist die Arbeit eines Richters / einer Richterin in Deutschland?**
+1. Deutschland regieren
+2. ✔️ Recht sprechen
+3. Pläne erstellen
+4. Gesetze erlassen
 
 <div dir="rtl">
 
@@ -3101,21 +3556,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+وظیفه قاضی در آلمان چیست؟
+1. حکومت بر آلمان
+2. ✔️ اجرای عدالت
+3. تهیه پیش نویس طرح ها
+4. تصویب قوانین
 
 </div>
 
-## Frage ???
+## Frage 148
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Was ist eine Aufgabe der Polizei in Deutschland?**
+1. das Land zu verteidigen
+2. die Bürgerinnen und Bürger abzuhören
+3. die Gesetze zu beschließen
+4. ✔️ die Einhaltung von Gesetzen zu überwachen
 
 <div dir="rtl">
 
@@ -3124,21 +3579,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+نقش پلیس در آلمان چیست؟
+1. دفاع از کشور
+2. استراق سمع شهروندان
+3. تصویب قوانین
+4. ✔️ نظارت بر رعایت قوانین
 
 </div>
 
-## Frage ???
+## Frage 149
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Was ist ein Beispiel für antisemitisches Verhalten?**
+1. ein jüdisches Fest besuchen
+2. die israelische Regierung kritisieren
+3. ✔️ den Holocaust leugnen
+4. gegen Juden Fußball spielen
 
 <div dir="rtl">
 
@@ -3147,21 +3602,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+نمونه‌ای از رفتار یهودستیزانه چیست؟
+1. شرکت در یک جشنواره یهودی
+2. انتقاد از دولت اسرائیل
+3. ✔️ انکار هولوکاست
+4. بازی فوتبال در مقابل یهودیان
 
 </div>
 
-## Frage ???
+## Frage 150
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Ein Gerichtsschöffe / eine Gerichtsschöffin in Deutschland ist …**
+1. der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.
+2. ✔️ ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.
+3. ein Mitglied eines Gemeinderats.
+4. eine Person, die Jura studiert hat.
 
 <div dir="rtl">
 
@@ -3170,471 +3625,11 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
-
-</div>
-
-## Frage ???
-[ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
-
-<div dir="rtl">
-
-| English | Deutsch | فارسی
-|-|-|-|
-|||
-|||
-
-سوال
-1. 
-2.
-3.
-4.
+یک قاضی غیر روحانی در آلمان ...
+1. معاون شهردار است.
+2. ✔️ یک قاضی غیر روحانی.
+3. عضو شورای محلی.
+4. شخصی که حقوق خوانده است.
 
 </div>
 
