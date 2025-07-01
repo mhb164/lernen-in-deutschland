@@ -2718,11 +2718,12 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 
 ## Frage 111
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?**
+1. Die Politik Israels öffentlich kritisieren.
+2. Das Aufhängen einer israelischen Flagge auf dem Privatgrundstück.
+3. Eine Diskussion über die Politik Israels.
+4. ✔️ Der öffentliche Aufruf zur Vernichtung Israels.
+
 
 <div dir="rtl">
 
@@ -2731,21 +2732,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+کدام اقدامات مربوط به کشور اسرائیل در آلمان ممنوع است؟
+1. انتقاد علنی از سیاست‌های اسرائیل.
+2. نصب پرچم اسرائیل در ملک خصوصی.
+3. بحث در مورد سیاست‌های اسرائیل.
+4. ✔️ فراخوان عمومی برای نابودی اسرائیل.
 
 </div>
 
-## Frage ???
+## Frage 112
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Die Wahlen in Deutschland sind …**
+1. speziell.
+2. ✔️ geheim.
+3. berufsbezogen.
+4. geschlechtsabhängig.
 
 <div dir="rtl">
 
@@ -2754,21 +2755,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+انتخابات در آلمان ...
+1. ویژه.
+2. ✔️ مخفی.
+3. حرفه‌ای.
+4. مختص جنسیت.
 
 </div>
 
-## Frage ???
+## Frage 113
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Wahlen in Deutschland gewinnt die Partei, die …**
+1. ✔️ die meisten Stimmen bekommt.
+2. die meisten Männer mehrheitlich gewählt haben.
+3. die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.
+4. die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat.
 
 <div dir="rtl">
 
@@ -2777,21 +2778,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+انتخابات در آلمان توسط حزبی برنده می‌شود که...
+1. ✔️ بیشترین آرا را کسب کند.
+2. بیشتر مردان در اکثریت رأی دادند.
+3. بیشترین آرا را در بین کارگران کسب کرد.
+4. بیشترین آرای اکثریت نسبی را برای نامزد صدراعظمی خود کسب کرد.
 
 </div>
 
-## Frage ???
+## Frage 114
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**An demokratischen Wahlen in Deutschland teilzunehmen ist …**
+1. eine Pflicht.
+2. ✔️ ein Recht.
+3. ein Zwang.
+4. eine Last.
 
 <div dir="rtl">
 
@@ -2800,21 +2801,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+شرکت در انتخابات دموکراتیک در آلمان ...
+1. یک وظیفه است.
+2. ✔️ یک حق.
+3. یک اجبار.
+4. یک بار.
 
 </div>
 
-## Frage ???
+## Frage 115
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Was bedeutet „aktives Wahlrecht“ in Deutschland?**
+1. Man kann gewählt werden.
+2. Man muss wählen gehen.
+3. ✔️ Man kann wählen.
+4. Man muss zur Auszählung der Stimmen gehen.
 
 <div dir="rtl">
 
@@ -2823,21 +2824,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+«حق رأی فعال» در آلمان به چه معناست؟
+1. شما می‌توانید انتخاب شوید.
+2. شما باید رأی دهید.
+3. ✔️ شما می‌توانید رأی دهید.
+4. شما باید در شمارش آرا شرکت کنید.
 
 </div>
 
-## Frage ???
+## Frage 116
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …**
+1. aktive Wahlkampagne.
+2. aktives Wahlverfahren.
+3. aktiver Wahlkampf.
+4. ✔️ aktives Wahlrecht.
 
 <div dir="rtl">
 
@@ -2846,21 +2847,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+اگر به شما اجازه داده شود در انتخابات فدرال آلمان رأی دهید، این به معنای ...
+1. کمپین انتخاباتی فعال.
+2. روند انتخاباتی فعال.
+3. کمپین انتخاباتی فعال.
+4. ✔️ حق رأی فعال.
 
 </div>
 
-## Frage ???
+## Frage 117
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?**
+1. 3 %
+2. 4 %
+3. ✔️ 5 %
+4. 6 %
 
 <div dir="rtl">
 
@@ -2869,21 +2870,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+احزاب برای انتخاب شدن در مجلس فدرال آلمان باید چند درصد از آرای دوم را کسب کنند؟
+1. ۳٪
+2. ۴٪
+3. ✔️ ۵٪
+4. ۶٪
 
 </div>
 
-## Frage ???
+## Frage 118
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?**
+1. nur Deutsche
+2. nur Israelis
+3. nur religiöse Menschen
+4. ✔️ alle Menschen
 
 <div dir="rtl">
 
@@ -2892,21 +2893,22 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+چه کسی واجد شرایط عضویت در تقریباً ۴۰ باشگاه ورزشی یهودی مکابی است؟
+1. فقط آلمانی‌ها
+2. فقط اسرائیلی‌ها
+3. فقط افراد مذهبی
+4. ✔️ همه مردم
+
 
 </div>
 
-## Frage ???
+## Frage 119
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Wahlen in Deutschland sind frei. Was bedeutet das?**
+1. Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.
+2. Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.
+3. ✔️ Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.
+4. Ich kann frei entscheiden, wo ich wählen gehen möchte.
 
 <div dir="rtl">
 
@@ -2915,21 +2917,21 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+انتخابات در آلمان آزاد است. این به چه معناست؟
+1. تمام مجرمان محکوم اجازه رأی دادن ندارند.
+2. اگر بخواهم رأی بدهم، کارفرمایم باید به من مرخصی بدهد.
+3. ✔️ هر کسی می‌تواند بدون اجبار تصمیم بگیرد که آیا می‌خواهد رأی بدهد یا نه و به چه کسی می‌خواهد رأی بدهد.
+4. من می‌توانم آزادانه تصمیم بگیرم که کجا می‌خواهم رأی بدهم.
 
 </div>
 
-## Frage ???
+## Frage 120
 [ :top: ](#referecnce)
-** Frage **
-1. 
-2.
-3.
-4.
+**Das Wahlsystem in Deutschland ist ein …**
+1. Zensuswahlrecht.
+2. Dreiklassenwahlrecht.
+3. ✔️ Mehrheits- und Verhältniswahlrecht.
+4. allgemeines Männerwahlrecht.
 
 <div dir="rtl">
 
@@ -2938,11 +2940,11 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 |||
 |||
 
-سوال
-1. 
-2.
-3.
-4.
+سیستم انتخاباتی در آلمان ...
+1. رأی‌گیری مبتنی بر سرشماری.
+2. رأی‌گیری سه‌طبقه‌ای.
+3. ✔️ نمایندگی اکثریتی و تناسبی.
+4. حق رأی عمومی مردان.
 
 </div>
 
