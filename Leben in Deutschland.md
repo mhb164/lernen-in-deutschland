@@ -3155,7 +3155,7 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 
 </div>
 
-## Frage ???
+## Frage 130
 [ :top: ](#referecnce)
 **Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?**
 ![Frage_130](./Pictures/Frage_130.png)
@@ -3449,7 +3449,7 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 
 </div>
 
-## Frage ???
+## Frage 143
 [ :top: ](#referecnce)
 **Ein Richter / eine Richterin in Deutschland gehört zur …**
 1. ✔️ Judikative.
@@ -3635,15 +3635,11 @@ wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem
 
 ## Frage 151
 [ :top: ](#referecnce)
-Wer baute die Mauer in Berlin?
-—
-Großbritannien
-—
-die Bundesrepublik Deutschland
-✔️
-die DDR
-—
-die USA
+**Wer baute die Mauer in Berlin?**
+1. Großbritannien
+2. die Bundesrepublik Deutschland
+3. ✔️ die DDR
+4. die USA
 
 <div dir="rtl">
 
@@ -3653,28 +3649,20 @@ die USA
 |||
 
 چه کسی دیوار برلین را ساخت؟
-
-بریتانیای کبیر
-
-جمهوری فدرال آلمان
-✔️
-آلمان شرقی
-
-ایالات متحده آمریکا
+1. بریتانیای کبیر
+2. جمهوری فدرال آلمان
+3. ✔️ آلمان شرقی
+4. ایالات متحده آمریکا
 
 </div>
 
 ## Frage 152
 [ :top: ](#referecnce)
-Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?
-—
-1918 bis 1923
-—
-1932 bis 1950
-✔️
-1933 bis 1945
-—
-1945 bis 1989
+**Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?**
+1. 1918 bis 1923
+2. 1932 bis 1950
+3. ✔️ 1933 bis 1945
+4. 1945 bis 1989
 
 <div dir="rtl">
 
@@ -3684,32 +3672,20 @@ Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?
 |||
 
 چه زمانی ناسیونال سوسیالیست‌ها، به رهبری آدولف هیتلر، در آلمان در قدرت بودند؟
-
-
-۱۹۱۸ تا ۱۹۲۳
-
-
-۱۹۳۲ تا ۱۹۵۰
-
-✔️
-۱۹۳۳ تا ۱۹۴۵
-
-
-۱۹۴۵ تا ۱۹۸۹
+1. ۱۹۱۸ تا ۱۹۲۳
+2. ۱۹۳۲ تا ۱۹۵۰
+3. ✔️ ۱۹۳۳ تا ۱۹۴۵
+4. ۱۹۴۵ تا ۱۹۸۹
 
 </div>
 
 ## Frage 153
 [ :top: ](#referecnce)
- Was war am 8. Mai 1945?
-—
-Tod Adolf Hitlers
-—
-Beginn des Berliner Mauerbaus
-—
-Wahl von Konrad Adenauer zum Bundeskanzler
-✔️
-Ende des Zweiten Weltkriegs in Europa
+**Was war am 8. Mai 1945?**
+1. Tod Adolf Hitlers
+2. Beginn des Berliner Mauerbaus
+3 Wahl von Konrad Adenauer zum Bundeskanzler
+4. ✔️ Ende des Zweiten Weltkriegs in Europa
 
 <div dir="rtl">
 
@@ -3719,28 +3695,20 @@ Ende des Zweiten Weltkriegs in Europa
 |||
 
 در ۸ مه ۱۹۴۵ چه اتفاقی افتاد؟
-
-مرگ آدولف هیتلر
-
-آغاز ساخت دیوار برلین
-
-انتخاب کنراد آدناور به عنوان صدراعظم
-✔️
-پایان جنگ جهانی دوم در اروپا
+1. مرگ آدولف هیتلر
+2. آغاز ساخت دیوار برلین
+3. انتخاب کنراد آدناور به عنوان صدراعظم
+4. ✔️ پایان جنگ جهانی دوم در اروپا
 
 </div>
 
 ## Frage 154
 [ :top: ](#referecnce)
- Wann war der Zweite Weltkrieg zu Ende?
-—
-1933
-✔️
-1945
-—
-1949
-—
-1961
+**Wann war der Zweite Weltkrieg zu Ende?**
+1. 1933
+2. ✔️ 1945
+3. 1949
+4. 1961
 
 <div dir="rtl">
 
@@ -3750,26 +3718,20 @@ Ende des Zweiten Weltkriegs in Europa
 |||
 
 جنگ جهانی دوم چه زمانی پایان یافت؟
-
-— ۱۹۳۳
-✔️
-۱۹۴۵
-— ۱۹۴۹
-— ۱۹۶۱
+1. ۱۹۳۳
+2. ✔️ ۱۹۴۵
+3. ۱۹۴۹
+4. ۱۹۶۱
 
 </div>
 
 ## Frage 155
 [ :top: ](#referecnce)
-Wann waren die Nationalsozialisten in Deutschland an der Macht?
-—
-1888 bis 1918
-—
-1921 bis 1934
-✔️
-1933 bis 1945
-—
-1949 bis 1963
+**Wann waren die Nationalsozialisten in Deutschland an der Macht?**
+1. 1888 bis 1918
+2. 1921 bis 1934
+3. ✔️ 1933 bis 1945
+4. 1949 bis 1963
 
 <div dir="rtl">
 
@@ -3779,26 +3741,20 @@ Wann waren die Nationalsozialisten in Deutschland an der Macht?
 |||
 
 چه زمانی ناسیونال سوسیالیست‌ها در آلمان در قدرت بودند؟
-
-— ۱۸۸۸ تا ۱۹۱۸
-— ۱۹۲۱ تا ۱۹۳۴
-✔️
-۱۹۳۳ تا ۱۹۴۵
-— ۱۹۴۹ تا ۱۹۶۳
+1. ۱۸۸۸ تا ۱۹۱۸
+2. ۱۹۲۱ تا ۱۹۳۴
+3. ✔️ ۱۹۳۳ تا ۱۹۴۵
+4. ۱۹۴۹ تا ۱۹۶۳
 
 </div>
 
 ## Frage 156
 [ :top: ](#referecnce)
- In welchem Jahr wurde Hitler Reichskanzler?
-—
-1923
-—
-1927
-✔️
-1933
-—
-1936
+**In welchem Jahr wurde Hitler Reichskanzler?**
+1. 1923
+2. 1927
+3. ✔️ 1933
+4. 1936
 
 <div dir="rtl">
 
@@ -3808,33 +3764,20 @@ Wann waren die Nationalsozialisten in Deutschland an der Macht?
 |||
 
 هیتلر در چه سالی صدراعظم شد؟
-
-
-۱۹۲۳
-
-
-۱۹۲۷
-
-✔️
-
-۱۹۳۳
-
-
-۱۹۳۶
+1. ۱۹۲۳
+2. ۱۹۲۷
+3. ✔️ ۱۹۳۳
+4. ۱۹۳۶
 
 </div>
 
 ## Frage 157
 [ :top: ](#referecnce)
-Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …
-✔️
-eine Diktatur.
-—
-einen demokratischen Staat.
-—
-eine Monarchie.
-—
-ein Fürstentum.
+**Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …**
+1. ✔️ eine Diktatur.
+2. einen demokratischen Staat.
+3. eine Monarchie.
+4. ein Fürstentum.
 
 <div dir="rtl">
 
@@ -3844,28 +3787,20 @@ ein Fürstentum.
 |||
 
 در سال ۱۹۳۳، ناسیونال سوسیالیست‌ها به رهبری آدولف هیتلر در آلمان...
-✔️
-یک دیکتاتوری.
-
-یک دولت دموکراتیک.
-
-یک سلطنت.
-
-یک شاهزاده‌نشین.
+1. ✔️ یک دیکتاتوری.
+2. یک دولت دموکراتیک.
+3. یک سلطنت.
+4. یک شاهزاده‌نشین.
 
 </div>
 
 ## Frage 158
 [ :top: ](#referecnce)
-Das „Dritte Reich“ war eine …
-✔️
-Diktatur.
-—
-Demokratie.
-—
-Monarchie.
-—
-Räterepublik.
+**Das „Dritte Reich“ war eine …**
+1. ✔️ Diktatur.
+2. Demokratie.
+3. Monarchie.
+4. Räterepublik.
 
 <div dir="rtl">
 
@@ -3875,28 +3810,20 @@ Räterepublik.
 |||
 
 «رایش سوم» یک...
-✔️
-دیکتاتوری.
-—
-دموکراسی.
-—
-سلطنت.
-—
-جمهوری شوروی.
+1. ✔️ دیکتاتوری.
+2. دموکراسی.
+3. سلطنت.
+4. جمهوری شوروی.
 
 </div>
 
 ## Frage 159
 [ :top: ](#referecnce)
-Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?
-✔️
-freie Wahlen
-—
-Pressezensur
-—
-willkürliche Verhaftungen
-—
-Verfolgung der Juden
+**Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?**
+1. ✔️ freie Wahlen
+2. Pressezensur
+3. willkürliche Verhaftungen
+4. Verfolgung der Juden
 
 <div dir="rtl">
 
@@ -3906,28 +3833,20 @@ Verfolgung der Juden
 |||
 
 چه چیزی در دوران نازی‌ها در آلمان وجود نداشت؟
-✔️
-انتخابات آزاد
-—
-سانسور مطبوعات
-—
-دستگیری‌های خودسرانه
-—
-آزار و اذیت یهودیان
+1. ✔️ انتخابات آزاد
+2. سانسور مطبوعات
+3. دستگیری‌های خودسرانه
+4. آزار و اذیت یهودیان
 
 </div>
 
 ## Frage 160
 [ :top: ](#referecnce)
-Welcher Krieg dauerte von 1939 bis 1945?
-—
-der Erste Weltkrieg
-✔️
-der Zweite Weltkrieg
-—
-der Vietnamkrieg
-—
-der Golfkrieg
+**Welcher Krieg dauerte von 1939 bis 1945?**
+1. der Erste Weltkrieg
+2. ✔️ der Zweite Weltkrieg
+3. der Vietnamkrieg
+4. der Golfkrieg
 
 <div dir="rtl">
 
@@ -3937,28 +3856,20 @@ der Golfkrieg
 |||
 
 کدام جنگ از سال ۱۹۳۹ تا ۱۹۴۵ طول کشید؟
-
-جنگ جهانی اول
-✔️
-جنگ جهانی دوم
-
-جنگ ویتنام
-
-جنگ خلیج فارس
+1. جنگ جهانی اول
+2. ✔️ جنگ جهانی دوم
+3. جنگ ویتنام
+4. جنگ خلیج فارس
 
 </div>
 
 ## Frage 161
 [ :top: ](#referecnce)
-Was kennzeichnete den NS-Staat? Eine Politik …
-✔️
-des staatlichen Rassismus
-—
-der Meinungsfreiheit
-—
-der allgemeinen Religionsfreiheit
-—
-der Entwicklung der Demokratie
+**Was kennzeichnete den NS-Staat? Eine Politik …**
+1. ✔️ des staatlichen Rassismus
+2. der Meinungsfreiheit
+3. der allgemeinen Religionsfreiheit
+4. der Entwicklung der Demokratie
 
 <div dir="rtl">
 
@@ -3968,28 +3879,20 @@ der Entwicklung der Demokratie
 |||
 
 چه چیزی دولت نازی را مشخص می‌کرد؟ سیاستی مبتنی بر...
-✔️
-نژادپرستی دولتی
-—
-آزادی بیان
-—
-آزادی مذهبی جهانی
-—
-توسعه دموکراسی
+1. ✔️ نژادپرستی دولتی
+2. آزادی بیان
+3. آزادی مذهبی جهانی
+4. توسعه دموکراسی
 
 </div>
 
 ## Frage 162
 [ :top: ](#referecnce)
-Claus Schenk Graf von Stauffenberg wurde bekannt durch …
-—
-eine Goldmedaille bei den Olympischen Spielen 1936.
-—
-den Bau des Reichstagsgebäudes.
-—
-den Aufbau der Wehrmacht.
-✔️
-das Attentat auf Hitler am 20. Juli 1944.
+**Claus Schenk Graf von Stauffenberg wurde bekannt durch …**
+1. eine Goldmedaille bei den Olympischen Spielen 1936.
+2. den Bau des Reichstagsgebäudes.
+3. den Aufbau der Wehrmacht.
+4. ✔️ das Attentat auf Hitler am 20. Juli 1944.
 
 <div dir="rtl">
 
@@ -3999,29 +3902,20 @@ das Attentat auf Hitler am 20. Juli 1944.
 |||
 
 کلاوس شنک گراف فون اشتاوفنبرگ به خاطر...
-
-— مدال طلا در بازی‌های المپیک ۱۹۳۶.
-
-— ساخت ساختمان رایشتاگ.
-
-— تأسیس ورماخت.
-
-✔️
-سوء قصد به هیتلر در ۲۰ ژوئیه ۱۹۴۴.
+1. مدال طلا در بازی‌های المپیک ۱۹۳۶.
+2. ساخت ساختمان رایشتاگ.
+3. تأسیس ورماخت.
+4. ✔️ سوء قصد به هیتلر در ۲۰ ژوئیه ۱۹۴۴.
 
 </div>
 
 ## Frage 163
 [ :top: ](#referecnce)
-In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?
-—
-1925
-—
-1930
-✔️
-1938
-—
-1945
+**In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?**
+1. 1925
+2. 1930
+3. ✔️ 1938
+4. 1945
 
 <div dir="rtl">
 
@@ -4031,32 +3925,20 @@ In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Gesc
 |||
 
 نازی‌ها در چه سالی کنیسه‌ها و مغازه‌های یهودیان را در آلمان تخریب کردند؟
-
-
-۱۹۲۵
-
-
-۱۹۳۰
-✔️
-
-۱۹۳۸
-
-
-۱۹۴۵
+1. ۱۹۲۵
+2. ۱۹۳۰
+3. ✔️ ۱۹۳۸
+4. ۱۹۴۵
 
 </div>
 
 ## Frage 164
 [ :top: ](#referecnce)
-Was passierte am 9. November 1938 in Deutschland?
-—
-Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.
-—
-Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.
-✔️
-Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.
-—
-Hitler wird Reichspräsident und lässt alle Parteien verbieten.
+**Was passierte am 9. November 1938 in Deutschland?**
+1. Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.
+2. Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.
+3. ✔️ Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.
+4. Hitler wird Reichspräsident und lässt alle Parteien verbieten.
 
 <div dir="rtl">
 
@@ -4066,28 +3948,20 @@ Hitler wird Reichspräsident und lässt alle Parteien verbieten.
 |||
 
 در ۹ نوامبر ۱۹۳۸ در آلمان چه اتفاقی افتاد؟
-
-جنگ جهانی دوم با حمله به لهستان آغاز شد.
-
-نازی‌ها در انتخابات شکست خوردند و رایشتاگ را منحل کردند.
-
-✔️ مغازه‌ها و کنیسه‌های یهودیان توسط نازی‌ها و حامیانشان تخریب شد.
-
-هیتلر رئیس جمهور رایش شد و تمام احزاب سیاسی را ممنوع کرد.
+1. جنگ جهانی دوم با حمله به لهستان آغاز شد.
+2. نازی‌ها در انتخابات شکست خوردند و رایشتاگ را منحل کردند.
+3. ✔️ مغازه‌ها و کنیسه‌های یهودیان توسط نازی‌ها و حامیانشان تخریب شد.
+4. هیتلر رئیس جمهور رایش شد و تمام احزاب سیاسی را ممنوع کرد.
 
 </div>
 
 ## Frage 165
 [ :top: ](#referecnce)
-Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?
-✔️
-Konrad Adenauer
-—
-Kurt Georg Kiesinger
-—
-Helmut Schmidt
-—
-Willy Brandt
+**Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?**
+1. ✔️ Konrad Adenauer
+2. Kurt Georg Kiesinger
+3. Helmut Schmidt
+4. Willy Brandt
 
 <div dir="rtl">
 
@@ -4097,29 +3971,20 @@ Willy Brandt
 |||
 
 نام اولین صدراعظم جمهوری فدرال آلمان چه بود؟
-
-✔️
-کنراد آدناور
-—
-کورت گئورگ کیسینگر
-—
-هلموت اشمیت
-—
-ویلی برانت
+1. ✔️ کنراد آدناور
+2. کورت گئورگ کیسینگر
+3. هلموت اشمیت
+4. ویلی برانت
 
 </div>
 
 ## Frage 166
 [ :top: ](#referecnce)
-Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir sind das Volk“?
-✔️
-bei den Montagsdemonstrationen 1989 in der DDR
-—
-beim Arbeiteraufstand 1953 in der DDR
-—
-bei den Demonstrationen 1968 in der Bundesrepublik Deutschland
-—
-bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland
+**Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir sind das Volk“?**
+1. ✔️ bei den Montagsdemonstrationen 1989 in der DDR
+2. beim Arbeiteraufstand 1953 in der DDR
+3. bei den Demonstrationen 1968 in der Bundesrepublik Deutschland
+4. bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland
 
 <div dir="rtl">
 
@@ -4129,28 +3994,20 @@ bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland
 |||
 
 در کدام تظاهرات در آلمان مردم فریاد زدند "ما مردم هستیم"؟
-✔️
-در تظاهرات دوشنبه در سال ۱۹۸۹ در جمهوری دموکراتیک آلمان
-—
-در قیام کارگران در سال ۱۹۵۳ در جمهوری دموکراتیک آلمان
-—
-در تظاهرات سال ۱۹۶۸ در جمهوری فدرال آلمان
-—
-در تظاهرات ضد هسته‌ای در سال ۱۹۸۵ در جمهوری فدرال آلمان
+1. ✔️ در تظاهرات دوشنبه در سال ۱۹۸۹ در جمهوری دموکراتیک آلمان
+2. در قیام کارگران در سال ۱۹۵۳ در جمهوری دموکراتیک آلمان
+3. در تظاهرات سال ۱۹۶۸ در جمهوری فدرال آلمان
+4. در تظاهرات ضد هسته‌ای در سال ۱۹۸۵ در جمهوری فدرال آلمان
 
 </div>
 
 ## Frage 167
 [ :top: ](#referecnce)
-Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als „Alliierte Besatzungsmächte“ bezeichnet?
-—
-Sowjetunion, Großbritannien, Polen, Schweden
-—
-Frankreich, Sowjetunion, Italien, Japan
-—
-USA, Sowjetunion, Spanien, Portugal
-✔️
-USA, Sowjetunion, Großbritannien, Frankreich
+**Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als „Alliierte Besatzungsmächte“ bezeichnet?**
+1. Sowjetunion, Großbritannien, Polen, Schweden
+2. Frankreich, Sowjetunion, Italien, Japan
+3. USA, Sowjetunion, Spanien, Portugal
+4. ✔️ USA, Sowjetunion, Großbritannien, Frankreich
 
 <div dir="rtl">
 
@@ -4160,31 +4017,20 @@ USA, Sowjetunion, Großbritannien, Frankreich
 |||
 
 کدام کشورها پس از جنگ جهانی دوم در آلمان به عنوان "قدرت‌های اشغالگر متفقین" شناخته می‌شدند؟
-
-
-اتحاد جماهیر شوروی، بریتانیای کبیر، لهستان، سوئد
-
-
-فرانسه، اتحاد جماهیر شوروی، ایتالیا، ژاپن
-
-
-ایالات متحده آمریکا، اتحاد جماهیر شوروی، اسپانیا، پرتغال
-
-✔️ ایالات متحده آمریکا، اتحاد جماهیر شوروی، بریتانیای کبیر، فرانسه
+1. اتحاد جماهیر شوروی، بریتانیای کبیر، لهستان، سوئد
+2. فرانسه، اتحاد جماهیر شوروی، ایتالیا، ژاپن
+3. ایالات متحده آمریکا، اتحاد جماهیر شوروی، اسپانیا، پرتغال
+4. ✔️ ایالات متحده آمریکا، اتحاد جماهیر شوروی، بریتانیای کبیر، فرانسه
 
 </div>
 
 ## Frage 168
 [ :top: ](#referecnce)
-Welches Land war keine „Alliierte Besatzungsmacht“ in Deutschland?
-—
-USA
-—
-Sowjetunion
-—
-Frankreich
-✔️
-Japan
+**Welches Land war keine „Alliierte Besatzungsmacht“ in Deutschland?**
+1. USA
+2. Sowjetunion
+3. Frankreich
+4. ✔️ Japan
 
 <div dir="rtl">
 
@@ -4194,26 +4040,20 @@ Japan
 |||
 
 کدام کشور «نیروی اشغالگر متفقین» در آلمان نبود؟
-
-— ایالات متحده آمریکا
-— اتحاد جماهیر شوروی
-— فرانسه
-✔️
-ژاپن
+1. ایالات متحده آمریکا
+2. اتحاد جماهیر شوروی
+3. فرانسه
+4. ✔️ ژاپن
 
 </div>
 
 ## Frage 169
 [ :top: ](#referecnce)
-Wann wurde die Bundesrepublik Deutschland gegründet?
-—
-1939
-—
-1945
-✔️
-1949
-—
-1951
+**Wann wurde die Bundesrepublik Deutschland gegründet?**
+1. 1939
+2. 1945
+3. ✔️ 1949
+4. 1951
 
 <div dir="rtl">
 
@@ -4223,32 +4063,20 @@ Wann wurde die Bundesrepublik Deutschland gegründet?
 |||
 
 جمهوری فدرال آلمان چه زمانی تأسیس شد؟
-
-
-۱۹۳۹
-
-
-۱۹۴۵
-✔️
-
-۱۹۴۹
-
-
-۱۹۵۱
+1. ۱۹۳۹
+2. ۱۹۴۵
+3. ✔️ ۱۹۴۹
+4. ۱۹۵۱
 
 </div>
 
 ## Frage 170
 [ :top: ](#referecnce)
-Was gab es während der Zeit des Nationalsozialismus in Deutschland?
-—
-das Recht zur freien Entfaltung der Persönlichkeit
-—
-Pressefreiheit
-✔️
-das Verbot von Parteien
-—
-den Schutz der Menschenwürde
+**Was gab es während der Zeit des Nationalsozialismus in Deutschland?**
+1. das Recht zur freien Entfaltung der Persönlichkeit
+2. Pressefreiheit
+3. ✔️ das Verbot von Parteien
+4. den Schutz der Menschenwürde
 
 <div dir="rtl">
 
@@ -4258,25 +4086,20 @@ den Schutz der Menschenwürde
 |||
 
 در دوران نازی‌ها در آلمان چه چیزهایی وجود داشت؟
-
-— حق رشد شخصی آزاد
-— آزادی مطبوعات
-— ممنوعیت احزاب سیاسی
-— حفاظت از کرامت انسانی
+1. حق رشد شخصی آزاد
+2. آزادی مطبوعات
+3. ✔️ ممنوعیت احزاب سیاسی
+4. حفاظت از کرامت انسانی
 
 </div>
 
 ## Frage 171
 [ :top: ](#referecnce)
-Soziale Marktwirtschaft bedeutet, die Wirtschaft …
-—
-steuert sich allein nach Angebot und Nachfrage.
-—
-wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.
-—
-richtet sich nach der Nachfrage im Ausland.
-✔️
-richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.
+**Soziale Marktwirtschaft bedeutet, die Wirtschaft …**
+1. steuert sich allein nach Angebot und Nachfrage.
+2. wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.
+3. richtet sich nach der Nachfrage im Ausland.
+4. ✔️ richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.
 
 <div dir="rtl">
 
@@ -4286,29 +4109,20 @@ richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen soziale
 |||
 
 اقتصاد بازار اجتماعی به این معنی است که اقتصاد...
-—
-صرفاً توسط عرضه و تقاضا اداره می‌شود.
-—
-توسط دولت برنامه‌ریزی و کنترل می‌شود، بدون اینکه عرضه و تقاضا را در نظر بگیرد.
-—
-توسط تقاضای خارج از کشور هدایت می‌شود.
-
-✔️
-توسط عرضه و تقاضا هدایت می‌شود، اما دولت تعادل اجتماعی را تضمین می‌کند.
+1. صرفاً توسط عرضه و تقاضا اداره می‌شود.
+2. توسط دولت برنامه‌ریزی و کنترل می‌شود، بدون اینکه عرضه و تقاضا را در نظر بگیرد.
+3. توسط تقاضای خارج از کشور هدایت می‌شود.
+4. ✔️ توسط عرضه و تقاضا هدایت می‌شود، اما دولت تعادل اجتماعی را تضمین می‌کند.
 
 </div>
 
 ## Frage 172
 [ :top: ](#referecnce)
-In welcher Besatzungszone wurde die DDR gegründet? In der …
-—
-amerikanischen Besatzungszone.
-—
-französischen Besatzungszone.
-—
-britischen Besatzungszone.
-✔️
-sowjetischen Besatzungszone.
+**In welcher Besatzungszone wurde die DDR gegründet? In der …**
+1. amerikanischen Besatzungszone.
+2. französischen Besatzungszone.
+3. britischen Besatzungszone.
+4. ✔️ sowjetischen Besatzungszone.
 
 <div dir="rtl">
 
@@ -4318,28 +4132,20 @@ sowjetischen Besatzungszone.
 |||
 
 جمهوری دموکراتیک آلمان در کدام منطقه اشغالی تأسیس شد؟ در ...
-—
-منطقه اشغالی آمریکا.
-—
-منطقه اشغالی فرانسه.
-—
-منطقه اشغالی بریتانیا.
-✔️
-منطقه اشغالی شوروی.
+1. منطقه اشغالی آمریکا.
+2. منطقه اشغالی فرانسه.
+3. منطقه اشغالی بریتانیا.
+4. ✔️ منطقه اشغالی شوروی.
 
 </div>
 
 ## Frage 173
 [ :top: ](#referecnce)
-Die Bundesrepublik Deutschland ist ein Gründungsmitglied …
-—
-des Nordatlantikpakts (NATO).
-—
-der Vereinten Nationen (VN).
-✔️
-der Europäischen Union (EU).
-—
-des Warschauer Pakts.
+**Die Bundesrepublik Deutschland ist ein Gründungsmitglied …**
+1. des Nordatlantikpakts (NATO).
+2. der Vereinten Nationen (VN).
+3. ✔️ der Europäischen Union (EU).
+4. des Warschauer Pakts.
 
 <div dir="rtl">
 
@@ -4349,28 +4155,20 @@ des Warschauer Pakts.
 |||
 
 جمهوری فدرال آلمان یکی از اعضای بنیانگذار ...
-—
-سازمان پیمان آتلانتیک شمالی (ناتو).
-—
-سازمان ملل متحد (UN).
-✔️
-اتحادیه اروپا (EU).
-—
-پیمان ورشو.
+1. سازمان پیمان آتلانتیک شمالی (ناتو).
+2. سازمان ملل متحد (UN).
+3. ✔️ اتحادیه اروپا (EU).
+4. پیمان ورشو.
 
 </div>
 
 ## Frage 174
 [ :top: ](#referecnce)
- Wann wurde die DDR gegründet?
-—
-1947
-✔️
-1949
-—
-1953
-—
-1956
+**Wann wurde die DDR gegründet?**
+1. 1947
+2. ✔️ 1949
+3. 1953
+4. 1956
 
 <div dir="rtl">
 
@@ -4380,26 +4178,20 @@ des Warschauer Pakts.
 |||
 
 جمهوری دموکراتیک آلمان چه زمانی تأسیس شد؟
-
-— ۱۹۴۷
-✔️
-۱۹۴۹
-— ۱۹۵۳
-— ۱۹۵۶
+1. ۱۹۴۷
+2. ✔️ ۱۹۴۹
+3. ۱۹۵۳
+4. ۱۹۵۶
 
 </div>
 
 ## Frage 175
 [ :top: ](#referecnce)
-Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?
-—
-3
-✔️
-4
-—
-5
-—
-6
+**Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?**
+1. 3
+2. ✔️ 4
+3. 5
+4. 6
 
 <div dir="rtl">
 
@@ -4409,30 +4201,22 @@ Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?
 |||
 
 چند منطقه اشغالی پس از جنگ جهانی دوم در آلمان وجود داشت؟
-
-—
-3
-✔️
-4
-—
-5
-—
-6
+1. 3
+2. ✔️ 4
+3. 5
+4. 6
 
 </div>
 
 ## Frage 176
 [ :top: ](#referecnce)
-Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?
-![Frage_176](./Pictures/Frage_176.png)
-—
-1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA
-—
-1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich
-✔️
-1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich
-—
-1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich
+**Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?**  
+![Frage_176](./Pictures/Frage_176.png)  
+
+1. 1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA
+2. 1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich
+3. ✔️ 1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich
+4. 1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich
 
 <div dir="rtl">
 
@@ -4442,25 +4226,20 @@ Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?
 |||
 
 مناطق اشغالی آلمان پس از سال ۱۹۴۵ چگونه توزیع شدند؟
-
-— ۱=بریتانیای کبیر، ۲=اتحاد جماهیر شوروی، ۳=فرانسه، ۴=ایالات متحده آمریکا
-— ۱=اتحاد جماهیر شوروی، ۲=بریتانیای کبیر، ۳=ایالات متحده آمریکا، ۴=فرانسه
-✔️ ۱=بریتانیای کبیر، ۲=اتحاد جماهیر شوروی، ۳=ایالات متحده آمریکا، ۴=فرانسه
-— ۱=بریتانیای کبیر، ۲=ایالات متحده آمریکا، ۳=اتحاد جماهیر شوروی، ۴=فرانسه
+1. ۱=بریتانیای کبیر، ۲=اتحاد جماهیر شوروی، ۳=فرانسه، ۴=ایالات متحده آمریکا
+2. ۱=اتحاد جماهیر شوروی، ۲=بریتانیای کبیر، ۳=ایالات متحده آمریکا، ۴=فرانسه
+3. ✔️ ۱=بریتانیای کبیر، ۲=اتحاد جماهیر شوروی، ۳=ایالات متحده آمریکا، ۴=فرانسه
+4. ۱=بریتانیای کبیر، ۲=ایالات متحده آمریکا، ۳=اتحاد جماهیر شوروی، ۴=فرانسه
 
 </div>
 
 ## Frage 177
 [ :top: ](#referecnce)
-Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?
-—
-München
-✔️
-Berlin
-—
-Dresden
-—
-Frankfurt/Oder
+**Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?**
+1. München
+2. ✔️ Berlin
+3. Dresden
+4. Frankfurt/Oder
 
 <div dir="rtl">
 
@@ -4470,28 +4249,21 @@ Frankfurt/Oder
 |||
 
 کدام شهر آلمان پس از جنگ جهانی دوم به چهار بخش تقسیم شد؟
-
-مونیخ
-✔️
-برلین
-
-درسدن
-
-فرانکفورت/اودر
+1. مونیخ
+2. ✔️ برلین
+3. درسدن
+4. فرانکفورت/اودر
 
 </div>
 
 ## Frage 178
 [ :top: ](#referecnce)
-Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?
-—
-Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.
-—
-Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.
-—
-Für Großbritannien war die Versorgung über die Luftbrücke schneller.
-✔️
-Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.
+**Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke versorgt. 
+Welcher Umstand war dafür verantwortlich?**
+1. Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.
+2. Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.
+3. Für Großbritannien war die Versorgung über die Luftbrücke schneller.
+4. ✔️ Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.
 
 <div dir="rtl">
 
@@ -4501,29 +4273,20 @@ Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.
 |||
 
 از ژوئن ۱۹۴۸ تا مه ۱۹۴۹، شهروندان برلین غربی از طریق پل هوایی تأمین می‌شدند. دلیل این امر چه بود؟
-
-برای فرانسه، تأمین جمعیت برلین غربی از طریق هوا مقرون به صرفه‌تر بود.
-
-سربازان آمریکایی از حمله در حین حمل و نقل زمینی می‌ترسیدند.
-
-برای بریتانیای کبیر، تأمین از طریق پل هوایی سریع‌تر بود.
-
-✔️
-اتحاد جماهیر شوروی تمام حمل و نقل زمینی را متوقف کرد.
+1. برای فرانسه، تأمین جمعیت برلین غربی از طریق هوا مقرون به صرفه‌تر بود.
+2. سربازان آمریکایی از حمله در حین حمل و نقل زمینی می‌ترسیدند.
+3. برای بریتانیای کبیر، تأمین از طریق پل هوایی سریع‌تر بود.
+4. ✔️ اتحاد جماهیر شوروی تمام حمل و نقل زمینی را متوقف کرد.
 
 </div>
 
 ## Frage 179
 [ :top: ](#referecnce)
-Wie endete der Zweite Weltkrieg in Europa offiziell?
-—
-mit dem Tod Adolf Hitlers
-✔️
-durch die bedingungslose Kapitulation Deutschlands
-—
-mit dem Rückzug der Deutschen aus den besetzten Gebieten
-—
-durch eine Revolution in Deutschland
+**Wie endete der Zweite Weltkrieg in Europa offiziell?**
+1. mit dem Tod Adolf Hitlers
+2. ✔️ durch die bedingungslose Kapitulation Deutschlands
+3. mit dem Rückzug der Deutschen aus den besetzten Gebieten
+4. durch eine Revolution in Deutschland
 
 <div dir="rtl">
 
@@ -4533,28 +4296,20 @@ durch eine Revolution in Deutschland
 |||
 
 جنگ جهانی دوم چگونه رسماً در اروپا پایان یافت؟
-
-با مرگ آدولف هیتلر
-✔️
-با تسلیم بی‌قید و شرط آلمان
-
-با خروج آلمانی‌ها از سرزمین‌های اشغالی
-
-با انقلاب در آلمان
+1. با مرگ آدولف هیتلر
+2. ✔️ با تسلیم بی‌قید و شرط آلمان
+3. با خروج آلمانی‌ها از سرزمین‌های اشغالی
+4. با انقلاب در آلمان
 
 </div>
 
 ## Frage 180
 [ :top: ](#referecnce)
-Der erste Bundeskanzler der Bundesrepublik Deutschland war …
-—
-Ludwig Erhard.
-—
-Willy Brandt.
-✔️
-Konrad Adenauer.
-—
-Gerhard Schröder.
+**Der erste Bundeskanzler der Bundesrepublik Deutschland war …**
+1. Ludwig Erhard.
+2. Willy Brandt.
+3. ✔️ Konrad Adenauer.
+4. Gerhard Schröder.
 
 <div dir="rtl">
 
@@ -4564,29 +4319,21 @@ Gerhard Schröder.
 |||
 
 اولین صدراعظم جمهوری فدرال آلمان…
--
-لودویگ ارهارد
--
-ویلی برانت
-✔️
-کنراد آدناور.
--
-گرهارد شرودر
+1. لودویگ ارهارد
+2. ویلی برانت
+3. ✔️ کنراد آدناور.
+4. گرهارد شرودر
 
 </div>
 
 ## Frage 181
 [ :top: ](#referecnce)
-**Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?**
-![Frage_181](./Pictures/Frage_181.png)
-—
-Er hat sich den ehemaligen Alliierten unterworfen.
-✔️
-Er bat Polen und die polnischen Juden um Vergebung.
-—
-Er zeigte seine Demut vor dem Warschauer Pakt.
-—
-Er sprach ein Gebet am Grab des Unbekannten Soldaten.
+**Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?**  
+![Frage_181](./Pictures/Frage_181.png)  
+1. Er hat sich den ehemaligen Alliierten unterworfen.
+2. ✔️ Er bat Polen und die polnischen Juden um Vergebung.
+3. Er zeigte seine Demut vor dem Warschauer Pakt.
+4. Er sprach ein Gebet am Grab des Unbekannten Soldaten.
 
 <div dir="rtl">
 
@@ -4596,28 +4343,20 @@ Er sprach ein Gebet am Grab des Unbekannten Soldaten.
 |||
 
 ویلی برانت با زانو زدن در گتوی سابق یهودیان در ورشو در سال ۱۹۷۰ چه چیزی را می‌خواست بیان کند؟
-—
-Er hat sich den ehemaligen Alliierten unterworfen.
-✔️
-Er bat Polen und die polnischen Juden um Vergebung.
-—
-Er zeigte seine Demut vor dem Warschauer Pakt.
-—
-Er sprach ein Gebet am Grab des Unbekannten Soldaten.
+۱. او تسلیم متفقین سابق شد.
+۲. ✔️ او از لهستان و یهودیان لهستان طلب بخشش کرد.
+۳. او فروتنی خود را در برابر پیمان ورشو نشان داد.
+۴. او در آرامگاه سرباز گمنام دعا خواند.
 
 </div>
 
 ## Frage 182
 [ :top: ](#referecnce)
-Wie heißt das jüdische Gebetshaus?
-—
-Basilika
-—
-Moschee
-✔️
-Synagoge
-—
-Kirche
+**Wie heißt das jüdische Gebetshaus?**
+1. Basilika
+2. Moschee
+3. ✔️ Synagoge
+4. Kirche
 
 <div dir="rtl">
 
@@ -4627,28 +4366,20 @@ Kirche
 |||
 
 نام عبادتگاه یهودیان چیست؟
-
-کلیسا
-
-مسجد
-✔️
-کنیسه
-
-کلیسا
+1. کلیسا
+2. مسجد
+3. ✔️ کنیسه
+4. کلیسا
 
 </div>
 
 ## Frage 183
 [ :top: ](#referecnce)
-Wann war in der Bundesrepublik Deutschland das „Wirtschaftswunder“?
-—
-40er Jahre
-✔️
-50er Jahre
-—
-70er Jahre
-—
-80er Jahre
+**Wann war in der Bundesrepublik Deutschland das „Wirtschaftswunder“?**
+1. 40er Jahre
+2. ✔️ 50er Jahre
+3. 70er Jahre
+4. 80er Jahre
 
 <div dir="rtl">
 
@@ -4659,27 +4390,20 @@ Wann war in der Bundesrepublik Deutschland das „Wirtschaftswunder“?
 
 چه زمانی «معجزه اقتصادی» در جمهوری فدرال آلمان رخ داد؟
 
-دهه ۱۹۴۰
-✔️
-دهه ۱۹۵۰
-
-دهه ۱۹۷۰
-
-دهه ۱۹۸۰
+1. دهه ۱۹۴۰
+2. ✔️ دهه ۱۹۵۰
+3. دهه ۱۹۷۰
+4. دهه ۱۹۸۰
 
 </div>
 
 ## Frage 184
 [ :top: ](#referecnce)
-Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?
-✔️
-eine Resolution der Vereinten Nationen
-—
-ein Beschluss des Zionistenkongresses
-—
-ein Vorschlag der Bundesregierung
-—
-ein Vorschlag der UdSSR
+**Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?**
+1. ✔️ eine Resolution der Vereinten Nationen
+2. ein Beschluss des Zionistenkongresses
+3. ein Vorschlag der Bundesregierung
+4. ein Vorschlag der UdSSR
 
 <div dir="rtl">
 
@@ -4689,28 +4413,20 @@ ein Vorschlag der UdSSR
 |||
 
 کشور اسرائیل بر چه مبنای قانونی تأسیس شد؟
-✔️
-قطعنامه سازمان ملل متحد
-—
-قطعنامه کنگره صهیونیستی
-—
-پیشنهاد دولت آلمان
-—
-پیشنهاد اتحاد جماهیر شوروی
+1. ✔️ قطعنامه سازمان ملل متحد
+2. قطعنامه کنگره صهیونیستی
+3. پیشنهاد دولت آلمان
+4. پیشنهاد اتحاد جماهیر شوروی
 
 </div>
 
 ## Frage 185
 [ :top: ](#referecnce)
-Wofür stand der Ausdruck „Eiserner Vorhang“? Für die Abschottung …
-✔️
-des Warschauer Pakts gegen den Westen.
-—
-Norddeutschlands gegen Süddeutschland.
-—
-Nazi-Deutschlands gegen die Alliierten.
-—
-Europas gegen die USA.
+**Wofür stand der Ausdruck „Eiserner Vorhang“? Für die Abschottung …**
+1. ✔️ des Warschauer Pakts gegen den Westen.
+2. Norddeutschlands gegen Süddeutschland.
+3. Nazi-Deutschlands gegen die Alliierten.
+4. Europas gegen die USA.
 
 <div dir="rtl">
 
@@ -4720,28 +4436,21 @@ Europas gegen die USA.
 |||
 
 اصطلاح «پرده آهنین» به چه معناست؟ انزوای...
-✔️
-پیمان ورشو از غرب.
-
-آلمان شمالی از آلمان جنوبی.
-
-آلمان نازی از متفقین.
-
-اروپا از ایالات متحده آمریکا.
+1. ✔️ پیمان ورشو از غرب.
+2. آلمان شمالی از آلمان جنوبی.
+3. آلمان نازی از متفقین.
+4. اروپا از ایالات متحده آمریکا.
 
 </div>
 
 ## Frage 186
 [ :top: ](#referecnce)
- Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?
-—
-1. Mai
-✔️
-17. Juni
-—
-20. Juli
-—
-9. November
+**Im Jahr 1953 gab es in der DDR einen Aufstand, 
+an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?**
+1. 1. Mai
+2. ✔️ 17. Juni
+3. 20. Juli
+4. 9. November
 
 <div dir="rtl">
 
@@ -4752,13 +4461,10 @@ Europas gegen die USA.
 
 در سال ۱۹۵۳، قیامی در جمهوری دموکراتیک آلمان رخ داد که برای مدت طولانی با یک تعطیلی عمومی در جمهوری فدرال آلمان گرامی داشته می‌شد. آن چه زمانی بود؟
 
-۱ مه
-✔️
-۱۷ ژوئن
-
-۲۰ ژوئیه
-
-۹ نوامبر
+1. ۱ مه
+2. ✔️ ۱۷ ژوئن
+3. ۲۰ ژوئیه
+4. ۹ نوامبر
 
 </div>
 
@@ -4766,14 +4472,11 @@ Europas gegen die USA.
 [ :top: ](#referecnce)
 **Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?**
 ![Frage_187](./Pictures/Frage_187.png)
-—
-Preußen
-—
-Bundesrepublik Deutschland
-✔️
-DDR
-—
-„Drittes Reich“
+
+1. Preußen
+2. Bundesrepublik Deutschland
+3. ✔️ DDR
+4. „Drittes Reich“
 
 <div dir="rtl">
 
@@ -4783,28 +4486,20 @@ DDR
 |||
 
 کدام ایالت آلمان پرچمی سیاه، قرمز و طلایی با چکش، قطب‌نما و تاجی از خوشه‌های ذرت داشت؟
-—
-پروس
-—
-جمهوری فدرال آلمان
-✔️
-جمهوری دموکراتیک آلمان
-—
-"رایش سوم"
+1. پروس
+2. جمهوری فدرال آلمان
+3. ✔️ جمهوری دموکراتیک آلمان
+4. "رایش سوم"
 
 </div>
 
 ## Frage 188
 [ :top: ](#referecnce)
-In welchem Jahr wurde die Mauer in Berlin gebaut?
-—
-1953
-—
-1956
-—
-1959
-✔️
-1961
+**In welchem Jahr wurde die Mauer in Berlin gebaut?**
+1. 1953
+2. 1956
+3. 1959
+4. ✔️ 1961
 
 <div dir="rtl">
 
@@ -4814,31 +4509,20 @@ In welchem Jahr wurde die Mauer in Berlin gebaut?
 |||
 
 دیوار برلین در چه سالی ساخته شد؟
-
-
-۱۹۵۳
-
-
-۱۹۵۶
-
-
-۱۹۵۹
-✔️
-۱۹۶۱
+1. ۱۹۵۳
+2. ۱۹۵۶
+3. ۱۹۵۹
+4. ✔️ ۱۹۶۱
 
 </div>
 
 ## Frage 189
 [ :top: ](#referecnce)
-Wann baute die DDR die Mauer in Berlin?
-—
-1919
-—
-1933
-✔️
-1961
-—
-1990
+**Wann baute die DDR die Mauer in Berlin?**
+1. 1919
+2. 1933
+3. ✔️ 1961
+4. 1990
 
 <div dir="rtl">
 
@@ -4848,31 +4532,20 @@ Wann baute die DDR die Mauer in Berlin?
 |||
 
 چه زمانی جمهوری دموکراتیک آلمان دیوار برلین را ساخت؟
-
-
-۱۹۱۹
-
-
-۱۹۳۳
-✔️
-۱۹۶۱
-
-
-۱۹۹۰
+1. ۱۹۱۹
+2. ۱۹۳۳
+3. ✔️ ۱۹۶۱
+4. ۱۹۹۰
 
 </div>
 
 ## Frage 190
 [ :top: ](#referecnce)
-Was bedeutet die Abkürzung DDR?
-—
-Dritter Deutscher Rundfunk
-—
-Die Deutsche Republik
-—
-Dritte Deutsche Republik
-✔️
-Deutsche Demokratische Republik
+**Was bedeutet die Abkürzung DDR?**
+1. Dritter Deutscher Rundfunk
+2. Die Deutsche Republik
+3. Dritte Deutsche Republik
+4. ✔️ Deutsche Demokratische Republik
 
 <div dir="rtl">
 
@@ -4882,28 +4555,20 @@ Deutsche Demokratische Republik
 |||
 
 مخفف DDR به چه معناست؟
-—
-شرکت پخش سوم آلمان
-—
-جمهوری آلمان
-—
-جمهوری سوم آلمان
-✔️
-جمهوری دموکراتیک آلمان
+1. شرکت پخش سوم آلمان
+2. جمهوری آلمان
+3. جمهوری سوم آلمان
+4. ✔️ جمهوری دموکراتیک آلمان
 
 </div>
 
 ## Frage 191
 [ :top: ](#referecnce)
-Wann wurde die Mauer in Berlin für alle geöffnet?
-—
-1987
-✔️
-1989
-—
-1992
-—
-1995
+**Wann wurde die Mauer in Berlin für alle geöffnet?**
+1. 1987
+2. ✔️ 1989
+3. 1992
+4. 1995
 
 <div dir="rtl">
 
@@ -4913,31 +4578,20 @@ Wann wurde die Mauer in Berlin für alle geöffnet?
 |||
 
 دیوار برلین چه زمانی به روی همه باز شد؟
-
-
-۱۹۸۷
-✔️
-۱۹۸۹
-
-
-۱۹۹۲
-
-
-۱۹۹۵
+1. ۱۹۸۷
+2. ✔️ ۱۹۸۹
+3. ۱۹۹۲
+4. ۱۹۹۵
 
 </div>
 
 ## Frage 192
 [ :top: ](#referecnce)
-Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
-✔️
-Brandenburg
-—
-Bayern
-—
-Saarland
-—
-Hessen
+**Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?**
+1. ✔️ Brandenburg
+2. Bayern
+3. Saarland
+4. Hessen
 
 <div dir="rtl">
 
@@ -4946,30 +4600,21 @@ Hessen
 |||
 |||
 
-کدام ایالت فدرال آلمان امروزی قبلاً متعلق به قلمرو جمهوری دموکراتیک آلمان (GDR) بود؟
-
-✔️
-براندنبورگ
-—
-باواریا
-—
-زارلند
-—
-هسن
+کدام ایالت فدرال آلمان امروزی قبلاً متعلق به قلمرو جمهوری دموکراتیک آلمان (DDR) بود؟
+1. ✔️ براندنبورگ
+2. باواریا
+3. زارلند
+4. هسن
 
 </div>
 
 ## Frage 193
 [ :top: ](#referecnce)
 Von 1961 bis 1989 war Berlin …
-—
-ohne Bürgermeister.
-—
-ein eigener Staat.
-✔️
-durch eine Mauer geteilt.
-—
-nur mit dem Flugzeug erreichbar.
+1. ohne Bürgermeister.
+2. ein eigener Staat.
+3. ✔️ durch eine Mauer geteilt.
+4. nur mit dem Flugzeug erreichbar.
 
 <div dir="rtl">
 
@@ -4979,28 +4624,20 @@ nur mit dem Flugzeug erreichbar.
 |||
 
 از سال ۱۹۶۱ تا ۱۹۸۹، برلین...
-—
-بدون شهردار.
-—
-یک ایالت جداگانه.
-✔️
-توسط یک دیوار تقسیم شده بود.
-—
-فقط با هواپیما قابل دسترسی بود.
+1. بدون شهردار.
+2. یک ایالت جداگانه.
+3. ✔️ توسط یک دیوار تقسیم شده بود.
+4. فقط با هواپیما قابل دسترسی بود.
 
 </div>
 
 ## Frage 194
 [ :top: ](#referecnce)
- Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …
-✔️
-Einheit.
-—
-Nation.
-—
-Bundesländer.
-—
-Städte
+**Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …**
+1. ✔️ Einheit.
+2. Nation.
+3. Bundesländer.
+4. Städte
 
 <div dir="rtl">
 
@@ -5010,28 +4647,20 @@ Städte
 |||
 
 در سوم اکتبر، آلمان روز وحدت آلمان را جشن می‌گیرد...
-✔️
-وحدت.
-—
-ملت.
-—
-ایالت‌های فدرال.
-—
-شهرها
+1. ✔️ وحدت.
+2. ملت.
+3. ایالت‌های فدرال.
+4. شهرها
 
 </div>
 
 ## Frage 195
 [ :top: ](#referecnce)
-Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
-—
-Hessen
-✔️
-Sachsen-Anhalt
-—
-Nordrhein-Westfalen
-—
-Saarland
+**Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?**
+1. Hessen
+2. ✔️ Sachsen-Anhalt
+3. Nordrhein-Westfalen
+4. Saarland
 
 <div dir="rtl">
 
@@ -5040,29 +4669,21 @@ Saarland
 |||
 |||
 
-کدام ایالت فدرال فعلی آلمان قبلاً متعلق به قلمرو جمهوری دموکراتیک آلمان (GDR) بود؟
-—
-هسن
-✔️
-زاکسن-آنهالت
-—
-نوردراین-وستفالن
-—
-زارلند
+کدام ایالت فدرال فعلی آلمان قبلاً متعلق به قلمرو جمهوری دموکراتیک آلمان (DDR) بود؟
+1. هسن
+2. ✔️ زاکسن-آنهالت
+3. نوردراین-وستفالن
+4. زارلند
 
 </div>
 
 ## Frage 196
 [ :top: ](#referecnce)
-Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit veränderte sich die DDR politisch …
-✔️
-von einer Diktatur zur Demokratie.
-—
-von einer liberalen Marktwirtschaft zum Sozialismus.
-—
-von einer Monarchie zur Sozialdemokratie.
-—
-von einem religiösen Staat zu einem kommunistischen Staat.
+**Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit veränderte sich die DDR politisch …**
+1. ✔️ von einer Diktatur zur Demokratie.
+2. von einer liberalen Marktwirtschaft zum Sozialismus.
+3. von einer Monarchie zur Sozialdemokratie.
+4. von einem religiösen Staat zu einem kommunistischen Staat.
 
 <div dir="rtl">
 
@@ -5072,28 +4693,20 @@ von einem religiösen Staat zu einem kommunistischen Staat.
 |||
 
 چرا دوره پاییز ۱۹۸۹ در جمهوری دموکراتیک آلمان «نقطه عطف» نامیده می‌شود؟ در این مدت، جمهوری دموکراتیک آلمان از نظر سیاسی تغییر کرد...
-✔️
-از دیکتاتوری به دموکراسی.
-
-از اقتصاد بازار آزاد به سوسیالیسم.
-
-از سلطنت به سوسیال دموکراسی.
-
-از یک دولت مذهبی به یک دولت کمونیستی.
+1. ✔️ از دیکتاتوری به دموکراسی.
+2. از اقتصاد بازار آزاد به سوسیالیسم.
+3. از سلطنت به سوسیال دموکراسی.
+4. از یک دولت مذهبی به یک دولت کمونیستی.
 
 </div>
 
 ## Frage 197
 [ :top: ](#referecnce)
-Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
-✔️
-Thüringen
-—
-Hessen
-—
-Bayern
-—
-Bremen
+**Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?**
+1. ✔️ Thüringen
+2. Hessen
+3. Bayern
+4. Bremen
 
 <div dir="rtl">
 
@@ -5103,28 +4716,20 @@ Bremen
 |||
 
 کدام ایالت فدرال آلمان امروزی قبلاً متعلق به قلمرو جمهوری دموکراتیک آلمان بود؟
-✔️
-تورینگن
-—
-هسن
-—
-باواریا
-—
-برمن
+1. ✔️ تورینگن
+2. هسن
+3. باواریا
+4. برمن
 
 </div>
 
 ## Frage 198
 [ :top: ](#referecnce)
-Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
-—
-Bayern
-—
-Niedersachsen
-✔️
-Sachsen
-—
-Baden-Württemberg
+**Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?**
+1. Bayern
+2. Niedersachsen
+3. ✔️ Sachsen
+4. Baden-Württemberg
 
 <div dir="rtl">
 
@@ -5134,28 +4739,20 @@ Baden-Württemberg
 |||
 
 کدام ایالت فدرال آلمان امروزی قبلاً متعلق به قلمرو جمهوری دموکراتیک آلمان بود؟
-
-باواریا
-
-زاکسن سفلی
-
-زاکسن
-
-بادن-وورتمبرگ
+1. باواریا
+2. زاکسن سفلی
+3. ✔️ زاکسن
+4. بادن-وورتمبرگ
 
 </div>
 
 ## Frage 199
 [ :top: ](#referecnce)
 Mit der Abkürzung „Stasi“ meinte man in der DDR …
-—
-das Parlament.
-✔️
-das Ministerium für Staatssicherheit.
-—
-eine regierende Partei.
-—
-das Ministerium für Volksbildung.
+1. das Parlament.
+2. ✔️ das Ministerium für Staatssicherheit.
+3. eine regierende Partei.
+4. das Ministerium für Volksbildung.
 
 <div dir="rtl">
 
@@ -5165,28 +4762,20 @@ das Ministerium für Volksbildung.
 |||
 
 در جمهوری دموکراتیک آلمان، مخفف "اشتازی" مخفف ...
-—
-پارلمان.
-✔️
-وزارت امنیت کشور.
-—
-یک حزب حاکم.
-—
-وزارت آموزش و پرورش.
+1. پارلمان.
+2. ✔️ وزارت امنیت کشور.
+3. یک حزب حاکم.
+4. وزارت آموزش و پرورش.
 
 </div>
 
 ## Frage 200
 [ :top: ](#referecnce)
-Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
-—
-Hessen
-—
-Schleswig-Holstein
-✔️
-Mecklenburg-Vorpommern
-—
-Saarland
+**Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?**
+1. Hessen
+2. Schleswig-Holstein
+3. ✔️ Mecklenburg-Vorpommern
+4. Saarland
 
 <div dir="rtl">
 
@@ -5196,11 +4785,10 @@ Saarland
 |||
 
 کدام ایالت فدرال فعلی آلمان قبلاً متعلق به قلمرو جمهوری دموکراتیک آلمان (GDR) بود؟
-
-— هسن
-— شلسویگ-هولشتاین
-— مکلنبورگ-فورپومرن غربی
-— زارلند
+1. هسن
+2. شلسویگ-هولشتاین
+3. ✔️ مکلنبورگ-فورپومرن غربی
+4. زارلند
 
 </div>
 
