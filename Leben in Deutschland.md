@@ -4794,15 +4794,11 @@ Mit der Abkürzung „Stasi“ meinte man in der DDR …
 
 ## Frage 201
 [ :top: ](#referecnce)
-Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?
-—
-Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg
-✔️
-Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen
-—
-Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen
-—
-Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg
+**Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?**
+1. Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg
+2. ✔️ Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen
+3. Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen
+4. Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg
 
 <div dir="rtl">
 
@@ -4812,28 +4808,20 @@ Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg
 |||
 
 کدام یک از فهرست‌های زیر فقط شامل ایالت‌های فدرالی است که متعلق به قلمرو جمهوری دموکراتیک آلمان سابق بوده‌اند؟
-
-— نیدرزاکسن، نوردراین-وستفالن، هسن، شلسویگ-هولشتاین، براندنبورگ
-✔️
-مکلنبورگ-پومرانی غربی، براندنبورگ، زاکسن، زاکسن-آنهالت، تورینگن
-—
-بایرن، بادن-وورتمبرگ، راینلاند-فالتس، تورینگن، زاکسن
-—
-زاکسن، تورینگن، هسن، نیدرزاکسن، براندنبورگ
+1. نیدرزاکسن، نوردراین-وستفالن، هسن، شلسویگ-هولشتاین، براندنبورگ
+2. ✔️ مکلنبورگ-پومرانی غربی، براندنبورگ، زاکسن، زاکسن-آنهالت، تورینگن
+3. بایرن، بادن-وورتمبرگ، راینلاند-فالتس، تورینگن، زاکسن
+4. زاکسن، تورینگن، هسن، نیدرزاکسن، براندنبورگ
 
 </div>
 
 ## Frage 202
 [ :top: ](#referecnce)
-Zu wem gehörte die DDR im „Kalten Krieg“?
-—
-zu den Westmächten
-✔️
-zum Warschauer Pakt
-—
-zur NATO
-—
-zu den blockfreien Staaten
+**Zu wem gehörte die DDR im „Kalten Krieg“?**
+1. zu den Westmächten
+2. ✔️ zum Warschauer Pakt
+3. zur NATO
+4. zu den blockfreien Staaten
 
 <div dir="rtl">
 
@@ -4843,28 +4831,20 @@ zu den blockfreien Staaten
 |||
 
 جمهوری دموکراتیک آلمان در طول جنگ سرد به چه کسی تعلق داشت؟
-
-قدرت‌های غربی
-✔️
-پیمان ورشو
-
-ناتو
-
-کشورهای غیرمتعهد
+1. قدرت‌های غربی
+2. ✔️ پیمان ورشو
+3. ناتو
+4. کشورهای غیرمتعهد
 
 </div>
 
 ## Frage 203
 [ :top: ](#referecnce)
-Wie hieß das Wirtschaftssystem der DDR?
-—
-Marktwirtschaft
-✔️
-Planwirtschaft
-—
-Angebot und Nachfrage
-—
-Kapitalismus
+**Wie hieß das Wirtschaftssystem der DDR?**
+1. Marktwirtschaft
+2. ✔️ Planwirtschaft
+3. Angebot und Nachfrage
+4. Kapitalismus
 
 <div dir="rtl">
 
@@ -4874,31 +4854,20 @@ Kapitalismus
 |||
 
 نام سیستم اقتصادی جمهوری دموکراتیک آلمان چه بود؟
-
-
-اقتصاد بازار
-✔️
-اقتصاد برنامه‌ریزی‌شده
-
-
-عرضه و تقاضا
-
-
-سرمایه‌داری
+1. اقتصاد بازار
+2. ✔️ اقتصاد برنامه‌ریزی‌شده
+3. عرضه و تقاضا
+4. سرمایه‌داری
 
 </div>
 
 ## Frage 204
 [ :top: ](#referecnce)
-Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?
-—
-Die Bundesrepublik Deutschland hat die DDR besetzt.
-✔️
-Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.
-—
-Die westlichen Bundesländer sind der DDR beigetreten.
-—
-Die DDR hat die Bundesrepublik Deutschland besetzt.
+**Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?**
+1. Die Bundesrepublik Deutschland hat die DDR besetzt.
+2. ✔️ Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.
+3. Die westlichen Bundesländer sind der DDR beigetreten.
+4. Die DDR hat die Bundesrepublik Deutschland besetzt.
 
 <div dir="rtl">
 
@@ -4908,28 +4877,20 @@ Die DDR hat die Bundesrepublik Deutschland besetzt.
 |||
 
 چگونه جمهوری فدرال آلمان و جمهوری دموکراتیک آلمان (DDR) به یک کشور تبدیل شدند؟
-
-جمهوری فدرال آلمان، جمهوری دموکراتیک آلمان را اشغال کرد.
-
-✔️ پنج ایالت فدرال شرقی امروزی به جمهوری فدرال آلمان پیوستند.
-
-ایالت‌های فدرال غربی به جمهوری دموکراتیک آلمان (DDR) پیوستند.
-
-جمهوری دموکراتیک آلمان، جمهوری فدرال آلمان را اشغال کرد.
+1. جمهوری فدرال آلمان، جمهوری دموکراتیک آلمان را اشغال کرد.
+2. ✔️ پنج ایالت فدرال شرقی امروزی به جمهوری فدرال آلمان پیوستند.
+3. ایالت‌های فدرال غربی به جمهوری دموکراتیک آلمان (DDR) پیوستند.
+4. جمهوری دموکراتیک آلمان، جمهوری فدرال آلمان را اشغال کرد.
 
 </div>
 
 ## Frage 205
 [ :top: ](#referecnce)
-Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …
-✔️
-zur Europäischen Union.
-—
-zum Warschauer Pakt.
-—
-zur OPEC.
-—
-zur Europäischen Verteidigungsgemeinschaft.
+**Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …**
+1. ✔️ zur Europäischen Union.
+2. zum Warschauer Pakt.
+3. zur OPEC.
+4. zur Europäischen Verteidigungsgemeinschaft.
 
 <div dir="rtl">
 
@@ -4939,28 +4900,20 @@ zur Europäischen Verteidigungsgemeinschaft.
 |||
 
 با الحاق جمهوری دموکراتیک آلمان به جمهوری فدرال آلمان، ایالت‌های فدرال جدید اکنون به ...
-✔️
-اتحادیه اروپا.
-
-پیمان ورشو.
-
-اوپک.
-
-جامعه دفاعی اروپا.
+1. ✔️ اتحادیه اروپا.
+2. پیمان ورشو.
+3. اوپک.
+4. جامعه دفاعی اروپا.
 
 </div>
 
 ## Frage 206
 [ :top: ](#referecnce)
-Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?
-—
-an berühmte deutsche Politikerinnen und Politiker
-✔️
-an die Opfer des Nationalsozialismus
-—
-an Verkehrstote
-—
-an bekannte jüdische Musiker
+**Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?**
+1. an berühmte deutsche Politikerinnen und Politiker
+2. ✔️ an die Opfer des Nationalsozialismus
+3. an Verkehrstote
+4. an bekannte jüdische Musiker
 
 <div dir="rtl">
 
@@ -4970,28 +4923,20 @@ an bekannte jüdische Musiker
 |||
 
 سنگ‌های لغزش معروف در آلمان یادبود چه چیزی هستند؟
-
-سیاستمداران مشهور آلمانی
-
-قربانیان ناسیونال سوسیالیسم
-
-مرگ و میر ناشی از تصادفات رانندگی
-
-موسیقیدانان مشهور یهودی
+1. سیاستمداران مشهور آلمانی
+2. ✔️ قربانیان ناسیونال سوسیالیسم
+3. مرگ و میر ناشی از تصادفات رانندگی
+4. موسیقیدانان مشهور یهودی
 
 </div>
 
 ## Frage 207
 [ :top: ](#referecnce)
 In welchem Militärbündnis war die DDR Mitglied?
-—
-in der NATO
-—
-im Rheinbund
-✔️
-im Warschauer Pakt
-—
-im Europabündnis
+1. in der NATO
+2. im Rheinbund
+3. ✔️ im Warschauer Pakt
+4. im Europabündnis
 
 <div dir="rtl">
 
@@ -5001,28 +4946,20 @@ im Europabündnis
 |||
 
 جمهوری دموکراتیک آلمان عضو کدام اتحاد نظامی بود؟
-
-ناتو
-
-کنفدراسیون راین
-
-پیمان ورشو
-
-اتحاد اروپا
+1. ناتو
+2. کنفدراسیون راین
+3. ✔️ پیمان ورشو
+4. اتحاد اروپا
 
 </div>
 
 ## Frage 208
 [ :top: ](#referecnce)
 Was war die „Stasi“?
-—
-der Geheimdienst im „Dritten Reich“
-—
-eine berühmte deutsche Gedenkstätte
-✔️
-der Geheimdienst der DDR
-—
-ein deutscher Sportverein während des Zweiten Weltkrieges
+1. der Geheimdienst im „Dritten Reich“
+2. eine berühmte deutsche Gedenkstätte
+3. ✔️ der Geheimdienst der DDR
+4. ein deutscher Sportverein während des Zweiten Weltkrieges
 
 <div dir="rtl">
 
@@ -5032,14 +4969,10 @@ ein deutscher Sportverein während des Zweiten Weltkrieges
 |||
 
 اشتازی چه بود؟
-
-سرویس مخفی در دوران رایش سوم
-
-یادبود معروف آلمانی
-✔️
-سرویس مخفی جمهوری دموکراتیک آلمان
-
-باشگاه ورزشی آلمانی در طول جنگ جهانی دوم
+1. سرویس مخفی در دوران رایش سوم
+2. یادبود معروف آلمانی
+3. ✔️ سرویس مخفی جمهوری دموکراتیک آلمان
+4. باشگاه ورزشی آلمانی در طول جنگ جهانی دوم
 
 </div>
 
@@ -5049,13 +4982,10 @@ ein deutscher Sportverein während des Zweiten Weltkrieges
 
 ![Frage_209](./Pictures/Frage_209.png)
 
-—
 1
-—
 2
-—
 3
-✔️ 4
+4 ✔️
 
 <div dir="rtl">
 
@@ -5065,27 +4995,21 @@ ein deutscher Sportverein während des Zweiten Weltkrieges
 |||
 
 نشان جمهوری دموکراتیک آلمان چه بود؟
-—
 1
-—
 2
-—
 3
-✔️ 4
+4 ✔️
+
 
 </div>
 
 ## Frage 210
 [ :top: ](#referecnce)
-Was ereignete sich am 17. Juni 1953 in der DDR?
-—
-der feierliche Beitritt zum Warschauer Pakt
-✔️
-landesweite Streiks und ein Volksaufstand
-—
-der 1. SED-Parteitag
-—
-der erste Besuch Fidel Castros
+**Was ereignete sich am 17. Juni 1953 in der DDR?**
+1. der feierliche Beitritt zum Warschauer Pakt
+2. ✔️ landesweite Streiks und ein Volksaufstand
+3. der 1. SED-Parteitag
+4. der erste Besuch Fidel Castros
 
 <div dir="rtl">
 
@@ -5095,28 +5019,20 @@ der erste Besuch Fidel Castros
 |||
 
 در ۱۷ ژوئن ۱۹۵۳ در جمهوری دموکراتیک آلمان چه اتفاقی افتاد؟
-
-پیوستن تشریفاتی به پیمان ورشو
-✔️
-اعتصابات سراسری و قیام مردمی
-
-اولین کنگره حزب SED
-
-اولین سفر فیدل کاسترو
+1. پیوستن تشریفاتی به پیمان ورشو
+2. ✔️ اعتصابات سراسری و قیام مردمی
+3. اولین کنگره حزب SED
+4. اولین سفر فیدل کاسترو
 
 </div>
 
 ## Frage 211
 [ :top: ](#referecnce)
-Welcher Politiker steht für die „Ostverträge“?
-—
-Helmut Kohl
-✔️
-Willy Brandt
-—
-Michail Gorbatschow
-—
-Ludwig Erhard
+**Welcher Politiker steht für die „Ostverträge“?**
+1. Helmut Kohl
+2. ✔️ Willy Brandt
+3. Michail Gorbatschow
+4. Ludwig Erhard
 
 <div dir="rtl">
 
@@ -5126,28 +5042,20 @@ Ludwig Erhard
 |||
 
 کدام سیاستمدار از «معاهده‌های شرقی» حمایت می‌کند؟
-—
-هلموت کهل
-✔️
-ویلی برانت
-—
-میخائیل گورباچف
-—
-لودویگ ارهارد
+1. هلموت کهل
+2. ✔️ ویلی برانت
+3. میخائیل گورباچف
+4. لودویگ ارهارد
 
 </div>
 
 ## Frage 212
 [ :top: ](#referecnce)
-Wie heißt Deutschland mit vollem Namen?
-—
-Bundesstaat Deutschland
-—
-Bundesländer Deutschland
-✔️
-Bundesrepublik Deutschland
-—
-Bundesbezirk Deutschland
+**Wie heißt Deutschland mit vollem Namen?**
+1. Bundesstaat Deutschland
+2. Bundesländer Deutschland
+3. ✔️ Bundesrepublik Deutschland
+4. Bundesbezirk Deutschland
 
 <div dir="rtl">
 
@@ -5157,14 +5065,10 @@ Bundesbezirk Deutschland
 |||
 
 نام کامل آلمان چیست؟
-—
-ایالت فدرال آلمان
-—
-ایالت‌های فدرال آلمان
-✔️
-جمهوری فدرال آلمان
-—
-ناحیه فدرال آلمان
+1. ایالت فدرال آلمان
+2. ایالت‌های فدرال آلمان
+3. ✔️ جمهوری فدرال آلمان
+4. ناحیه فدرال آلمان
 
 </div>
 
@@ -5172,14 +5076,10 @@ Bundesbezirk Deutschland
 ## Frage 213
 [ :top: ](#referecnce)
 Wie viele Einwohner hat Deutschland?
-—
-70 Millionen
-—
-78 Millionen
-✔️
-84 Millionen
-—
-90 Millionen
+1. 70 Millionen
+2. 78 Millionen
+3. ✔️ 84 Millionen
+4. 90 Millionen
 
 <div dir="rtl">
 
@@ -5189,29 +5089,21 @@ Wie viele Einwohner hat Deutschland?
 |||
 
 آلمان چند نفر جمعیت دارد؟
-
-— ۷۰ میلیون
-—
-۷۸ میلیون
-✔️
-۸۴ میلیون
-—
-۹۰ میلیون
+1. ۷۰ میلیون
+2. ۷۸ میلیون
+3. ✔️ ۸۴ میلیون
+4. ۹۰ میلیون
 
 </div>
 
 
 ## Frage 214
 [ :top: ](#referecnce)
-Welche Farben hat die deutsche Flagge?
-✔️
-schwarz-rot-gold
-—
-rot-weiß-schwarz
-—
-schwarz-rot-grün
-—
-schwarz-gelb-rot
+**Welche Farben hat die deutsche Flagge?**
+1. ✔️ schwarz-rot-gold
+2. rot-weiß-schwarz
+3. schwarz-rot-grün
+4. schwarz-gelb-rot
 
 <div dir="rtl">
 
@@ -5221,29 +5113,21 @@ schwarz-gelb-rot
 |||
 
 رنگ‌های پرچم آلمان چیست؟
-✔️
-مشکی-قرمز-طلایی
-—
-قرمز-سفید-مشکی
-—
-مشکی-قرمز-سبز
-—
-مشکی-زرد-قرمز
+1. ✔️ مشکی-قرمز-طلایی
+2. قرمز-سفید-مشکی
+3. مشکی-قرمز-سبز
+4. مشکی-زرد-قرمز
 
 </div>
 
 
 ## Frage 215
 [ :top: ](#referecnce)
-Wer wird als „Kanzler der Deutschen Einheit“ bezeichnet?
-—
-Gerhard Schröder
-✔️
-Helmut Kohl
-—
-Konrad Adenauer
-—
-Helmut Schmidt
+**Wer wird als „Kanzler der Deutschen Einheit“ bezeichnet?**
+1. Gerhard Schröder
+2. ✔️ Helmut Kohl
+3. Konrad Adenauer
+4. Helmut Schmidt
 
 <div dir="rtl">
 
@@ -5253,14 +5137,10 @@ Helmut Schmidt
 |||
 
 چه کسی "صدر اعظم اتحاد آلمان" نامیده می شود؟
--
-گرهارد شرودر
-✔️
-هلموت کهل
--
-کنراد آدناور
--
-هلموت اشمیت
+1. گرهارد شرودر
+2. ✔️ هلموت کهل
+3. کنراد آدناور
+4. هلموت اشمیت
 
 </div>
 
@@ -5271,15 +5151,10 @@ Helmut Schmidt
 
 ![Frage_216](./Pictures/Frage_216.png)
 
-
-—
-die Fahne der Stadt Berlin.
-✔️
-der Bundesadler.
-—
-der Reichsadler.
-—
-die Reichskrone.
+1. die Fahne der Stadt Berlin.
+2. ✔️ der Bundesadler.
+3. der Reichsadler.
+4. die Reichskrone.
 
 <div dir="rtl">
 
@@ -5289,29 +5164,21 @@ die Reichskrone.
 |||
 
 کدام نماد را می‌توان در سالن اجتماعات مجلس فدرال آلمان (بوندستاگ) مشاهده کرد؟
-—
-پرچم شهر برلین.
-✔️
-عقاب فدرال.
-—
-عقاب امپراتوری.
-—
-تاج امپراتوری.
+1. پرچم شهر برلین.
+2. ✔️ عقاب فدرال.
+3. عقاب امپراتوری.
+4. تاج امپراتوری.
 
 </div>
 
 
 ## Frage 217
 [ :top: ](#referecnce)
-In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?
-—
-1919 bis 1927
-—
-1933 bis 1945
-✔️
-1949 bis 1990
-—
-1945 bis 1961
+**In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?**
+1. 1919 bis 1927
+2. 1933 bis 1945
+3. ✔️ 1949 bis 1990
+4. 1945 bis 1961
 
 <div dir="rtl">
 
@@ -5321,27 +5188,21 @@ In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?
 |||
 
 جمهوری دموکراتیک آلمان (GDR) در چه دوره‌ای وجود داشت؟
-
-— ۱۹۱۹ تا ۱۹۲۷
-— ۱۹۳۳ تا ۱۹۴۵
-✔️
-۱۹۴۹ تا ۱۹۹۰
-— ۱۹۴۵ تا ۱۹۶۱
+1. ۱۹۱۹ تا ۱۹۲۷
+2. ۱۹۳۳ تا ۱۹۴۵
+3. ✔️ ۱۹۴۹ تا ۱۹۹۰
+4. ۱۹۴۵ تا ۱۹۶۱
 
 </div>
 
 
 ## Frage 219
 [ :top: ](#referecnce)
-Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?
-—
-4
-✔️
-5
-—
-6
-—
-7
+**Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?**
+1. 4
+2. ✔️ 5
+3. 6
+4. 7
 
 <div dir="rtl">
 
@@ -5351,30 +5212,21 @@ Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik 
 |||
 
 چند ایالت فدرال پس از اتحاد مجدد در سال ۱۹۹۰ به جمهوری فدرال آلمان اضافه شدند؟
-
-—
-۴
-✔️
-۵
-—
-۶
-—
-۷
+1. ۴
+2. ✔️ ۵
+3. ۶
+4. ۷
 
 </div>
 
 
 ## Frage 220
 [ :top: ](#referecnce)
-Die Bundesrepublik Deutschland hat die Grenzen von heute seit …
-—
-1933.
-—
-1949.
-—
-1971.
-✔️
-1990.
+**Die Bundesrepublik Deutschland hat die Grenzen von heute seit …**
+1. 1933.
+2. 1949.
+3. 1971.
+4. ✔️ 1990.
 
 <div dir="rtl">
 
@@ -5384,28 +5236,21 @@ Die Bundesrepublik Deutschland hat die Grenzen von heute seit …
 |||
 
 جمهوری فدرال آلمان از زمان ... مرزهای امروزی را داشته است.—
-۱۹۳۳.
-—
-۱۹۴۹.
-—
-۱۹۷۱.
-✔️
-۱۹۹۰ 
+1. ۱۹۳۳.
+2. ۱۹۴۹.
+3. ۱۹۷۱.
+4. ✔️ ۱۹۹۰ 
 
 </div>
 
 
 ## Frage 220
 [ :top: ](#referecnce)
-Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?
-—
-an das Ende des Zweiten Weltkrieges
-—
-an die Verabschiedung des Grundgesetzes
-—
-an die Wiedervereinigung Deutschlands
-✔️
-an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)
+**Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?**
+1. an das Ende des Zweiten Weltkrieges
+2. an die Verabschiedung des Grundgesetzes
+3. an die Wiedervereinigung Deutschlands
+4. ✔️ an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)
 
 <div dir="rtl">
 
@@ -5415,29 +5260,21 @@ an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers A
 |||
 
 ۲۷ ژانویه یک روز یادبود رسمی در آلمان است. این روز چه چیزی را گرامی می‌دارد؟
-
-پایان جنگ جهانی دوم
-
-تصویب قانون اساسی
-
-اتحاد مجدد آلمان
-✔️
-قربانیان سوسیالیسم ملی (روز آزادسازی اردوگاه مرگ آشویتس)
+1. پایان جنگ جهانی دوم
+2. تصویب قانون اساسی
+3. اتحاد مجدد آلمان
+4. ✔️ قربانیان سوسیالیسم ملی (روز آزادسازی اردوگاه مرگ آشویتس)
 
 </div>
 
 
 ## Frage 221
 [ :top: ](#referecnce)
-Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?
-✔️
-Deutsche können in viele Länder Europas ohne Passkontrolle reisen.
-—
-Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.
-—
-Deutsche können ohne Passkontrolle in jedes Land reisen.
-—
-Deutsche können in jedem Land mit dem Euro bezahlen.
+**Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?**
+1. ✔️ Deutsche können in viele Länder Europas ohne Passkontrolle reisen.
+2. Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.
+3. Deutsche können ohne Passkontrolle in jedes Land reisen.
+4. Deutsche können in jedem Land mit dem Euro bezahlen.
 
 <div dir="rtl">
 
@@ -5447,32 +5284,21 @@ Deutsche können in jedem Land mit dem Euro bezahlen.
 |||
 
 آلمان عضوی از توافقنامه شنگن است. این به چه معناست؟
-✔️
-آلمانی‌ها می‌توانند بدون بررسی گذرنامه به بسیاری از کشورهای اروپایی سفر کنند.
-
-
-همه افراد می‌توانند بدون بررسی گذرنامه وارد آلمان شوند.
-
-
-آلمانی‌ها می‌توانند بدون بررسی گذرنامه به هر کشوری سفر کنند.
-
-
-آلمانی‌ها می‌توانند در هر کشوری با یورو پرداخت کنند.
+1. ✔️ آلمانی‌ها می‌توانند بدون بررسی گذرنامه به بسیاری از کشورهای اروپایی سفر کنند.
+2. همه افراد می‌توانند بدون بررسی گذرنامه وارد آلمان شوند.
+3. آلمانی‌ها می‌توانند بدون بررسی گذرنامه به هر کشوری سفر کنند.
+4. آلمانی‌ها می‌توانند در هر کشوری با یورو پرداخت کنند.
 
 </div>
 
 
 ## Frage 222
 [ :top: ](#referecnce)
-Welches Land ist ein Nachbarland von Deutschland?
-—
-Ungarn
-—
-Portugal
-—
-Spanien
-✔️
-Schweiz
+**Welches Land ist ein Nachbarland von Deutschland?**
+1. Ungarn
+2. Portugal
+3. Spanien
+4. ✔️ Schweiz
 
 <div dir="rtl">
 
@@ -5482,29 +5308,21 @@ Schweiz
 |||
 
 کدام کشور همسایه آلمان است؟
-
-مجارستان
-
-پرتغال
-
-اسپانیا
-✔️
-سوئیس
+1. مجارستان
+2. پرتغال
+3. اسپانیا
+4. ✔️ سوئیس
 
 </div>
 
 
 ## Frage 223
 [ :top: ](#referecnce)
-Welches Land ist ein Nachbarland von Deutschland?
-—
-Rumänien
-—
-Bulgarien
-✔️
-Polen
-—
-Griechenland
+**Welches Land ist ein Nachbarland von Deutschland?**
+1. Rumänien
+2. Bulgarien
+3. ✔️ Polen
+4. Griechenland
 
 <div dir="rtl">
 
@@ -5514,26 +5332,21 @@ Griechenland
 |||
 
 کدام کشور همسایه آلمان است؟
-
-— رومانی
-— بلغارستان
-— لهستان
-— یونان
+1. رومانی
+2. بلغارستان
+3. ✔️ لهستان
+4. یونان
 
 </div>
 
 
 ## Frage 224
 [ :top: ](#referecnce)
-Was bedeutet die Abkürzung EU?
-—
-Europäische Unternehmen
-✔️
-Europäische Union
-—
-Einheitliche Union
-—
-Euro Union
+**Was bedeutet die Abkürzung EU?**
+1. Europäische Unternehmen
+2. ✔️ Europäische Union
+3. Einheitliche Union
+4. Euro Union
 
 <div dir="rtl">
 
@@ -5543,29 +5356,21 @@ Euro Union
 |||
 
 مخفف EU به چه معناست؟
-—
-شرکت‌های اروپایی
-✔️
-اتحادیه اروپا
-—
-اتحادیه متحد
-—
-اتحادیه یورو
+1. شرکت‌های اروپایی
+2. ✔️ اتحادیه اروپا
+3. اتحادیه متحد
+4. اتحادیه یورو
 
 </div>
 
 
 ## Frage 225
 [ :top: ](#referecnce)
-In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?
-—
-Tschechien
-—
-Norwegen
-—
-Spanien
-✔️
-Österreich
+**In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?**
+1. Tschechien
+2. Norwegen
+3. Spanien
+4. ✔️ Österreich
 
 <div dir="rtl">
 
@@ -5575,14 +5380,10 @@ Spanien
 |||
 
 کدام کشور دیگر جمعیت آلمانی زبان زیادی دارد؟
-
-جمهوری چک
-
-نروژ
-
-اسپانیا
-✔️
-اتریش
+1. جمهوری چک
+2. نروژ
+3. اسپانیا
+4. ✔️ اتریش
 
 </div>
 
@@ -5593,12 +5394,10 @@ Spanien
 
 ![Frage_226](./Pictures/Frage_226.png)
 
-✔️ 2
-— 1
-—
-4
-—
-3
+1. ✔️ 2
+2. 1
+3. 4
+4. 3
 
 <div dir="rtl">
 
@@ -5607,30 +5406,22 @@ Spanien
 |||
 |||
 
-سوال
-✔️
-2
-—
-1
-—
-4
-—
-3
+پرچم اتحادیه اروپا چیست؟
+1. ✔️ 2
+2. 1 
+3. 4
+4. 3
 
 </div>
 
 
 ## Frage 227
 [ :top: ](#referecnce)
-Welches Land ist ein Nachbarland von Deutschland?
-—
-Finnland
-✔️
-Dänemark
-—
-Norwegen
-—
-Schweden
+**Welches Land ist ein Nachbarland von Deutschland?**
+1. Finnland
+2. ✔️ Dänemark
+3. Norwegen
+4. Schweden
 
 <div dir="rtl">
 
@@ -5640,29 +5431,21 @@ Schweden
 |||
 
 کدام کشور همسایه آلمان است؟
-
-فنلاند
-✔️
-دانمارک
-
-نروژ
-
-سوئد
+1. فنلاند
+2. ✔️ دانمارک
+3. نروژ
+4. سوئد
 
 </div>
 
 
 ## Frage 228
 [ :top: ](#referecnce)
-Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?
-—
-NATO-Osterweiterung
-—
-EU-Osterweiterung
-—
-Europäische Gemeinschaft
-✔️
-Deutsche Wiedervereinigung
+**Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?**
+1. NATO-Osterweiterung
+2. EU-Osterweiterung
+3. Europäische Gemeinschaft
+4. ✔️ Deutsche Wiedervereinigung
 
 <div dir="rtl">
 
@@ -5672,27 +5455,21 @@ Deutsche Wiedervereinigung
 |||
 
 الحاق جمهوری دموکراتیک آلمان (GDR) به جمهوری فدرال آلمان در سال ۱۹۹۰ به طور کلی به چه معناست؟
-
-— گسترش ناتو به شرق
-— گسترش اتحادیه اروپا به شرق
-— جامعه اروپا
-✔️
-اتحاد مجدد آلمان
+1. گسترش ناتو به شرق
+2. گسترش اتحادیه اروپا به شرق
+3. جامعه اروپا
+4. ✔️ اتحاد مجدد آلمان
 
 </div>
 
 
 ## Frage 229
 [ :top: ](#referecnce)
-Welches Land ist ein Nachbarland von Deutschland?
-—
-Spanien
-—
-Bulgarien
-—
-Norwegen
-✔️
-Luxemburg
+**Welches Land ist ein Nachbarland von Deutschland?**
+1. Spanien
+2. Bulgarien
+3. Norwegen
+4. ✔️ Luxemburg
 
 <div dir="rtl">
 
@@ -5702,32 +5479,21 @@ Luxemburg
 |||
 
 کدام کشور همسایه آلمان است؟
-
-
-اسپانیا
-
-
-بلغارستان
-
-
-نروژ
-✔️
-لوکزامبورگ
+1. اسپانیا
+2. بلغارستان
+3. نروژ
+4. ✔️ لوکزامبورگ
 
 </div>
 
 
 ## Frage 230
 [ :top: ](#referecnce)
-Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …
-✔️
-5 Jahre.
-—
-6 Jahre.
-—
-7 Jahre.
-—
-8 Jahre.
+**Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …**
+1. ✔️ 5 Jahre.
+2. 6 Jahre.
+3. 7 Jahre.
+4. 8 Jahre.
 
 <div dir="rtl">
 
@@ -5737,32 +5503,21 @@ Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …
 |||
 
 پارلمان اروپا به طور منظم انتخاب می‌شود، یعنی هر ...
-✔️
-۵ سال.
-
-—
-۶ سال.
-
-—
-۷ سال.
-
-—
-۸ سال.
+1. ✔️ ۵ سال.
+2. ۶ سال.
+3. ۷ سال.
+4. ۸ سال.
 
 </div>
 
 
 ## Frage 231
 [ :top: ](#referecnce)
-Was bedeutet der Begriff „europäische Integration“?
-—
-Damit sind amerikanische Einwanderer in Europa gemeint.
-—
-Der Begriff meint den Einwanderungsstopp nach Europa.
-—
-Damit sind europäische Auswanderer in den USA gemeint.
-✔️
-Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.
+**Was bedeutet der Begriff „europäische Integration“?**
+1. Damit sind amerikanische Einwanderer in Europa gemeint.
+2. Der Begriff meint den Einwanderungsstopp nach Europa.
+3. Damit sind europäische Auswanderer in den USA gemeint.
+4. ✔️ Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.
 
 <div dir="rtl">
 
@@ -5772,33 +5527,21 @@ Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.
 |||
 
 اصطلاح «ادغام اروپا» به چه معناست؟
-
-—
-به مهاجران آمریکایی در اروپا اشاره دارد.
-
-—
-به ممنوعیت مهاجرت به اروپا اشاره دارد.
-
-—
-به مهاجران اروپایی در ایالات متحده اشاره دارد.
-
-✔️
-به اتحاد کشورهای اروپایی در اتحادیه اروپا اشاره دارد.
+1. به مهاجران آمریکایی در اروپا اشاره دارد.
+2. به ممنوعیت مهاجرت به اروپا اشاره دارد.
+3. به مهاجران اروپایی در ایالات متحده اشاره دارد.
+4. ✔️ به اتحاد کشورهای اروپایی در اتحادیه اروپا اشاره دارد.
 
 </div>
 
 
 ## Frage 232
 [ :top: ](#referecnce)
-Wer wird bei der Europawahl gewählt?
-—
-die Europäische Kommission
-—
-die Länder, die in die EU eintreten dürfen
-—
-die europäische Verfassung
-✔️
-die Abgeordneten des Europäischen Parlaments
+**Wer wird bei der Europawahl gewählt?**
+1. die Europäische Kommission
+2. die Länder, die in die EU eintreten dürfen
+3. die europäische Verfassung
+4. ✔️ die Abgeordneten des Europäischen Parlaments
 
 <div dir="rtl">
 
@@ -5808,29 +5551,21 @@ die Abgeordneten des Europäischen Parlaments
 |||
 
 چه کسی در انتخابات اروپا انتخاب می‌شود؟
-
-کمیسیون اروپا
-
-کشورهای واجد شرایط برای پیوستن به اتحادیه اروپا
-
-قانون اساسی اروپا
-✔️
-اعضای پارلمان اروپا
+1. کمیسیون اروپا
+2. کشورهای واجد شرایط برای پیوستن به اتحادیه اروپا
+3. قانون اساسی اروپا
+4. ✔️ اعضای پارلمان اروپا
 
 </div>
 
 
 ## Frage 233
 [ :top: ](#referecnce)
-Welches Land ist ein Nachbarland von Deutschland?
-✔️
-Tschechien
-—
-Bulgarien
-—
-Griechenland
-—
-Portugal
+**Welches Land ist ein Nachbarland von Deutschland?**
+1. ✔️ Tschechien
+2. Bulgarien
+3. Griechenland
+4. Portugal
 
 <div dir="rtl">
 
@@ -5840,29 +5575,21 @@ Portugal
 |||
 
 کدام کشور همسایه آلمان است؟
-✔️
-جمهوری چک
-—
-بلغارستان
-—
-یونان
-—
-پرتغال
+1. ✔️ جمهوری چک
+2. بلغارستان
+3. یونان
+4. پرتغال
 
 </div>
 
 
 ## Frage 234
 [ :top: ](#referecnce)
-Wo ist ein Sitz des Europäischen Parlaments?
-—
-London
-—
-Paris
-—
-Berlin
-✔️
-Straßburg
+**Wo ist ein Sitz des Europäischen Parlaments?**
+1. London
+2. Paris
+3. Berlin
+4. ✔️ Straßburg
 
 <div dir="rtl">
 
@@ -5872,17 +5599,10 @@ Straßburg
 |||
 
 پارلمان اروپا در کجا واقع شده است؟
-
-
-لندن
-
-
-پاریس
-
-
-برلین
-✔️
-استراسبورگ
+1. لندن
+2. پاریس
+3. برلین
+4. ✔️ استراسبورگ
 
 </div>
 
@@ -5895,15 +5615,10 @@ Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?**
 
 ![Frage_235](./Pictures/Frage_235.png)
 
-
-—
-Freundschaft zwischen England und Deutschland
-—
-Reisefreiheit in alle Länder der EU
-✔️
-Frieden und Sicherheit in den Ländern der EU
-—
-einheitliche Feiertage in den Ländern der EU
+1. Freundschaft zwischen England und Deutschland
+2. Reisefreiheit in alle Länder der EU
+3. ✔️ Frieden und Sicherheit in den Ländern der EU
+4. einheitliche Feiertage in den Ländern der EU
 
 <div dir="rtl">
 
@@ -5913,14 +5628,10 @@ einheitliche Feiertage in den Ländern der EU
 |||
 
 فرانسوا میتران، رئیس جمهور فرانسه، و هلموت کهل، صدراعظم آلمان، به طور مشترک یاد قربانیان هر دو جنگ جهانی را در وردون گرامی داشتند. هدف اتحادیه اروپا در این نشست چه چیزی را روشن می‌کند؟
-—
-دوستی بین انگلستان و آلمان
-—
-آزادی سفر به تمام کشورهای اتحادیه اروپا
-✔️
-صلح و امنیت در کشورهای اتحادیه اروپا
-—
-تعطیلات رسمی یکسان در کشورهای اتحادیه اروپا
+1. دوستی بین انگلستان و آلمان
+2. آزادی سفر به تمام کشورهای اتحادیه اروپا
+3. ✔️ صلح و امنیت در کشورهای اتحادیه اروپا
+4. تعطیلات رسمی یکسان در کشورهای اتحادیه اروپا
 
 
 </div>
@@ -5928,15 +5639,11 @@ einheitliche Feiertage in den Ländern der EU
 
 ## Frage 236
 [ :top: ](#referecnce)
-Wie viele Mitgliedstaaten hat die EU heute?
-—
-21
-—
-23
-—
-25
-✔️
-27
+**Wie viele Mitgliedstaaten hat die EU heute?**
+1. 21
+2. 23
+3. 25
+4. ✔️ 27
 
 <div dir="rtl">
 
@@ -5946,30 +5653,21 @@ Wie viele Mitgliedstaaten hat die EU heute?
 |||
 
 اتحادیه اروپا امروز چند کشور عضو دارد؟
-
-—
-۲۱
-—
-۲۳
-—
-۲۵
-✔️
-۲۷
+1. ۲۱
+2. ۲۳
+3. ۲۵
+4. ✔️ ۲۷
 
 </div>
 
 
 ## Frage 237
 [ :top: ](#referecnce)
-2007 wurde das 50-jährige Jubiläum der „Römischen Verträge“ gefeiert. Was war der Inhalt der Verträge?
-—
-Beitritt Deutschlands zur NATO
-✔️
-Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)
-—
-Verpflichtung Deutschlands zu Reparationsleistungen
-—
-Festlegung der Oder-Neiße-Linie als Ostgrenze
+**2007 wurde das 50-jährige Jubiläum der „Römischen Verträge“ gefeiert. Was war der Inhalt der Verträge?**
+1. Beitritt Deutschlands zur NATO
+2. ✔️ Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)
+3. Verpflichtung Deutschlands zu Reparationsleistungen
+4. Festlegung der Oder-Neiße-Linie als Ostgrenze
 
 <div dir="rtl">
 
@@ -5979,30 +5677,21 @@ Festlegung der Oder-Neiße-Linie als Ostgrenze
 |||
 
 در سال ۲۰۰۷، پنجاهمین سالگرد «معاهده‌های رم» جشن گرفته شد. این معاهدات شامل چه مواردی بودند؟
-
-—
-پیوستن آلمان به ناتو
-✔️
-تأسیس جامعه اقتصادی اروپا (EEC)
-—
-تعهد آلمان به پرداخت غرامت
-—
-تعیین خط اودر-نایسه به عنوان مرز شرقی
+1. پیوستن آلمان به ناتو
+2. ✔️ تأسیس جامعه اقتصادی اروپا (EEC)
+3. تعهد آلمان به پرداخت غرامت
+4. تعیین خط اودر-نایسه به عنوان مرز شرقی
 
 </div>
 
 
 ## Frage 238
 [ :top: ](#referecnce)
-An welchen Orten arbeitet das Europäische Parlament?
-—
-Paris, London und Den Haag
-✔️
-Straßburg, Luxemburg und Brüssel
-—
-Rom, Bern und Wien
-—
-Bonn, Zürich und Mailand
+**An welchen Orten arbeitet das Europäische Parlament?**
+1. Paris, London und Den Haag
+2. ✔️ Straßburg, Luxemburg und Brüssel
+3. Rom, Bern und Wien
+4. Bonn, Zürich und Mailand
 
 <div dir="rtl">
 
@@ -6012,29 +5701,22 @@ Bonn, Zürich und Mailand
 |||
 
 پارلمان اروپا کجا کار می‌کند؟
-
-پاریس، لندن و لاهه
-
-استراسبورگ، لوکزامبورگ و بروکسل
-
-رم، برن و وین
-
-بن، زوریخ و میلان
+1. پاریس، لندن و لاهه
+2. استراسبورگ، لوکزامبورگ و بروکسل
+3. رم، برن و وین
+4. بن، زوریخ و میلان
 
 </div>
 
 
 ## Frage 239
 [ :top: ](#referecnce)
-Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?
-—
-durch die „Hamburger Verträge“
-✔️
-durch die „Römischen Verträge“
-—
-durch die „Pariser Verträge“
-—
-durch die „Londoner Verträge“
+**Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur 
+Europäischen Wirtschaftsgemeinschaft zusammen?**
+1. cdurch die „Hamburger Verträge“
+2. ✔️ durch die „Römischen Verträge“
+3. durch die „Pariser Verträge“
+4. durch die „Londoner Verträge“
 
 <div dir="rtl">
 
@@ -6044,29 +5726,21 @@ durch die „Londoner Verträge“
 |||
 
 جمهوری فدرال آلمان از طریق کدام معاهدات با سایر کشورها برای تشکیل جامعه اقتصادی اروپا متحد شد؟
-
-— از طریق "معاهدات هامبورگ"
-✔️
-از طریق "معاهدات رم"
-—
-از طریق "معاهدات پاریس"
-—
-از طریق "معاهدات لندن"
+1. از طریق "معاهدات هامبورگ"
+2. ✔️ از طریق "معاهدات رم"
+3. از طریق "معاهدات پاریس"
+4. از طریق "معاهدات لندن"
 
 </div>
 
 
 ## Frage 240
 [ :top: ](#referecnce)
-Seit wann bezahlt man in Deutschland mit dem Euro in bar?
-—
-1995
-—
-1998
-✔️
-2002
-—
-2005
+**Seit wann bezahlt man in Deutschland mit dem Euro in bar?**
+1. 1995
+2. 1998
+3. ✔️ 2002
+4.  2005
 
 <div dir="rtl">
 
@@ -6076,32 +5750,21 @@ Seit wann bezahlt man in Deutschland mit dem Euro in bar?
 |||
 
 از چه زمانی یورو برای پرداخت‌های نقدی در آلمان پذیرفته شده است؟
-
-
-۱۹۹۵
-
-
-۱۹۹۸
-✔️
-۲۰۰۲
-
-
-۲۰۰۵
+1. ۱۹۹۵
+2. ۱۹۹۸
+3. ✔️ ۲۰۰۲
+4. ۲۰۰۵
 
 </div>
 
 
 ## Frage 241
 [ :top: ](#referecnce)
-Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?
-—
-Sie muss an ihre Krankenkasse schreiben.
-—
-Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.
-✔️
-Sie muss einen Antrag bei der Elterngeldstelle stellen.
-—
-Sie muss das Arbeitsamt um Erlaubnis bitten.
+**Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?**
+1. Sie muss an ihre Krankenkasse schreiben.
+2. Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.
+3. ✔️ Sie muss einen Antrag bei der Elterngeldstelle stellen.
+4. Sie muss das Arbeitsamt um Erlaubnis bitten.
 
 <div dir="rtl">
 
@@ -6111,18 +5774,10 @@ Sie muss das Arbeitsamt um Erlaubnis bitten.
 |||
 
 خانم سگر صاحب فرزند است. برای دریافت کمک هزینه والدین چه کاری باید انجام دهد؟
-
-
-او باید به ارائه دهنده بیمه درمانی خود نامه بنویسد.
-
-
-او نیازی به انجام کاری ندارد، زیرا به طور خودکار کمک هزینه والدین را دریافت می‌کند.
-
-
-او باید درخواستی را به اداره کمک هزینه والدین ارسال کند.
-
-
-او باید از اداره کار اجازه بگیرد.
+1. او باید به ارائه دهنده بیمه درمانی خود نامه بنویسد.
+2. او نیازی به انجام کاری ندارد، زیرا به طور خودکار کمک هزینه والدین را دریافت می‌کند.
+3. ✔️ او باید درخواستی را به اداره کمک هزینه والدین ارسال کند.
+4. او باید از اداره کار اجازه بگیرد.
 
 </div>
 
@@ -6130,14 +5785,10 @@ Sie muss das Arbeitsamt um Erlaubnis bitten.
 ## Frage 242
 [ :top: ](#referecnce)
 Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?
-—
-der Staat
-—
-die Bundesländer
-✔️
-die Eltern / die Erziehungsberechtigten
-—
-die Schulen
+1. der Staat
+2. die Bundesländer
+3. ✔️ die Eltern / die Erziehungsberechtigten
+4. die Schulen
 
 <div dir="rtl">
 
@@ -6147,27 +5798,21 @@ die Schulen
 |||
 
 چه کسی در آلمان تصمیم می‌گیرد که آیا کودک به مهدکودک می‌رود یا خیر؟
-
-— ایالت
-— ایالت‌های فدرال
-✔️
-والدین/سرپرستان
-— مدارس
+1. ایالت
+2. ایالت‌های فدرال
+3. ✔️ والدین/سرپرستان
+4. مدارس
 
 </div>
 
 
 ## Frage 243
 [ :top: ](#referecnce)
-Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?
-—
-Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.
-✔️
-Sie müssen die Demonstration anmelden.
-—
-Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.
-—
-Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.
+**Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?**
+1. Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.
+2. ✔️ Sie müssen die Demonstration anmelden.
+3. Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.
+4. Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.
 
 <div dir="rtl">
 
@@ -6177,33 +5822,21 @@ Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstri
 |||
 
 مایک و سیبیل می‌خواهند با دوستانشان در نزدیکی زادگاهشان در آلمان یک تظاهرات خیابانی برگزار کنند. قبل از آن چه کاری باید انجام دهند؟
-
-
-آنها لازم نیست کاری انجام دهند. شما می‌توانید در هر کجا و هر زمان در آلمان تظاهرات کنید.
-
-
-آنها باید تظاهرات را ثبت کنند.
-
-
-آنها نمی‌توانند کاری انجام دهند، زیرا تظاهرات به طور کلی در آلمان ممنوع است.
-
-
-مایک و سیبیل باید یک انجمن جدید تشکیل دهند زیرا فقط انجمن‌ها مجاز به تظاهرات هستند.
+1. آنها لازم نیست کاری انجام دهند. شما می‌توانید در هر کجا و هر زمان در آلمان تظاهرات کنید.
+2. ✔️ آنها باید تظاهرات را ثبت کنند.
+3. آنها نمی‌توانند کاری انجام دهند، زیرا تظاهرات به طور کلی در آلمان ممنوع است.
+4. مایک و سیبیل باید یک انجمن جدید تشکیل دهند زیرا فقط انجمن‌ها مجاز به تظاهرات هستند.
 
 </div>
 
 
 ## Frage 244
 [ :top: ](#referecnce)
- Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?
-✔️
-das Abitur
-—
-ein Diplom
-—
-die Prokura
-—
-eine Gesellenprüfung
+**Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?**
+1. ✔️ das Abitur
+2. ein Diplom
+3. die Prokura
+4. eine Gesellenprüfung
 
 <div dir="rtl">
 
@@ -6213,30 +5846,21 @@ eine Gesellenprüfung
 |||
 
 برای شروع تحصیل در دانشگاه‌های آلمان معمولاً به چه مدرک تحصیلی نیاز دارید؟
-
-✔️
-Abitur (دیپلم دبیرستان)
-—
-دیپلم
-—
-وکالتنامه (prokura)
-—
-گواهی کارآموزی
+1. ✔️ Abitur (دیپلم دبیرستان)
+2. دیپلم
+3. وکالتنامه (prokura)
+4. گواهی کارآموزی
 
 </div>
 
 
 ## Frage 245
 [ :top: ](#referecnce)
-Wer darf in Deutschland nicht als Paar zusammenleben?
-—
-Hans (20 Jahre) und Marie (19 Jahre)
-—
-Tom (20 Jahre) und Klaus (45 Jahre)
-—
-Sofie (35 Jahre) und Lisa (40 Jahre)
-✔️
-Anne (13 Jahre) und Tim (25 Jahre)
+**Wer darf in Deutschland nicht als Paar zusammenleben?**
+1. Hans (20 Jahre) und Marie (19 Jahre)
+2. Tom (20 Jahre) und Klaus (45 Jahre)
+3. Sofie (35 Jahre) und Lisa (40 Jahre)
+4. ✔️ Anne (13 Jahre) und Tim (25 Jahre)
 
 <div dir="rtl">
 
@@ -6246,18 +5870,10 @@ Anne (13 Jahre) und Tim (25 Jahre)
 |||
 
 چه کسی اجازه ندارد در آلمان به عنوان یک زوج با هم زندگی کند؟
-
-
-هانس (۲۰ ساله) و ماری (۱۹ ساله)
-
-
-تام (۲۰ ساله) و کلاوس (۴۵ ساله)
-
-
-سوفی (۳۵ ساله) و لیزا (۴۰ ساله)
-
-✔️
-آن (۱۳ ساله) و تیم (۲۵ ساله)
+1. هانس (۲۰ ساله) و ماری (۱۹ ساله)
+2. تام (۲۰ ساله) و کلاوس (۴۵ ساله)
+3. سوفی (۳۵ ساله) و لیزا (۴۰ ساله)
+4. ✔️ آن (۱۳ ساله) و تیم (۲۵ ساله)
 
 </div>
 
@@ -6265,14 +5881,10 @@ Anne (13 Jahre) und Tim (25 Jahre)
 ## Frage 246
 [ :top: ](#referecnce)
 Ab welchem Alter ist man in Deutschland volljährig?
-—
-16
-✔️
-18
-—
-19
-—
-21
+1. 16
+2. ✔️ 18
+3. 19
+4. 21
 
 <div dir="rtl">
 
@@ -6282,30 +5894,21 @@ Ab welchem Alter ist man in Deutschland volljährig?
 |||
 
 در آلمان در چه سنی بالغ محسوب می‌شوید؟
-
-—
-۱۶
-✔️
-۱۸
-—
-۱۹
-—
-۲۱
+1. ۱۶
+2. ✔️ ۱۸
+3. ۱۹
+4. ۲۱
 
 </div>
 
 
 ## Frage 247
 [ :top: ](#referecnce)
-Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?
-—
-Elternzeit
-—
-Geburtsvorbereitung
-✔️
-Mutterschutz
-—
-Wochenbett
+**Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?**
+1. Elternzeit
+2. Geburtsvorbereitung
+3. ✔️ Mutterschutz
+4. Wochenbett
 
 <div dir="rtl">
 
@@ -6314,30 +5917,22 @@ Wochenbett
 |||
 |||
 
-زنی باردار است. او کمی قبل و بعد از تولد فرزندش، طبق قانون از حمایت ویژه‌ای برخوردار است. این حمایت چه نامیده می‌شود؟
-
-مرخصی والدین
-
-مراقبت‌های قبل از زایمان
-✔️
-حمایت از مادران
-
-دوران پس از زایمان
+**زنی باردار است. او کمی قبل و بعد از تولد فرزندش، طبق قانون از حمایت ویژه‌ای برخوردار است. این حمایت چه نامیده می‌شود؟**
+1. مرخصی والدین
+2. مراقبت‌های قبل از زایمان
+3. ✔️ حمایت از مادران
+4. دوران پس از زایمان
 
 </div>
 
 
 ## Frage 248
 [ :top: ](#referecnce)
-Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …
-—
-des Staates.
-✔️
-der Eltern.
-—
-der Großeltern.
-—
-der Schulen.
+**Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …**
+1. des Staates.
+2. ✔️ der Eltern.
+3. der Großeltern.
+4. der Schulen.
 
 <div dir="rtl">
 
@@ -6347,30 +5942,21 @@ der Schulen.
 |||
 
 در آلمان، آموزش کودکان در درجه اول مسئولیت ...
-—
-دولت.
-
-✔️
-والدین.
-—
-پدربزرگ‌ها و مادربزرگ‌ها.
-—
-مدارس.
+1. دولت.
+2. ✔️ والدین.
+3. پدربزرگ‌ها و مادربزرگ‌ها.
+4. مدارس.
 
 </div>
 
 
 ## Frage 249
 [ :top: ](#referecnce)
-Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?
-—
-der Staat
-✔️
-die Eltern
-—
-die Verwandten
-—
-die Schulen
+**Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?**
+1. der Staat
+2. ✔️ die Eltern
+3. die Verwandten
+4. die Schulen
 
 <div dir="rtl">
 
@@ -6380,27 +5966,21 @@ die Schulen
 |||
 
 چه کسی در آلمان مسئول اصلی تربیت فرزندان است؟
-
-— دولت
-✔️
-والدین
-— اقوام
-— مدارس
+1. دولت
+2. ✔️ والدین
+3. اقوام
+4. مدارس
 
 </div>
 
 
 ## Frage 250
 [ :top: ](#referecnce)
-In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …
-—
-katholisch ist.
-✔️
-gut ausgebildet ist.
-—
-eine Frau ist.
-—
-Mitglied einer Partei ist.
+**In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …**
+1. katholisch ist.
+2. ✔️ gut ausgebildet ist.
+3. eine Frau ist.
+4. Mitglied einer Partei ist.
 
 <div dir="rtl">
 
@@ -6410,29 +5990,21 @@ Mitglied einer Partei ist.
 |||
 
 در آلمان، اگر ... باشید، بهترین شانس را برای یافتن شغل پردرآمد دارید.
-—
-کاتولیک.
-✔️
-تحصیل کرده باشید.
-—
-زن.
-—
-عضو یک حزب سیاسی باشید.
+1. کاتولیک.
+2. ✔️ تحصیل کرده باشید.
+3. زن.
+4. عضو یک حزب سیاسی باشید.
 
 </div>
 
 
 ## Frage 251
 [ :top: ](#referecnce)
- Wenn man in Deutschland ein Kind schlägt, …
-—
-geht das niemanden etwas an.
-—
-geht das nur die Familie etwas an.
-—
-kann man dafür nicht bestraft werden.
-✔️
-kann man dafür bestraft werden.
+**Wenn man in Deutschland ein Kind schlägt, …**
+1. geht das niemanden etwas an.
+2. geht das nur die Familie etwas an.
+3. kann man dafür nicht bestraft werden.
+4. ✔️ kann man dafür bestraft werden.
 
 <div dir="rtl">
 
@@ -6442,30 +6014,21 @@ kann man dafür bestraft werden.
 |||
 
 اگر در آلمان کودکی را کتک بزنید...
-—
-به هیچ‌کس ربطی ندارد.
-—
-فقط به خانواده مربوط است.
-—
-به خاطر این کار مجازات نمی‌شوید.
-
-✔️
-ممکن است به خاطر آن مجازات شوید.
+1. به هیچ‌کس ربطی ندارد.
+2. فقط به خانواده مربوط است.
+3. به خاطر این کار مجازات نمی‌شوید.
+4. ✔️ ممکن است به خاطر آن مجازات شوید.
 
 </div>
 
 
 ## Frage 252
 [ :top: ](#referecnce)
-In Deutschland …
-✔️
-darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.
-—
-kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.
-—
-darf man nicht wieder heiraten, wenn man einmal verheiratet war.
-—
-darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.
+**In Deutschland …**
+1. ✔️ darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.
+2. kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.
+3. darf man nicht wieder heiraten, wenn man einmal verheiratet war.
+4. darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.
 
 <div dir="rtl">
 
@@ -6475,29 +6038,21 @@ darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.
 |||
 
 در آلمان…
-✔️
-شما می‌توانید در یک زمان فقط با یک شریک زندگی کنید.
-
-شما می‌توانید همزمان چندین همسر داشته باشید.
-
-شما نمی‌توانید پس از ازدواج دوباره ازدواج کنید.
-
-یک زن در صورت فوت شوهرش نمی‌تواند دوباره ازدواج کند.
+1. ✔️ شما می‌توانید در یک زمان فقط با یک شریک زندگی کنید.
+2. شما می‌توانید همزمان چندین همسر داشته باشید.
+3. شما نمی‌توانید پس از ازدواج دوباره ازدواج کنید.
+4. یک زن در صورت فوت شوهرش نمی‌تواند دوباره ازدواج کند.
 
 </div>
 
 
 ## Frage 253
 [ :top: ](#referecnce)
-Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?
-✔️
-beim Einwohnermeldeamt
-—
-beim Standesamt
-—
-beim Ordnungsamt
-—
-beim Gewerbeamt
+**Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?**
+1. ✔️ beim Einwohnermeldeamt
+2. beim Standesamt
+3. beim Ordnungsamt
+4. beim Gewerbeamt
 
 <div dir="rtl">
 
@@ -6507,29 +6062,21 @@ beim Gewerbeamt
 |||
 
 در صورت مهاجرت به آلمان، کجا باید ثبت نام کنید؟
-✔️
-در اداره ثبت احوال
-—
-در اداره ثبت
-—
-در اداره نظم عمومی
-—
-در اداره ثبت تجارت
+1. ✔️ در اداره ثبت احوال
+2. در اداره ثبت
+3. در اداره نظم عمومی
+4. در اداره ثبت تجارت
 
 </div>
 
 
 ## Frage 254
 [ :top: ](#referecnce)
-In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?
-—
-Der Scheidungsprozess dauert ein Jahr.
-—
-Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.
-—
-Das Besuchsrecht für die Kinder gilt ein Jahr.
-✔️
-Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.
+**In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?**
+1. Der Scheidungsprozess dauert ein Jahr.
+2. Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.
+3. Das Besuchsrecht für die Kinder gilt ein Jahr.
+4. ✔️ Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.
 
 <div dir="rtl">
 
@@ -6539,33 +6086,21 @@ Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist
 |||
 
 در آلمان، زوج‌های متأهل مجاز به طلاق هستند. آنها معمولاً برای انجام این کار باید "سال جدایی" را رعایت کنند. این به چه معناست؟
-
-
-روند طلاق یک سال طول می‌کشد.
-
-
-زوجین یک سال ازدواج کرده‌اند و پس از آن طلاق امکان‌پذیر است.
-
-
-حق ملاقات فرزندان یک سال اعتبار دارد.
-
-
-زوجین حداقل یک سال زندگی جداگانه‌ای داشته‌اند. پس از آن، طلاق امکان‌پذیر است.
+1. روند طلاق یک سال طول می‌کشد.
+2. زوجین یک سال ازدواج کرده‌اند و پس از آن طلاق امکان‌پذیر است.
+3. حق ملاقات فرزندان یک سال اعتبار دارد.
+4. ✔️ زوجین حداقل یک سال زندگی جداگانه‌ای داشته‌اند. پس از آن، طلاق امکان‌پذیر است.
 
 </div>
 
 
 ## Frage 255
 [ :top: ](#referecnce)
-Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …
-—
-Ordnungsamt.
-—
-Schulamt.
-✔️
-Jugendamt.
-—
-Gesundheitsamt.
+**Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …**
+1. Ordnungsamt.
+2. Schulamt.
+3. ✔️ Jugendamt.
+4. Gesundheitsamt.
 
 <div dir="rtl">
 
@@ -6575,29 +6110,21 @@ Gesundheitsamt.
 |||
 
 والدین در آلمان می‌توانند در مورد مشکلات فرزندپروری از ... کمک بگیرند.
-—
-اداره نظم عمومی.
-—
-اداره آموزش.
-✔️
-اداره رفاه جوانان.
-—
-وزارت بهداشت.
+1. اداره نظم عمومی.
+2. اداره آموزش.
+3. ✔️ اداره رفاه جوانان.
+4. وزارت بهداشت.
 
 </div>
 
 
 ## Frage 256
 [ :top: ](#referecnce)
-Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?
-—
-eine Erlaubnis der Polizei
-—
-eine Genehmigung einer Partei
-—
-eine Genehmigung des Einwohnermeldeamts
-✔️
-eine Gaststättenerlaubnis von der zuständigen Behörde
+**Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?**
+1. eine Erlaubnis der Polizei
+2. eine Genehmigung einer Partei
+3. eine Genehmigung des Einwohnermeldeamts
+4. ✔️ eine Gaststättenerlaubnis von der zuständigen Behörde
 
 <div dir="rtl">
 
@@ -6607,27 +6134,21 @@ eine Gaststättenerlaubnis von der zuständigen Behörde
 |||
 
 یک زوج متاهل می‌خواهند در آلمان رستورانی باز کنند. الزامات اساسی چیست؟
-
-— مجوز از پلیس
-— مجوز از یک حزب سیاسی
-— مجوز از اداره ثبت احوال
-✔️
-مجوز رستوران از مرجع مربوطه
+1. مجوز از پلیس
+2. مجوز از یک حزب سیاسی
+3. مجوز از اداره ثبت احوال
+4. ✔️ مجوز رستوران از مرجع مربوطه
 
 </div>
 
 
 ## Frage 257
 [ :top: ](#referecnce)
-Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …
-—
-einer Hochschule.
-✔️
-einem Abendgymnasium.
-—
-einer Hauptschule.
-—
-einer Privatuniversität.
+**Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …**
+1. einer Hochschule.
+2. ✔️ einem Abendgymnasium.
+3. einer Hauptschule.
+4. einer Privatuniversität.
 
 <div dir="rtl">
 
@@ -6637,14 +6158,10 @@ einer Privatuniversität.
 |||
 
 یک زن بالغ می‌خواهد مدرک دیپلم (Abitur) خود را در آلمان دریافت کند. او می‌تواند این کار را در ...
-—
-دانشگاه.
-✔️
-دبیرستان شبانه.
-—
-مدرسه متوسطه.
-—
-دانشگاه خصوصی.
+1. دانشگاه.
+2. ✔️ دبیرستان شبانه.
+3. مدرسه متوسطه.
+4. دانشگاه خصوصی.
 
 </div>
 
@@ -6652,15 +6169,11 @@ einer Privatuniversität.
 
 ## Frage 258
 [ :top: ](#referecnce)
-Was darf das Jugendamt in Deutschland?
-—
-Es entscheidet, welche Schule das Kind besucht.
-✔️
-Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.
-—
-Es bezahlt das Kindergeld an die Eltern.
-—
-Es kontrolliert, ob das Kind einen Kindergarten besucht.
+**Was darf das Jugendamt in Deutschland?**
+1. Es entscheidet, welche Schule das Kind besucht.
+2. ✔️ Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.
+3. Es bezahlt das Kindergeld an die Eltern.
+4. Es kontrolliert, ob das Kind einen Kindergarten besucht.
 
 <div dir="rtl">
 
@@ -6670,32 +6183,20 @@ Es kontrolliert, ob das Kind einen Kindergarten besucht.
 |||
 
 اداره رفاه جوانان در آلمان مجاز به انجام چه کارهایی است؟
-
-—
-این اداره تصمیم می‌گیرد که کودک در کدام مدرسه تحصیل کند.
-
-✔️
-می‌تواند کودکی را که مورد ضرب و شتم قرار می‌گیرد یا از گرسنگی رنج می‌برد، از خانواده جدا کند.
-
-—
-به والدین کمک هزینه کودک پرداخت می‌کند.
-
-—
-بررسی می‌کند که آیا کودک به مهدکودک می‌رود یا خیر.
+1. این اداره تصمیم می‌گیرد که کودک در کدام مدرسه تحصیل کند.
+2. ✔️ می‌تواند کودکی را که مورد ضرب و شتم قرار می‌گیرد یا از گرسنگی رنج می‌برد، از خانواده جدا کند.
+3. به والدین کمک هزینه کودک پرداخت می‌کند.
+4. بررسی می‌کند که آیا کودک به مهدکودک می‌رود یا خیر.
 
 </div>
 
 ## Frage 259
 [ :top: ](#referecnce)
-Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …
-—
-Rentenberechnung.
-✔️
-Lehrstellensuche.
-—
-Steuererklärung.
-—
-Krankenversicherung.
+**Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …**
+1. Rentenberechnung.
+2. ✔️ Lehrstellensuche.
+3. Steuererklärung.
+4. Krankenversicherung.
 
 <div dir="rtl">
 
@@ -6705,28 +6206,20 @@ Krankenversicherung.
 |||
 
 مرکز اطلاعات شغلی (BIZ) در آژانس فدرال کار در آلمان به ... کمک می‌کند.
-—
-محاسبه حقوق بازنشستگی.
-✔️
-جستجوی کارآموزی.
-—
-اظهارنامه مالیاتی.
-—
-بیمه درمانی.
+1. محاسبه حقوق بازنشستگی.
+2. ✔️ جستجوی کارآموزی.
+3. اظهارنامه مالیاتی.
+4. بیمه درمانی.
 
 </div>
 
 ## Frage 260
 [ :top: ](#referecnce)
- In Deutschland hat ein Kind in der Schule …
-—
-Recht auf unbegrenzte Freizeit.
-—
-Wahlfreiheit für alle Fächer.
-—
-Anspruch auf Schulgeld.
-✔️
-Anwesenheitspflicht.
+**In Deutschland hat ein Kind in der Schule …**
+1. Recht auf unbegrenzte Freizeit.
+2. Wahlfreiheit für alle Fächer.
+3. Anspruch auf Schulgeld.
+4. ✔️ Anwesenheitspflicht.
 
 <div dir="rtl">
 
@@ -6736,28 +6229,20 @@ Anwesenheitspflicht.
 |||
 
 در آلمان، یک کودک در مدرسه...
-—
-حق داشتن وقت آزاد نامحدود.
-—
-آزادی انتخاب همه دروس.
-—
-حق دریافت شهریه مدرسه.
-✔️
-حضور اجباری.
+1. حق داشتن وقت آزاد نامحدود.
+2. آزادی انتخاب همه دروس.
+3. حق دریافت شهریه مدرسه.
+4. ✔️ حضور اجباری.
 
 </div>
 
 ## Frage 261
 [ :top: ](#referecnce)
-Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …
-—
-einer Hochschule
-✔️
-einem Abendgymnasium
-—
-einer Hauptschule
-—
-einer Privatuniversität
+**Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …**
+1. einer Hochschule
+2. ✔️ einem Abendgymnasium
+3. einer Hauptschule
+4. einer Privatuniversität
 
 <div dir="rtl">
 
@@ -6767,28 +6252,20 @@ einer Privatuniversität
 |||
 
 یک مرد ۳۰ ساله می‌خواهد مدرک Abitur (مدرک ورود به دانشگاه) خود را در آلمان تکمیل کند. کجا می‌تواند این کار را انجام دهد؟ در…
-—
-یک دانشگاه
-✔️
-یک دبیرستان شبانه
-—
-یک دبیرستان
-—
-یک دانشگاه خصوصی
+1. یک دانشگاه
+2. ✔️ یک دبیرستان شبانه
+3. یک دبیرستان
+4. یک دانشگاه خصوصی
 
 </div>
 
 ## Frage 262
 [ :top: ](#referecnce)
-Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?
-✔️
-Niemand darf z. B. wegen einer Behinderung benachteiligt werden.
-—
-Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.
-—
-Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.
-—
-Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.
+**Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?**
+1. ✔️ Niemand darf z. B. wegen einer Behinderung benachteiligt werden.
+2. Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.
+3. Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.
+4. Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.
 <div dir="rtl">
 
 | English | Deutsch | فارسی
@@ -6797,31 +6274,20 @@ Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.
 |||
 
 اصل رفتار برابر در آلمان به چه معناست؟
-✔️
-هیچ‌کس را نمی‌توان به عنوان مثال به دلیل معلولیت مورد تبعیض قرار داد.
-
-
-اگر دلایل شخصی کافی برای این کار وجود داشته باشد، می‌توانید علیه افراد دیگر تبعیض قائل شوید.
-
-
-هیچ‌کس نمی‌تواند از کسی که مورد تبعیض قرار گرفته است، شکایت کند.
-
-
-قانون می‌گوید که همه می‌توانند سالانه به گروه‌های محروم پول اهدا کنند.
+1. ✔️ هیچ‌کس را نمی‌توان به عنوان مثال به دلیل معلولیت مورد تبعیض قرار داد.
+2. اگر دلایل شخصی کافی برای این کار وجود داشته باشد، می‌توانید علیه افراد دیگر تبعیض قائل شوید.
+3. هیچ‌کس نمی‌تواند از کسی که مورد تبعیض قرار گرفته است، شکایت کند.
+4. قانون می‌گوید که همه می‌توانند سالانه به گروه‌های محروم پول اهدا کنند.
 
 </div>
 
 ## Frage 263
 [ :top: ](#referecnce)
- In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …
-✔️
-werden bestraft.
-—
-werden wie Erwachsene behandelt.
-—
-teilen die Strafe mit ihren Eltern.
-—
-werden nicht bestraft.
+**In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …**
+1. ✔️ werden bestraft.
+2. werden wie Erwachsene behandelt.
+3. teilen die Strafe mit ihren Eltern.
+4. werden nicht bestraft.
 
 <div dir="rtl">
 
@@ -6831,28 +6297,20 @@ werden nicht bestraft.
 |||
 
 در آلمان، جوانان ۱۴ سال به بالا مسئولیت کیفری دارند. این به این معنی است: جوانان ۱۴ سال به بالا که قوانین کیفری را نقض می‌کنند...
-✔️
-مجازات خواهند شد.
-
-با آنها مانند بزرگسالان رفتار خواهد شد.
-
-مجازات را با والدین خود تقسیم خواهند کرد.
-
-مجازات نخواهند شد.
+1. ✔️ مجازات خواهند شد.
+2. با آنها مانند بزرگسالان رفتار خواهد شد.
+3. مجازات را با والدین خود تقسیم خواهند کرد.
+4. مجازات نخواهند شد.
 
 </div>
 
 ## Frage 264
 [ :top: ](#referecnce)
-Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?
-✔️
-am Rosenmontag
-—
-am Maifeiertag
-—
-beim Oktoberfest
-—
-an Pfingsten
+**Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?**
+1. ✔️ am Rosenmontag
+2. am Maifeiertag
+3. beim Oktoberfest
+4. an Pfingsten
 
 <div dir="rtl">
 
@@ -6862,29 +6320,20 @@ an Pfingsten
 |||
 
 در کدام جشنواره در آلمان مردم لباس‌ها و ماسک‌های رنگارنگ می‌پوشند؟
-
-✔️
-در دوشنبه رز
-—
-در روز اول ماه مه
-—
-در اکتبرفست
-—
-در پنطیکاست
+1. ✔️ در دوشنبه رز
+2. در روز اول ماه مه
+3. در اکتبرفست
+4. در پنطیکاست
 
 </div>
 
 ## Frage 265
 [ :top: ](#referecnce)
-Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?
-—
-zum Einwohnermeldeamt
-—
-zum Ordnungsamt
-—
-zur Agentur für Arbeit
-✔️
-zum Standesamt
+**Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?**
+1. zum Einwohnermeldeamt
+2. zum Ordnungsamt
+3. zur Agentur für Arbeit
+4. ✔️ zum Standesamt
 
 <div dir="rtl">
 
@@ -6894,26 +6343,20 @@ zum Standesamt
 |||
 
 اگر می‌خواهید در آلمان ازدواج کنید، ابتدا باید به کجا مراجعه کنید؟
-
-— اداره ثبت احوال ساکنین
-— اداره نظم عمومی
-— اداره کار
-✔️
-اداره ثبت احوال
+1. اداره ثبت احوال ساکنین
+2. اداره نظم عمومی
+3. اداره کار
+4. ✔️ اداره ثبت احوال
 
 </div>
 
 ## Frage 266
 [ :top: ](#referecnce)
- Wann beginnt die gesetzliche Nachtruhe in Deutschland?
-—
-wenn die Sonne untergeht
-✔️
-um 22 Uhr
-—
-wenn die Nachbarn schlafen gehen
-—
-um 0 Uhr, Mitternacht
+**Wann beginnt die gesetzliche Nachtruhe in Deutschland?**
+1. wenn die Sonne untergeht
+2. ✔️ um 22 Uhr
+3. wenn die Nachbarn schlafen gehen
+4. um 0 Uhr, Mitternacht
 
 <div dir="rtl">
 
@@ -6923,28 +6366,20 @@ um 0 Uhr, Mitternacht
 |||
 
 چه زمانی دوره سکوت قانونی شبانه در آلمان آغاز می‌شود؟
-
-— وقتی خورشید غروب می‌کند
-✔️
-ساعت ۱۰ شب
-
-— وقتی همسایه‌ها به خواب می‌روند
-—
-نیمه شب
+1. وقتی خورشید غروب می‌کند
+2. ✔️ ساعت ۱۰ شب
+3. وقتی همسایه‌ها به خواب می‌روند
+4. نیمه شب
 
 </div>
 
 ## Frage 267
 [ :top: ](#referecnce)
-Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?
-✔️
-Sie müssen die Entscheidung der volljährigen Tochter respektieren.
-—
-Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.
-—
-Sie können zur Polizei gehen und die Tochter anzeigen.
-—
-Sie suchen einen anderen Mann für die Tochter.
+**Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?**
+1. ✔️ Sie müssen die Entscheidung der volljährigen Tochter respektieren.
+2. Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.
+3. Sie können zur Polizei gehen und die Tochter anzeigen.
+4. Sie suchen einen anderen Mann für die Tochter.
 
 <div dir="rtl">
 
@@ -6954,28 +6389,20 @@ Sie suchen einen anderen Mann für die Tochter.
 |||
 
 یک زن جوان ۲۲ ساله در آلمان با دوست پسرش زندگی می‌کند. والدین این زن با این موضوع موافق نیستند زیرا از دوست پسرش خوششان نمی‌آید. والدین چه کاری می‌توانند انجام دهند؟
-✔️
-آنها باید به تصمیم دختر بالغ خود احترام بگذارند.
-
-آنها حق دارند دخترشان را به خانه والدینش برگردانند.
-
-آنها می‌توانند به پلیس مراجعه کرده و از دخترشان شکایت کنند.
-
-آنها به دنبال مرد دیگری برای دخترشان هستند.
+1. ✔️ آنها باید به تصمیم دختر بالغ خود احترام بگذارند.
+2. آنها حق دارند دخترشان را به خانه والدینش برگردانند.
+3. آنها می‌توانند به پلیس مراجعه کرده و از دخترشان شکایت کنند.
+4. آنها به دنبال مرد دیگری برای دخترشان هستند.
 
 </div>
 
 ## Frage 268
 [ :top: ](#referecnce)
-Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?
-—
-Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.
-✔️
-Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.
-—
-Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.
-—
-Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.
+**Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?**
+1. Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.
+2. ✔️ Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.
+3. Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.
+4. Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.
 
 <div dir="rtl">
 
@@ -6985,32 +6412,20 @@ Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.
 |||
 
 زن جوانی می‌خواهد گواهینامه رانندگی خود را بگیرد. او از امتحان می‌ترسد زیرا زبان مادری‌اش آلمانی نیست. کدام گزینه صحیح است؟
-
-
-او باید حداقل ده سال در آلمان زندگی کند تا بتواند گواهینامه رانندگی خود را دریافت کند.
-
-✔️
-او ممکن است بتواند در امتحان تئوری به زبان مادری خود شرکت کند. بیش از ده زبان برای انتخاب وجود دارد.
-
-
-اگر او آلمانی صحبت نکند، اجازه ندارد گواهینامه رانندگی داشته باشد.
-
-
-او باید گواهینامه رانندگی خود را در کشوری که زبان مادری‌اش صحبت می‌شود، دریافت کند.
+1. او باید حداقل ده سال در آلمان زندگی کند تا بتواند گواهینامه رانندگی خود را دریافت کند.
+2. ✔️ او ممکن است بتواند در امتحان تئوری به زبان مادری خود شرکت کند. بیش از ده زبان برای انتخاب وجود دارد.
+3. اگر او آلمانی صحبت نکند، اجازه ندارد گواهینامه رانندگی داشته باشد.
+4. او باید گواهینامه رانندگی خود را در کشوری که زبان مادری‌اش صحبت می‌شود، دریافت کند.
 
 </div>
 
 ## Frage 269
 [ :top: ](#referecnce)
- In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …
-—
-monatliches Taschengeld.
-✔️
-einen Kindergartenplatz.
-—
-einen Platz in einem Sportverein.
-—
-einen Ferienpass.
+**In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …**
+1. monatliches Taschengeld.
+2. ✔️ einen Kindergartenplatz.
+3. einen Platz in einem Sportverein.
+4. einen Ferienpass.
 
 <div dir="rtl">
 
@@ -7020,28 +6435,20 @@ einen Ferienpass.
 |||
 
 در آلمان، کودکان از سه سالگی تا شروع مدرسه حق دارند...
-—
-پول توجیبی ماهانه.
-✔️
-یک جا در مهدکودک.
-—
-یک جا در باشگاه ورزشی.
-—
-کارت تعطیلات.
+1. پول توجیبی ماهانه.
+2. ✔️ یک جا در مهدکودک.
+3. یک جا در باشگاه ورزشی.
+4. کارت تعطیلات.
 
 </div>
 
 ## Frage 270
 [ :top: ](#referecnce)
-Die Volkshochschule in Deutschland ist eine Einrichtung …
-—
-für den Religionsunterricht.
-—
-nur für Jugendliche.
-✔️
-zur Weiterbildung.
-—
-nur für Rentner und Rentnerinnen.
+**Die Volkshochschule in Deutschland ist eine Einrichtung …**
+1. für den Religionsunterricht.
+2. nur für Jugendliche.
+3. ✔️ zur Weiterbildung.
+4. nur für Rentner und Rentnerinnen.
 
 <div dir="rtl">
 
@@ -7051,28 +6458,20 @@ nur für Rentner und Rentnerinnen.
 |||
 
 مرکز آموزش بزرگسالان در آلمان نهادی است...
-—
-برای آموزش مذهبی.
-—
-فقط برای جوانان.
-✔️
-برای ادامه تحصیل.
-—
-فقط برای بازنشستگان.
+1. برای آموزش مذهبی.
+2. فقط برای جوانان.
+3. ✔️ برای ادامه تحصیل.
+4. فقط برای بازنشستگان.
 
 </div>
 
 ## Frage 271
 [ :top: ](#referecnce)
-Was ist in Deutschland ein Brauch zu Weihnachten?
-—
-bunte Eier verstecken
-✔️
-einen Tannenbaum schmücken
-—
-sich mit Masken und Kostümen verkleiden
-—
-Kürbisse vor die Tür stellen
+**Was ist in Deutschland ein Brauch zu Weihnachten?**
+1. bunte Eier verstecken
+2. ✔️ einen Tannenbaum schmücken
+3. sich mit Masken und Kostümen verkleiden
+4. Kürbisse vor die Tür stellen
 
 <div dir="rtl">
 
@@ -7082,28 +6481,20 @@ Kürbisse vor die Tür stellen
 |||
 
 سنت کریسمس در آلمان چیست؟
-
-پنهان کردن تخم مرغ های رنگی
-✔️
-تزئین درخت کریسمس
-
-پوشیدن ماسک و لباس های مبدل
-
-قرار دادن کدو تنبل جلوی در
+1. پنهان کردن تخم مرغ های رنگی
+2. ✔️ تزئین درخت کریسمس
+3. پوشیدن ماسک و لباس های مبدل
+4. قرار دادن کدو تنبل جلوی در
 
 </div>
 
 ## Frage 272
 [ :top: ](#referecnce)
-Welche Lebensform ist in Deutschland nicht erlaubt?
-—
-Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.
-—
-Zwei Frauen leben zusammen.
-—
-Ein allein erziehender Vater lebt mit seinen zwei Kindern zusammen.
-✔️
-Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.
+**Welche Lebensform ist in Deutschland nicht erlaubt?**
+1. Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.
+2. Zwei Frauen leben zusammen.
+3. Ein allein erziehender Vater lebt mit seinen zwei Kindern zusammen.
+4. ✔️ Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.
 
 <div dir="rtl">
 
@@ -7113,33 +6504,20 @@ Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.
 |||
 
 کدام نوع زندگی در آلمان مجاز نیست؟
-
-
-مرد و زنی از هم جدا شده‌اند و با شریک‌های جدید زندگی می‌کنند.
-
-
-دو زن با هم زندگی می‌کنند.
-
-
-یک پدر مجرد با دو فرزندش زندگی می‌کند.
-
-
-✔️
-مردی همزمان با دو زن ازدواج کرده است.
+1. مرد و زنی از هم جدا شده‌اند و با شریک‌های جدید زندگی می‌کنند.
+2. دو زن با هم زندگی می‌کنند.
+3. یک پدر مجرد با دو فرزندش زندگی می‌کند.
+4. ✔️ مردی همزمان با دو زن ازدواج کرده است.
 
 </div>
 
 ## Frage 273
 [ :top: ](#referecnce)
-Bei Erziehungsproblemen gehen Sie in Deutschland …
-—
-zum Arzt / zur Ärztin.
-—
-zum Gesundheitsamt.
-—
-zum Einwohnermeldeamt.
-✔️
-zum Jugendamt.
+**Bei Erziehungsproblemen gehen Sie in Deutschland …**
+1. zum Arzt / zur Ärztin.
+2. zum Gesundheitsamt.
+3. zum Einwohnermeldeamt.
+4. ✔️ zum Jugendamt.
 
 <div dir="rtl">
 
@@ -7149,28 +6527,20 @@ zum Jugendamt.
 |||
 
 اگر در آلمان با فرزندپروری مشکل دارید، به ... مراجعه کنید.
-—
-پزشک.
-—
-اداره بهداشت.
-—
-اداره ثبت احوال.
-✔️
-اداره رفاه جوانان.
+1. پزشک.
+2. اداره بهداشت.
+3. اداره ثبت احوال.
+4. ✔️ اداره رفاه جوانان.
 
 </div>
 
 ## Frage 274
 [ :top: ](#referecnce)
- Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?
-—
-das Schweigerecht
-✔️
-das Briefgeheimnis
-—
-die Schweigepflicht
-—
-die Meinungsfreiheit
+**Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?**
+1. das Schweigerecht
+2. ✔️ das Briefgeheimnis
+3. die Schweigepflicht
+4. die Meinungsfreiheit
 
 <div dir="rtl">
 
@@ -7180,35 +6550,21 @@ die Meinungsfreiheit
 |||
 
 شما عمداً نامه‌ای را که به شخص دیگری در آلمان ارسال شده بود، باز کردید. چه چیزی را رعایت نکردید؟
-
-
-حق سکوت
-✔️
-محرمانه بودن مکاتبات
-
-
-وظیفه محرمانگی
-
-
-آزادی بیان
+1. حق سکوت
+2. ✔️ محرمانه بودن مکاتبات
+3. وظیفه محرمانگی
+4. آزادی بیان
 
 </div>
 
 
 ## Frage 275
 [ :top: ](#referecnce)
-Was braucht man in Deutschland für eine Ehescheidung?
-—
-die Einwilligung der Eltern
-—
-ein Attest eines Arztes / einer Ärztin
-—
-die Einwilligung der Kinder
-✔️
-die Unterstützung eines Anwalts / einer Anwältin1. 
-2.
-3.
-4.
+**Was braucht man in Deutschland für eine Ehescheidung?**
+1. die Einwilligung der Eltern
+2. ein Attest eines Arztes / einer Ärztin
+3. die Einwilligung der Kinder
+4. ✔️ die Unterstützung eines Anwalts / einer Anwältin1. 
 
 <div dir="rtl">
 
@@ -7218,14 +6574,10 @@ die Unterstützung eines Anwalts / einer Anwältin1.
 |||
 
 برای طلاق در آلمان به چه چیزهایی نیاز دارید؟
-
-— رضایت والدین
-—
-گواهی پزشک
-—
-رضایت فرزندان
-✔️
-حمایت وکیل
+1. رضایت والدین
+2. گواهی پزشک
+3. رضایت فرزندان
+4. ✔️ حمایت وکیل
 
 </div>
 
@@ -7233,15 +6585,11 @@ die Unterstützung eines Anwalts / einer Anwältin1.
 
 ## Frage 276
 [ :top: ](#referecnce)
-Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer Ansprechpartnerin in einer deutschen Behörde schlecht behandelt werden?
-—
-Ich kann nichts tun.
-—
-Ich muss mir diese Behandlung gefallen lassen.
-—
-Ich drohe der Person.
-✔️
-Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.
+**Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer Ansprechpartnerin in einer deutschen Behörde schlecht behandelt werden?**
+1. Ich kann nichts tun.
+2. Ich muss mir diese Behandlung gefallen lassen.
+3. Ich drohe der Person.
+4. ✔️ Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.
 
 <div dir="rtl">
 
@@ -7251,32 +6599,20 @@ Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.
 |||
 
 اگر توسط رابط خود در یک سازمان دولتی آلمان مورد بدرفتاری قرار بگیرید، چه باید بکنید؟
-
-—
-من نمی‌توانم کاری انجام دهم.
-
-—
-من باید این رفتار را بپذیرم.
-
-—
-من آن شخص را تهدید می‌کنم.
-
-✔️
-می‌توانم به رئیس سازمان شکایت کنم.
+1. من نمی‌توانم کاری انجام دهم.
+2. من باید این رفتار را بپذیرم.
+3. من آن شخص را تهدید می‌کنم.
+4. ✔️ می‌توانم به رئیس سازمان شکایت کنم.
 
 </div>
 
 ## Frage 277
 [ :top: ](#referecnce)
-Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …
-—
-kein Englisch spricht.
-—
-zu hohe Gehaltsvorstellungen hat.
-—
-keine Erfahrungen in diesem Beruf hat.
-✔️
-Mutter ist.
+**Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …**
+1. kein Englisch spricht.
+2. zu hohe Gehaltsvorstellungen hat.
+3. keine Erfahrungen in diesem Beruf hat.
+4. ✔️ Mutter ist.
 
 <div dir="rtl">
 
@@ -7286,29 +6622,20 @@ Mutter ist.
 |||
 
 زنی با یک فرزند دو ساله برای کار در آلمان درخواست می‌دهد. نمونه‌ای از تبعیض چیست؟ او شغل را به سادگی به دست نمی‌آورد زیرا...
-—
-انگلیسی صحبت نمی‌کند.
-—
-انتظارات حقوق و دستمزد بسیار بالایی دارد.
-—
-هیچ تجربه‌ای در این حرفه ندارد.
-
-✔️
-مادر است.
+1. انگلیسی صحبت نمی‌کند.
+2. انتظارات حقوق و دستمزد بسیار بالایی دارد.
+3. هیچ تجربه‌ای در این حرفه ندارد.
+4. ✔️ مادر است.
 
 </div>
 
 ## Frage 278
 [ :top: ](#referecnce)
-Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …
-✔️
-im Rollstuhl sitzt.
-—
-keine Erfahrung hat.
-—
-zu hohe Gehaltsvorstellungen hat.
-—
-kein Englisch spricht.
+**Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …**
+1. ✔️ im Rollstuhl sitzt.
+2. keine Erfahrung hat.
+3. zu hohe Gehaltsvorstellungen hat.
+4. kein Englisch spricht.
 
 <div dir="rtl">
 
@@ -7318,31 +6645,21 @@ kein Englisch spricht.
 |||
 
 مردی با ویلچر برای شغل حسابداری درخواست داد. نمونه‌ای از تبعیض چیست؟ او صرفاً به این دلیل که...
-✔️
-با ویلچر است، شغل را پیدا نمی‌کند.
-
-—
-هیچ تجربه‌ای ندارد.
-
-
-انتظارات حقوق و دستمزدش خیلی بالاست.
-
-
-انگلیسی صحبت نمی‌کند.
+1. ✔️ با ویلچر است، شغل را پیدا نمی‌کند.
+2. هیچ تجربه‌ای ندارد.
+3. انتظارات حقوق و دستمزدش خیلی بالاست.
+4. انگلیسی صحبت نمی‌کند.
 
 </div>
 
 ## Frage 279
 [ :top: ](#referecnce)
-In den meisten Mietshäusern in Deutschland gibt es eine „Hausordnung“. Was steht in einer solchen „Hausordnung“? Sie nennt …
-—
-Regeln für die Benutzung öffentlicher Verkehrsmittel.
-—
-alle Mieter und Mieterinnen im Haus.
-✔️
-Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.
-—
-die Adresse des nächsten Ordnungsamtes.
+**In den meisten Mietshäusern in Deutschland gibt es eine „Hausordnung“. Was steht in einer solchen „Hausordnung“? Sie nennt …**
+1. Regeln für die Benutzung öffentlicher Verkehrsmittel.
+2. alle Mieter und Mieterinnen im Haus.
+3. ✔️ Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.
+4. die Adresse des nächsten Ordnungsamtes.
+
 <div dir="rtl">
 
 | English | Deutsch | فارسی
@@ -7351,28 +6668,20 @@ die Adresse des nächsten Ordnungsamtes.
 |||
 
 بیشتر آپارتمان‌ها در آلمان قوانینی برای خانه دارند. این قوانین چه چیزی را بیان می‌کنند؟ آنها فهرستی از...
-—
-قوانین استفاده از حمل و نقل عمومی.
-—
-تمام مستاجران ساختمان.
-✔️
-قوانینی که همه ساکنان باید رعایت کنند.
-—
-آدرس نزدیکترین اداره نظم عمومی.
+1. قوانین استفاده از حمل و نقل عمومی.
+2. تمام مستاجران ساختمان.
+3. ✔️ قوانینی که همه ساکنان باید رعایت کنند.
+4. آدرس نزدیکترین اداره نظم عمومی.
 
 </div>
 
 ## Frage 280
 [ :top: ](#referecnce)
-Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …
-—
-nichts machen.
-—
-den Bescheid wegwerfen.
-✔️
-Einspruch einlegen.
-—
-warten, bis ein anderer Bescheid kommt.
+**Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …**
+1. nichts machen.
+2. den Bescheid wegwerfen.
+3. ✔️ Einspruch einlegen.
+4. warten, bis ein anderer Bescheid kommt.
 
 <div dir="rtl">
 
@@ -7382,29 +6691,20 @@ warten, bis ein anderer Bescheid kommt.
 |||
 
 اگر می‌خواهید در آلمان از خود در برابر یک ارزیابی مالیاتی نادرست دفاع کنید، باید...
-—
-هیچ کاری نکنید.
-—
-ارزیابی را دور بیندازید.
-
-✔️
-اعتراض خود را ثبت کنید.
-—
-صبر کنید تا ارزیابی دیگری برسد.
+1. هیچ کاری نکنید.
+2. ارزیابی را دور بیندازید.
+3. ✔️ اعتراض خود را ثبت کنید.
+4. صبر کنید تا ارزیابی دیگری برسد.
 
 </div>
 
 ## Frage 281
 [ :top: ](#referecnce)
-Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …
-—
-Meinungsfreiheit
-✔️
-Gleichbehandlung
-—
-Versammlungsfreiheit
-—
-Freizügigkeit
+**Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …**
+1. Meinungsfreiheit
+2. ✔️ Gleichbehandlung
+3. Versammlungsfreiheit
+4. Freizügigkeit
 
 <div dir="rtl">
 
@@ -7414,28 +6714,20 @@ Freizügigkeit
 |||
 
 دو دوست می‌خواهند در آلمان به استخر عمومی بروند. هر دو پوست تیره‌ای دارند و بنابراین اجازه ورود ندارند. در این شرایط کدام حق نقض می‌شود؟ حق...
-—
-آزادی بیان
-✔️
-رفتار برابر
-—
-آزادی تجمع
-—
-آزادی رفت و آمد
+1. آزادی بیان
+2. ✔️ رفتار برابر
+3. آزادی تجمع
+4. آزادی رفت و آمد
 
 </div>
 
 ## Frage 282
 [ :top: ](#referecnce)
-Welches Ehrenamt müssen deutsche Staatsbürger / Staatsbürgerinnen übernehmen, wenn sie dazu aufgefordert werden?
-—
-Vereinstrainer / Vereinstrainerin
-—
-Bibliotheksaufsicht
-✔️
-Wahlhelfer / Wahlhelferin
-—
-Lehrer / Lehrerin
+**Welches Ehrenamt müssen deutsche Staatsbürger / Staatsbürgerinnen übernehmen, wenn sie dazu aufgefordert werden?**
+1. Vereinstrainer / Vereinstrainerin
+2. Bibliotheksaufsicht
+3. ✔️ Wahlhelfer / Wahlhelferin
+4. Lehrer / Lehrerin
 
 <div dir="rtl">
 
@@ -7445,26 +6737,20 @@ Lehrer / Lehrerin
 |||
 
 شهروندان آلمانی در صورت درخواست، چه کارهای داوطلبانه‌ای را باید انجام دهند؟
-
-— مربی باشگاه
-— سرپرست کتابخانه
-✔️
-کارمند انتخابات
-— معلم
+1. مربی باشگاه
+2. سرپرست کتابخانه
+3. ✔️ کارمند انتخابات
+4. معلم
 
 </div>
 
 ## Frage 283
 [ :top: ](#referecnce)
-Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?
-—
-Ich lasse die Rechnung liegen.
-✔️
-Ich lege Widerspruch bei der Behörde ein.
-—
-Ich schicke die Rechnung an die Behörde zurück.
-—
-Ich gehe mit der Rechnung zum Finanzamt.
+**Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?**
+1. Ich lasse die Rechnung liegen.
+2. ✔️ Ich lege Widerspruch bei der Behörde ein.
+3. Ich schicke die Rechnung an die Behörde zurück.
+4. Ich gehe mit der Rechnung zum Finanzamt.
 
 <div dir="rtl">
 
@@ -7474,32 +6760,20 @@ Ich gehe mit der Rechnung zum Finanzamt.
 |||
 
 اگر از یک سازمان دولتی آلمان فاکتور نادرستی دریافت کنید، چه می‌کنید؟
-
-—
-فاکتور را به حال خود رها می‌کنم.
-
-✔️
-اعتراض خود را به سازمان مربوطه ارائه می‌دهم.
-
-—
-فاکتور را به سازمان مربوطه برمی‌گردانم.
-
-—
-فاکتور را به اداره مالیات تحویل می‌دهم.
+1. فاکتور را به حال خود رها می‌کنم.
+2. ✔️ اعتراض خود را به سازمان مربوطه ارائه می‌دهم.
+3. فاکتور را به سازمان مربوطه برمی‌گردانم.
+4. فاکتور را به اداره مالیات تحویل می‌دهم.
 
 </div>
 
 ## Frage 284
 [ :top: ](#referecnce)
-Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?
-—
-Es ist egal, was man lernt.
-—
-Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.
-✔️
-Erwachsene müssen auch nach der Ausbildung immer weiter lernen.
-—
-Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.
+**Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?**
+1. Es ist egal, was man lernt.
+2. Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.
+3. ✔️ Erwachsene müssen auch nach der Ausbildung immer weiter lernen.
+4. Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.
 
 <div dir="rtl">
 
@@ -7509,32 +6783,20 @@ Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.
 |||
 
 آنچه برای کار باید بدانید در آینده خیلی سریع تغییر خواهد کرد. چه کاری می‌توانید انجام دهید؟
-
-
-مهم نیست چه چیزی یاد می‌گیرید.
-
-
-کودکان هر آنچه را که برای شغل خود نیاز دارند در مدرسه یاد می‌گیرند. نیازی به ادامه یادگیری بعد از مدرسه نیست.
-
-
-بزرگسالان حتی پس از اتمام آموزش خود نیز باید به یادگیری ادامه دهند.
-
-
-همه باید زودتر کار خود را متوقف کنند زیرا همه چیز در حال تغییر است.
+1. مهم نیست چه چیزی یاد می‌گیرید.
+2. کودکان هر آنچه را که برای شغل خود نیاز دارند در مدرسه یاد می‌گیرند. نیازی به ادامه یادگیری بعد از مدرسه نیست.
+3. ✔️ بزرگسالان حتی پس از اتمام آموزش خود نیز باید به یادگیری ادامه دهند.
+4. همه باید زودتر کار خود را متوقف کنند زیرا همه چیز در حال تغییر است.
 
 </div>
 
 ## Frage 285
 [ :top: ](#referecnce)
- Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?
-✔️
-Umsatzsteuer
-—
-Lohnsteuer
-—
-Beiträge zur Arbeitslosenversicherung
-—
-Beiträge zur Renten- und Krankenversicherung
+**Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?**
+1. ✔️ Umsatzsteuer
+2. Lohnsteuer
+3. Beiträge zur Arbeitslosenversicherung
+4. Beiträge zur Renten- und Krankenversicherung
 
 <div dir="rtl">
 
@@ -7544,29 +6806,20 @@ Beiträge zur Renten- und Krankenversicherung
 |||
 
 خانم فراست به عنوان کارمند دائمی در یک اداره کار می‌کند. او چه چیزهایی را از حقوق خود نباید بپردازد؟
-
-✔️
-مالیات فروش
-—
-مالیات بر درآمد
-—
-حق بیمه بیکاری
-—
-حق بیمه بازنشستگی و بیمه سلامت
+1. ✔️ مالیات فروش
+2. مالیات بر درآمد
+3. حق بیمه بیکاری
+4. حق بیمه بازنشستگی و بیمه سلامت
 
 </div>
 
 ## Frage 286
 [ :top: ](#referecnce)
-Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der Arbeitgeberin?
-✔️
-der Betriebsrat
-—
-der Betriebsprüfer / die Betriebsprüferin
-—
-die Betriebsgruppe
-—
-das Betriebsmanagement
+**Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der Arbeitgeberin?**
+1. ✔️ der Betriebsrat
+2. der Betriebsprüfer / die Betriebsprüferin
+3. die Betriebsgruppe
+4. das Betriebsmanagement
 
 <div dir="rtl">
 
@@ -7576,28 +6829,20 @@ das Betriebsmanagement
 |||
 
 کدام سازمان در یک شرکت به کارمندانی که با کارفرمای خود مشکل دارند کمک می‌کند؟
-✔️
-شورای کار
-—
-حسابرس
-—
-گروه شورای کار
-—
-مدیریت شرکت
+1. ✔️ شورای کار
+2. حسابرس
+3. گروه شورای کار
+4. مدیریت شرکت
 
 </div>
 
 ## Frage 287
 [ :top: ](#referecnce)
-Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?
-—
-die Gehaltszahlungen
-—
-die Arbeitszeit
-✔️
-die Kündigungsfrist
-—
-die Versicherungspflicht
+**Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?**
+1. die Gehaltszahlungen
+2. die Arbeitszeit
+3. ✔️ die Kündigungsfrist
+4. die Versicherungspflicht
 
 <div dir="rtl">
 
@@ -7607,32 +6852,20 @@ die Versicherungspflicht
 |||
 
 شما می‌خواهید به همکاری خود با یک شرکت در آلمان پایان دهید. چه مواردی را باید در نظر بگیرید؟
-
-
-پرداخت حقوق
-
-
-ساعات کاری
-
-✔️
-دوره اطلاع رسانی
-
-
-بیمه اجباری
+1. پرداخت حقوق
+2. ساعات کاری
+3. ✔️ دوره اطلاع رسانی
+4. بیمه اجباری
 
 </div>
 
 ## Frage 288
 [ :top: ](#referecnce)
-Woraus begründet sich Deutschlands besondere Verantwortung für Israel?
-—
-aus der Mitgliedschaft in der Europäischen Union (EU)
-✔️
-aus den nationalsozialistischen Verbrechen gegen Juden
-—
-aus dem Grundgesetz der Bundesrepublik Deutschland
-—
-aus der christlichen Tradition
+**Woraus begründet sich Deutschlands besondere Verantwortung für Israel?**
+1. aus der Mitgliedschaft in der Europäischen Union (EU)
+2. ✔️ aus den nationalsozialistischen Verbrechen gegen Juden
+3. aus dem Grundgesetz der Bundesrepublik Deutschland
+4. aus der christlichen Tradition
 
 <div dir="rtl">
 
@@ -7642,28 +6875,20 @@ aus der christlichen Tradition
 |||
 
 مبنای مسئولیت ویژه آلمان در قبال اسرائیل چیست؟
-
-— از عضویت در اتحادیه اروپا (EU)
-✔️
-از جنایات نازی‌ها علیه یهودیان
-—
-از قانون اساسی جمهوری فدرال آلمان
-—
-از سنت مسیحی
+1. از عضویت در اتحادیه اروپا (EU)
+2. ✔️ از جنایات نازی‌ها علیه یهودیان
+3. از قانون اساسی جمهوری فدرال آلمان
+4. از سنت مسیحی
 
 </div>
 
 ## Frage 289
 [ :top: ](#referecnce)
-Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …
-—
-seine Deutschkenntnisse zu gering sind.
-—
-er zu hohe Gehaltsvorstellungen hat.
-✔️
-er eine dunkle Haut hat.
-—
-er keine Erfahrungen im Beruf hat.
+**Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …**
+1. seine Deutschkenntnisse zu gering sind.
+2. er zu hohe Gehaltsvorstellungen hat.
+3. ✔️ er eine dunkle Haut hat.
+4. er keine Erfahrungen im Beruf hat.
 
 <div dir="rtl">
 
@@ -7673,29 +6898,20 @@ er keine Erfahrungen im Beruf hat.
 |||
 
 مردی با پوست تیره برای شغل گارسونی در رستورانی در آلمان درخواست می‌دهد. نمونه‌ای از تبعیض چیست؟ او شغل را به دست نمی‌آورد زیرا...
-—
-مهارت‌های آلمانی او خیلی ضعیف است.
-—
-انتظارات حقوق او خیلی بالاست.
-
-✔️
-او پوست تیره‌ای دارد.
-—
-او هیچ تجربه حرفه‌ای ندارد.
+1. مهارت‌های آلمانی او خیلی ضعیف است.
+2. انتظارات حقوق او خیلی بالاست.
+3. ✔️ او پوست تیره‌ای دارد.
+4. او هیچ تجربه حرفه‌ای ندارد.
 
 </div>
 
 ## Frage 290
 [ :top: ](#referecnce)
-Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?
-—
-eine Anzeige schreiben
-✔️
-den Fernseher reklamieren
-—
-das Gerät ungefragt austauschen
-—
-die Garantie verlängern
+**Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?**
+1. eine Anzeige schreiben
+2. ✔️ den Fernseher reklamieren
+3. das Gerät ungefragt austauschen
+4. die Garantie verlängern
 
 <div dir="rtl">
 
@@ -7705,31 +6921,20 @@ die Garantie verlängern
 |||
 
 شما یک تلویزیون در آلمان خریده‌اید. آن را در خانه از بسته‌بندی خارج می‌کنید، اما کار نمی‌کند. تلویزیون خراب است. چه کاری می‌توانید انجام دهید؟
-
-—
-شکایت ثبت کنید
-✔️
-تلویزیون را برگردانید
-
-—
-دستگاه را بدون درخواست تعویض کنید
-
-
-گارانتی را تمدید کنید
+1. شکایت ثبت کنید
+2. ✔️ تلویزیون را برگردانید
+3. دستگاه را بدون درخواست تعویض کنید
+4. گارانتی را تمدید کنید
 
 </div>
 
 ## Frage 291
 [ :top: ](#referecnce)
-Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …
-—
-das für die Statistik in Deutschland wichtig ist.
-✔️
-es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.
-—
-man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.
-—
-die Kirche für die Steuererklärung verantwortlich ist.
+**Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …**
+1. das für die Statistik in Deutschland wichtig ist.
+2. ✔️ es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.
+3. man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.
+4. die Kirche für die Steuererklärung verantwortlich ist.
 
 <div dir="rtl">
 
@@ -7739,29 +6944,20 @@ die Kirche für die Steuererklärung verantwortlich ist.
 |||
 
 چرا باید در اظهارنامه مالیاتی خود در آلمان ذکر کنید که عضو کلیسا هستید یا خیر؟ زیرا...
-—
-این برای آمار آلمان مهم است.
-
-✔️
-مالیات کلیسا به مالیات بر درآمد و دستمزد مرتبط است.
-—
-اگر عضو کلیسا نباشید، باید مالیات بیشتری بپردازید.
-—
-کلیسا مسئول اظهارنامه مالیاتی شماست.
+1. این برای آمار آلمان مهم است.
+2. ✔️ مالیات کلیسا به مالیات بر درآمد و دستمزد مرتبط است.
+3. اگر عضو کلیسا نباشید، باید مالیات بیشتری بپردازید.
+4. کلیسا مسئول اظهارنامه مالیاتی شماست.
 
 </div>
 
 ## Frage 292
 [ :top: ](#referecnce)
-Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?
-—
-Es dürfen keine Moscheen gebaut werden.
-—
-Alle Menschen glauben an Gott.
-✔️
-Jeder kann glauben, was er möchte.
-—
-Der Staat entscheidet, an welchen Gott die Menschen glauben.
+**Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?**
+1. Es dürfen keine Moscheen gebaut werden.
+2. Alle Menschen glauben an Gott.
+3. ✔️ Jeder kann glauben, was er möchte.
+4. Der Staat entscheidet, an welchen Gott die Menschen glauben.
 
 <div dir="rtl">
 
@@ -7771,33 +6967,21 @@ Der Staat entscheidet, an welchen Gott die Menschen glauben.
 |||
 
 مردم در آلمان بر اساس اصل تساهل مذهبی زندگی می‌کنند. این به چه معناست؟
-
-
-هیچ مسجدی نمی‌تواند ساخته شود.
-
-
-همه مردم به خدا اعتقاد دارند.
-
-
-✔️ هر کسی می‌تواند به هر چه می‌خواهد ایمان داشته باشد.
-
-
-دولت تصمیم می‌گیرد که مردم به کدام خدا اعتقاد دارند.
+1. هیچ مسجدی نمی‌تواند ساخته شود.
+2. همه مردم به خدا اعتقاد دارند.
+3. ✔️ هر کسی می‌تواند به هر چه می‌خواهد ایمان داشته باشد.
+4. دولت تصمیم می‌گیرد که مردم به کدام خدا اعتقاد دارند.
 
 </div>
 
 
 ## Frage 293
 [ :top: ](#referecnce)
-Was ist in Deutschland ein Brauch an Ostern?
-—
-Kürbisse vor die Tür stellen
-—
-einen Tannenbaum schmücken
-✔️
-Eier bemalen
-—
-Raketen in die Luft schießen
+**Was ist in Deutschland ein Brauch an Ostern?**
+1. Kürbisse vor die Tür stellen
+2. einen Tannenbaum schmücken
+3. ✔️ Eier bemalen
+4. Raketen in die Luft schießen
 
 <div dir="rtl">
 
@@ -7807,18 +6991,10 @@ Raketen in die Luft schießen
 |||
 
 سنت عید پاک در آلمان چیست؟
-
-
-گذاشتن کدو تنبل بیرون از خانه
-
-
-تزئین درخت کریسمس
-
-
-رنگ آمیزی تخم مرغ
-
-
-پرتاب موشک به هوا
+1. گذاشتن کدو تنبل بیرون از خانه
+2. تزئین درخت کریسمس
+3. ✔️ رنگ آمیزی تخم مرغ
+4. پرتاب موشک به هوا
 
 </div>
 
@@ -7826,15 +7002,11 @@ Raketen in die Luft schießen
 
 ## Frage 294
 [ :top: ](#referecnce)
-Pfingsten ist ein …
-✔️
-christlicher Feiertag.
-—
-deutscher Gedenktag.
-—
-internationaler Trauertag.
-—
-bayerischer Brauch.
+**Pfingsten ist ein …**
+1. ✔️ christlicher Feiertag.
+2. deutscher Gedenktag.
+3. internationaler Trauertag.
+4. bayerischer Brauch.
 
 <div dir="rtl">
 
@@ -7844,28 +7016,20 @@ bayerischer Brauch.
 |||
 
 پنطیکاست یک...
-✔️
-تعطیلات مسیحی.
-—
-روز یادبود آلمانی.
-—
-روز جهانی سوگواری.
-—
-رسم باواریایی.
+1. ✔️ تعطیلات مسیحی.
+2. روز یادبود آلمانی.
+3. روز جهانی سوگواری.
+4. رسم باواریایی.
 
 </div>
 
 ## Frage 295
 [ :top: ](#referecnce)
-Welche Religion hat die europäische und deutsche Kultur geprägt?
-—
-der Hinduismus
-✔️
-das Christentum
-—
-der Buddhismus
-—
-der Islam
+**Welche Religion hat die europäische und deutsche Kultur geprägt?**
+1. der Hinduismus
+2. ✔️ das Christentum
+3. der Buddhismus
+4. der Islam
 
 <div dir="rtl">
 
@@ -7875,28 +7039,20 @@ der Islam
 |||
 
 کدام دین فرهنگ اروپایی و آلمانی را شکل داده است؟
-—
-هندوئیسم
-✔️
-مسیحیت
-—
-بودیسم
-—
-اسلام
+1. هندوئیسم
+2. ✔️ مسیحیت
+3. بودیسم
+4. اسلام
 
 </div>
 
 ## Frage 296
 [ :top: ](#referecnce)
-In Deutschland nennt man die letzten vier Wochen vor Weihnachten …
-—
-den Buß- und Bettag.
-—
-das Erntedankfest.
-✔️
-die Adventszeit.
-—
-Allerheiligen.
+**In Deutschland nennt man die letzten vier Wochen vor Weihnachten …**
+1. den Buß- und Bettag.
+2. das Erntedankfest.
+3. ✔️ die Adventszeit.
+4. Allerheiligen.
 
 <div dir="rtl">
 
@@ -7906,28 +7062,20 @@ Allerheiligen.
 |||
 
 در آلمان، چهار هفته آخر قبل از کریسمس...
-—
-روز توبه و دعا.
-—
-شکرگزاری.
-✔️
-ظهور.
-—
-روز همه مقدسین.
+1. روز توبه و دعا.
+2. شکرگزاری.
+3. ✔️ ظهور.
+4. روز همه مقدسین.
 
 </div>
 
 ## Frage 297
 [ :top: ](#referecnce)
-Aus welchem Land sind die meisten Migranten / Migrantinnen nach Deutschland gekommen?
-—
-Italien
-—
-Polen
-—
-Marokko
-✔️
-Türkei
+**Aus welchem Land sind die meisten Migranten / Migrantinnen nach Deutschland gekommen?**
+1. Italien
+2. Polen
+3. Marokko
+4. ✔️ Türkei
 
 <div dir="rtl">
 
@@ -7937,28 +7085,20 @@ Türkei
 |||
 
 بیشترین مهاجران از کدام کشور به آلمان آمده‌اند؟
-
-ایتالیا
-
-لهستان
-
-مراکش
-✔️
-ترکیه
+1. ایتالیا
+2. لهستان
+3. مراکش 
+4. ✔️ ترکیه
 
 </div>
 
 ## Frage 298
 [ :top: ](#referecnce)
-In der DDR lebten vor allem Migranten aus …
-✔️
-Vietnam, Polen, Mosambik.
-—
-Frankreich, Rumänien, Somalia.
-—
-Chile, Ungarn, Simbabwe.
-—
-Nordkorea, Mexiko, Ägypten.
+**In der DDR lebten vor allem Migranten aus …**
+1. ✔️ Vietnam, Polen, Mosambik.
+2. Frankreich, Rumänien, Somalia.
+3. Chile, Ungarn, Simbabwe.
+4. Nordkorea, Mexiko, Ägypten.
 
 <div dir="rtl">
 
@@ -7968,28 +7108,20 @@ Nordkorea, Mexiko, Ägypten.
 |||
 
 مهاجران از...
-✔️
-ویتنام، لهستان، موزامبیک.
-
-فرانسه، رومانی، سومالی.
-
-شیلی، مجارستان، زیمبابوه.
-
-کره شمالی، مکزیک، مصر.
+1. ✔️ ویتنام، لهستان، موزامبیک.
+2. فرانسه، رومانی، سومالی.
+3. شیلی، مجارستان، زیمبابوه.
+4. کره شمالی، مکزیک، مصر.
 
 </div>
 
 ## Frage 299
 [ :top: ](#referecnce)
-Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …
-—
-Schwarzarbeiter / Schwarzarbeiterinnen
-✔️
-Gastarbeiter / Gastarbeiterinnen
-—
-Zeitarbeiter / Zeitarbeiterinnen
-—
-Schichtarbeiter / Schichtarbeiterinnen
+**Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …**
+1. Schwarzarbeiter / Schwarzarbeiterinnen
+2. ✔️ Gastarbeiter / Gastarbeiterinnen
+3. Zeitarbeiter / Zeitarbeiterinnen
+4. Schichtarbeiter / Schichtarbeiterinnen
 
 <div dir="rtl">
 
@@ -7999,28 +7131,20 @@ Schichtarbeiter / Schichtarbeiterinnen
 |||
 
 کارگران خارجی که در دهه‌های ۱۹۵۰ و ۱۹۶۰ توسط جمهوری فدرال آلمان استخدام شدند، کارگران موقت نامیده می‌شدند...
-—
-کارگران اعلام نشده
-✔️
-کارگران مهمان
-—
-کارگران موقت
-—
-کارگران شیفتی
+1. کارگران اعلام نشده
+2. ✔️ کارگران مهمان
+3. کارگران موقت
+4. کارگران شیفتی
 
 </div>
 
 ## Frage 300
 [ :top: ](#referecnce)
-Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen nach Deutschland?
-✔️
-Italien
-—
-Spanien
-—
-Portugal
-—
-Türkei
+**Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen nach Deutschland?**
+1. ✔️ Italien
+2. Spanien
+3. Portugal
+4. Türkei
 
 <div dir="rtl">
 
@@ -8030,14 +7154,10 @@ Türkei
 |||
 
 اولین کارگران مهمان از کدام کشور به آلمان آمدند؟
-✔️
-ایتالیا
-—
-اسپانیا
-—
-پرتغال
-—
-ترکیه
+1. ✔️ ایتالیا
+2. اسپانیا
+3. پرتغال
+4. ترکیه
 
 </div>
 
@@ -8047,14 +7167,10 @@ Türkei
 
 ![Frage_301](./Pictures/Frage_301.png)
 
-—
-1
-✔️
-2
-—
-3
-—
-4
+1. 1
+2. ✔️ 2
+3. 3
+4. 4
 
 <div dir="rtl">
 
@@ -8064,28 +7180,20 @@ Türkei
 |||
 
 کدام نشان ملی متعلق به ایالت آزاد بایرن است؟
-—
-1
-✔️
-2
-—
-3
-—
-4
+1. 1
+2. ✔️ 2
+3. 3
+4. 4
 
 </div>
 
 ## Frage 302
 [ :top: ](#referecnce)
-Welches ist ein Landkreis in Bayern?
-—
-Prignitz
-—
-Rhein-Sieg-Kreis
-—
-Nordfriesland
-✔️
-Altötting
+**Welches ist ein Landkreis in Bayern?**
+1. Prignitz
+2. Rhein-Sieg-Kreis
+3. Nordfriesland
+4. ✔️ Altötting
 
 <div dir="rtl">
 
@@ -8095,28 +7203,20 @@ Altötting
 |||
 
 کدام ناحیه یک ناحیه در بایرن است؟
--
-پریگنیتز
--
-منطقه راین-زیگ
--
-فریزیای شمالی
-✔️
-آلتوتینگ
+1. پریگنیتز
+2. منطقه راین-زیگ
+3. فریزیای شمالی
+4. ✔️ آلتوتینگ
 
 </div>
 
 ## Frage 303
 [ :top: ](#referecnce)
- Für wie viele Jahre wird der Landtag in Bayern gewählt?
-—
-3
-—
-4
-✔️
-5
-—
-6
+**Für wie viele Jahre wird der Landtag in Bayern gewählt?**
+1. 3
+2. 4
+3. ✔️ 5
+4. 6
 
 <div dir="rtl">
 
@@ -8126,29 +7226,20 @@ Altötting
 |||
 
 پارلمان ایالت بایرن برای چند سال انتخاب می‌شود؟
-
-—
-3
-—
-4
-✔️
-5
-—
-6
+1. 3
+2. 4
+3. ✔️ 5
+4. 6
 
 </div>
 
 ## Frage 304
 [ :top: ](#referecnce)
-Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?
-—
-14
-—
-16
-✔️
-18
-—
-20
+**Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?**
+1. 14
+2. 16
+3. ✔️ 18
+4. 20
 
 <div dir="rtl">
 
@@ -8158,26 +7249,20 @@ Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?
 |||
 
 از چه سنی می‌توان در انتخابات محلی بایرن رأی داد؟
-
-— ۱۴
-— ۱۶
-✔️
-۱۸
-— ۲۰
+1. ۱۴
+2. ۱۶
+3. ✔️ ۱۸
+4. ۲۰
 
 </div>
 
 ## Frage 305
 [ :top: ](#referecnce)
-Welche Farben hat die Landesflagge von Bayern?
-—
-blau-weiß-rot
-✔️
-weiß-blau
-—
-grün-weiß-rot
-—
-schwarz-gelb
+**Welche Farben hat die Landesflagge von Bayern?**
+1. blau-weiß-rot
+2. ✔️ weiß-blau
+3. grün-weiß-rot
+4. schwarz-gelb
 
 <div dir="rtl">
 
@@ -8187,29 +7272,20 @@ schwarz-gelb
 |||
 
 رنگ‌های پرچم ایالت باواریا چیست؟
-
-—
-آبی-سفید-قرمز
-✔️
-سفید-آبی
-—
-سبز-سفید-قرمز
-—
-مشکی-زرد
+1. آبی-سفید-قرمز
+2. ✔️ سفید-آبی
+3. سبز-سفید-قرمز
+4. مشکی-زرد
 
 </div>
 
 ## Frage 306
 [ :top: ](#referecnce)
-Wo können Sie sich in Bayern über politische Themen informieren?
-—
-beim Ordnungsamt der Gemeinde
-✔️
-bei der Landeszentrale für politische Bildung
-—
-bei der Verbraucherzentrale
-—
-bei den Kirchen
+**Wo können Sie sich in Bayern über politische Themen informieren?**
+1. beim Ordnungsamt der Gemeinde
+2. ✔️ bei der Landeszentrale für politische Bildung
+3. bei der Verbraucherzentrale
+4. bei den Kirchen
 
 <div dir="rtl">
 
@@ -8219,26 +7295,20 @@ bei den Kirchen
 |||
 
 از کجا می‌توانید در مورد مسائل سیاسی در بایرن اطلاعات کسب کنید؟
-
-— در اداره نظم عمومی محلی
-✔️
-در مرکز ایالتی آموزش سیاسی
-— در مرکز مشاوره مصرف‌کنندگان
-— در کلیساها
+1. در اداره نظم عمومی محلی
+2. ✔️ در مرکز ایالتی آموزش سیاسی
+3. در مرکز مشاوره مصرف‌کنندگان
+4. در کلیساها
 
 </div>
 
 ## Frage 307
 [ :top: ](#referecnce)
-Die Landeshauptstadt von Bayern heißt ...
-—
-Ingolstadt.
-—
-Regensburg.
-—
-Nürnberg.
-✔️
-München.
+**Die Landeshauptstadt von Bayern heißt ...**
+1. Ingolstadt.
+2. Regensburg.
+3. Nürnberg.
+4. ✔️ München.
 
 <div dir="rtl">
 
@@ -8248,14 +7318,10 @@ München.
 |||
 
 پایتخت ایالت بایرن ...
-—
-اینگولشتات.
-—
-رگنسبورگ.
-—
-نورنبرگ.
-✔️
-مونیخ.
+1. اینگولشتات.
+2. رگنسبورگ.
+3. نورنبرگ.
+4. ✔️ مونیخ.
 
 </div>
 
@@ -8265,14 +7331,10 @@ München.
 
 ![Frage_308](./Pictures/Frage_308.png)
 
-—
-1
-—
-2
-—
-3
-✔️
-4
+1. 1
+2. 2
+3. 3
+4. ✔️ 4
 
 <div dir="rtl">
 
@@ -8282,28 +7344,20 @@ München.
 |||
 
 بایرن کدام ایالت فدرال است؟
-—
-1
-—
-2
-—
-3
-✔️
-4
+1. 1
+2. 2
+3. 3
+4. ✔️ 4
 
 </div>
 
 ## Frage 309
 [ :top: ](#referecnce)
-Wie nennt man den Regierungschef / die Regierungschefin in Bayern?
-—
-Erster Minister / Erste Ministerin
-—
-Premierminister / Premierministerin
-—
-Bürgermeister / Bürgermeisterin
-✔️
-Ministerpräsident / Ministerpräsidentin
+**Wie nennt man den Regierungschef / die Regierungschefin in Bayern?**
+1. Erster Minister / Erste Ministerin
+2. Premierminister / Premierministerin
+3. Bürgermeister / Bürgermeisterin
+4. ✔️ Ministerpräsident / Ministerpräsidentin
 
 <div dir="rtl">
 
@@ -8313,26 +7367,20 @@ Ministerpräsident / Ministerpräsidentin
 |||
 
 نام رئیس دولت در بایرن چیست؟
-
-— وزیر اول
-— نخست وزیر
-— شهردار
-✔️
-نخست وزیر
+1. وزیر اول
+2. نخست وزیر
+3. شهردار
+4. ✔️ نخست وزیر
 
 </div>
 
 ## Frage 310
 [ :top: ](#referecnce)
-Welchen Minister / welche Ministerin hat Bayern nicht?
-—
-Justizminister / Justizministerin
-✔️
-Außenminister / Außenministerin
-—
-Finanzminister / Finanzministerin
-—
-Innenminister / Innenministerin
+**Welchen Minister / welche Ministerin hat Bayern nicht?**
+1. Justizminister / Justizministerin
+2. ✔️ Außenminister / Außenministerin
+3. Finanzminister / Finanzministerin
+4. Innenminister / Innenministerin
 
 <div dir="rtl">
 
@@ -8342,13 +7390,9 @@ Innenminister / Innenministerin
 |||
 
 بایرن کدام وزیر را ندارد؟
-
-وزیر دادگستری
-✔️
-وزیر امور خارجه
-
-وزیر دارایی
-
-وزیر کشور
+1. وزیر دادگستری
+2. ✔️ وزیر امور خارجه
+3. وزیر دارایی
+4. وزیر کشور
 
 </div>
